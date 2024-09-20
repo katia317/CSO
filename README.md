@@ -1,4 +1,4 @@
-# CSO Dictionary by KYang
+# Terminology Dictionary by KYang
 ### Created for reference only
 
 ### Jump to:
