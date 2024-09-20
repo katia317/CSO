@@ -21,16 +21,16 @@ Illinois' comprehensive health insurance program for children. The program cover
 Alzheimer's Disease and related disorders are one type of dementia. 
 
 ## Appeal Rights
-1. The acquisition of behaviors necessary for the individual to function with as much self-determination and independence as possible. 2. The determination that the individual does or does not require active treatment related to the disability. 
+If you have been denied eligibility, services, or have been terminated, suspended, or received a reduction of waiver-funded services, you have the right to ask that this decision be reconsidered.
 
-## Appeals Process (PAS)
+## Appeals Process of PAS
 Due process by which an individual may have the following determinations made during the Pre-Admission Screening process reviewed at another level.
 
 ## Audiologist
 Professional who specializes in non-medical evaluation and rehabilitation or hearing disorders, usually not a physician, and licensed under the Illinois Speech-LanguagePathology and Audiology Practice Act. (225 ILCS 110/1 et seq.)
 
 ## Assessment
-1. The determination that the individual does or does not require 24-hour nursing care.
+An assessment is a test or evaluation completed by a professional qualified in an area of expertise. Assessments help accurately determine your levels of independence or supports needed to ensure your safety and well-being.
 
 ## B
 ## Brain Stem Level Functioning
@@ -38,9 +38,9 @@ The individual is unable to control any part of or function of a bodily part fro
 
 ## C
 ## Cerebral Palsy (CP)
-脑性麻痹,脑性瘫痪. A physical condition involving permanent tightening of the muscles that is caused by damage to the brain around or before the time of birth
+A physical condition involving permanent tightening of the muscles that is caused by damage to the brain around or before the time of birth (in Chinese: 脑性麻痹,脑性瘫痪). 
 
-## Centers for Medicare and Medicaid Services  (CMS)
+## Centers for Medicare and Medicaid Services (CMS)
 A federal agency that administers the nation’s major healthcare programs, including Medicare, Medicaid, and the Children’s Health Insurance Program (CHIP).
 
 ## Children's Support Waiver
@@ -65,7 +65,7 @@ The care involved and the gradual return to health after an acute illness. To be
 ## Dementia
 A condition that is characterized by impairment in short-term or long-term memory, and one or more of the following: impairment in abstract thinking, judgement, higher cortical functions such as disturbances in language (aphasia), the completion of complex motor activities (apraxia), or the inability to recognize familiar objects (agnosis), or significant personality change.
 
-## Determination Process (PAS)
+## Determination Process of PAS
 The final phase in the PAS process. Based on the completed assessments, determinations are made on the individual's need for 24-hour nursing care and the need for active treatment related to the disability. The need for 24-hour nursing care and active treatment, along with the individual's age and level of disability, establish the options available to the individual for alternative residential support services. If warrented, the DD PAS agency will refer an individual to the local MHPAS agency for determination of the need for psychiatric rehabilitation services.
 
 ## Dual Sensory Impairment
