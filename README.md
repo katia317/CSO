@@ -8,12 +8,12 @@
 
 ## A
 ## Adaptive Equipment (53E)
-*__Note__: This service is available in all three waiver programs.*
-Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), includes performance of assessments to identify the type of equipment needed by the individual; devices, controls or appliances that enable individuals to increase their abilities to perform activities of daily living, or to perceive, control, access or communicate with the environment in which they live; other durable medical equipment not available under the Medicaid State Plan that is necessary to address individual functional limitations; and necessary initial training from the vendor to use the adaptive equipment.
-It may also include necessary maintenance and repairs to adaptive equipment. Items reimbursed with Waiver funds are in addition to any medical equipment and supplies furnished under the Medicaid State Plan and exclude those items that are not of direct remedial benefit to the individual. All items shall meet applicable standards of manufacture, design, and installation.
-Some examples of covered adaptive equipment include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.
-Some examples of items that are not covered under adaptive equipment are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens and other general appliances.
-Medical equipment and supplies are not considered adaptive equipment.
+*__Note__: This service is available in all three waiver programs.*  
+Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), includes performance of assessments to identify the type of equipment needed by the individual; devices, controls or appliances that enable individuals to increase their abilities to perform activities of daily living, or to perceive, control, access or communicate with the environment in which they live; other durable medical equipment not available under the Medicaid State Plan that is necessary to address individual functional limitations; and necessary initial training from the vendor to use the adaptive equipment.  
+It may also include necessary maintenance and repairs to adaptive equipment. Items reimbursed with Waiver funds are in addition to any medical equipment and supplies furnished under the Medicaid State Plan and exclude those items that are not of direct remedial benefit to the individual. All items shall meet applicable standards of manufacture, design, and installation.  
+- Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
+- Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens and other general appliances.
+- *Medical equipment and supplies are not considered adaptive equipment.*
   
 ## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
@@ -37,7 +37,7 @@ The practical, everyday skills that individuals need to function effectively and
 
 ## Adult Day Care (ADC) (35U)
 Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
-Adult day care services are generally furnished four or more hours per day on a regularly scheduled basis for one or more days per week, or as specified in the Personal Plan, in a non-institutional, community-based setting, encompassing both health and social services needed to ensure the optimal functioning of the individual. Meals provided as part of these services shall not constitute a "full nutritional regimen" (three meals per day).
+Adult day care services are generally furnished four or more hours per day on a regularly scheduled basis for one or more days per week, or as specified in the [Personal Plan](#personal-plan-pp), in a non-institutional, community-based setting, encompassing both health and social services needed to ensure the optimal functioning of the individual. Meals provided as part of these services shall not constitute a "full nutritional regimen" (three meals per day).
 Transportation between the individual's place of residence and the adult day care center is provided as a component part of adult day care services. The cost of this transportation is included in the rate paid to providers of adult day care.
 ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging.
   See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
@@ -76,7 +76,7 @@ Behavior intervention and treatment includes a variety of individualized, behavi
 - The approach is tailored to address the individual's specific behavioral needs.
 - Targeted skills are broken into small attainable tasks.
 - Direct support staff, unpaid caregiver and family training are key components so skills can be generalized, and communication promoted, especially in the areas of prevention, intervention and stabilization.
-- Services must be directly related to the individual's therapeutic goals contained in the Personal Plan and, if applicable, coordinated with the individual's Individual Education Plan (IEP).
+- Services must be directly related to the individual's therapeutic goals contained in the [Personal Plan](#personal-plan-pp) and, if applicable, coordinated with the individual's Individual Education Plan (IEP).
 - Progress is closely monitored with detailed data collection  
 [See *VI. Waiver Activities and Services/E. Professional Services* for More details](https://www.dhs.state.il.us/page.aspx?item=144898)
 
@@ -147,7 +147,7 @@ These homes have on-site shift staff available during all times when individuals
   - **Comprehensive Host Family**: may house either full or part-time paid care giver(s) in which individuals other than shift staff employees provide more than 50% of the residential coverage. The individual(s), care giver(s) or provider agency own, lease or rent the residence.
     *The difference between Standard and Comprehensive models is shift employees routinely share supervision, care and training responsibilities with the host family care giver(s) in the Comprehensive model.*
 - **Intermittent CILA (61H, 62H or 63H)**
-Typically serves individuals whose Personal Plan documents they do not require 24-hour, on-site staff presence and documents the situations in which individuals may safely be away from direct staff supervision. 24-hour, on-site staffing is not funded through Intermittent CILA. Intermittent Residential services in apartments or family homes have staff available on call 24 hours per day. On-call staff are available to provide both scheduled and unscheduled supports and services as needed by the individuals served and as specified in each individual's Personal Plan. 
+Typically serves individuals whose Personal Plan documents they do not require 24-hour, on-site staff presence and documents the situations in which individuals may safely be away from direct staff supervision. 24-hour, on-site staffing is not funded through Intermittent CILA. Intermittent Residential services in apartments or family homes have staff available on call 24 hours per day. On-call staff are available to provide both scheduled and unscheduled supports and services as needed by the individuals served and as specified in each individual's [Personal Plan](#personal-plan-pp).  
 
 ## Community Living Facility (CLF)
 Serves Adult Waiver participants in a licensed residential setting. A Community Living Facility is not a nursing or medical facility and, to be eligible under the waiver, serves no more than 16 adults. There are 9 CLFs in the state.
@@ -259,7 +259,7 @@ The first phase of the PAS process, documented on the OBRA-1 form.  If as a res
 The single Illinois state Medicaid agency that oversees waiver programs including the three Developmental Disability Waivers: the Adult Waiver, the Children's Residential Waiver, and the Children's Support Waiver.
 
 ## Implementation Strategy
-A document, created by service providers or the Employer of Record, that describes how your service providers will support the outcomes and needs documented in your Personal Plan. This is a part of the Person-Centered Planning process.
+A document, created by service providers or the Employer of Record, that describes how your service providers will support the outcomes and needs documented in your [Personal Plan](#personal-plan-pp). This is a part of the Person-Centered Planning process.
 
 ## Independent Service Coordination Agency (ISC)
 As the case management entity, ISCs maintain the DDD's waiting list, determine clinical eligibility, assist with identifying providers of choice, develop the Personal Plan, and monitor the implementation of the Plan. ISCs serve as the front line for information and assistance to help individuals and families make informed choices and to navigate the system. The Division currently funds 8 ISC agencies in 12 regions across the state.
@@ -324,7 +324,7 @@ A bill, first enacted in 1987, to improve the quality of care in nursing homes f
 
 ## P
 ## Person Centered Planning (PCP)
-A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: Discovery Tool, Personal Plan, and Implementation Strategies.
+A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: Discovery Tool, [Personal Plan](#personal-plan-pp), and Implementation Strategies.
 
 ## Personal Plan (PP)
 A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
