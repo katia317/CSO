@@ -105,16 +105,17 @@ The PC-based system designed to be used for collecting and submitting required d
 
 ## Community Integrated Living Arrangement (CILA)  
 A living arrangement provided to Adult Waiver individuals in a group home, family home or apartment where eight or fewer unrelated adults with developmental disabilities reside under supervision of the community developmental services agency. Residents receive a comprehensive individualized array of residential habilitation, personal support services and supports under the direction of a community support team within the local agency.  
+  
 *Three CILA models are defined below:*
-- Twenty-Four Hour CILA (60D)
+- **Twenty-Four Hour CILA (60D)**
 These homes have on-site shift staff available during all times when individuals are present. Staff provide both scheduled and unscheduled supports and services as needed by individuals.
-- Host Family CILA (60D)
+- **Host Family CILA (60D)**
   Host Family CILA serves individuals with developmental disabilities in their own residence. Host families consist of one or more persons who are unrelated to the individual with a developmental disability and who are under contract with the provider agency to provide host family services. No more than two individuals with developmental disabilities may reside with any single host family.
   The two support models are:
-  - Standard Host Family: a residence where the paid care giver(s) live on a full-time basis. Either the paid care giver(s) or individual served own, lease or rent the residence.
-  - Comprehensive Host Family: may house either full or part-time paid care giver(s) in which individuals other than shift staff employees provide more than 50% of the residential coverage. The individual(s), care giver(s) or provider agency own, lease or rent the residence.
+  - **Standard Host Family**: a residence where the paid care giver(s) live on a full-time basis. Either the paid care giver(s) or individual served own, lease or rent the residence.
+  - **Comprehensive Host Family**: may house either full or part-time paid care giver(s) in which individuals other than shift staff employees provide more than 50% of the residential coverage. The individual(s), care giver(s) or provider agency own, lease or rent the residence.
     *The difference between Standard and Comprehensive models is shift employees routinely share supervision, care and training responsibilities with the host family care giver(s) in the Comprehensive model.*
-- Intermittent CILA (61H, 62H or 63H)
+- **Intermittent CILA (61H, 62H or 63H)**
 Typically serves individuals whose Personal Plan documents they do not require 24-hour, on-site staff presence and documents the situations in which individuals may safely be away from direct staff supervision. 24-hour, on-site staffing is not funded through Intermittent CILA. Intermittent Residential services in apartments or family homes have staff available on call 24 hours per day. On-call staff are available to provide both scheduled and unscheduled supports and services as needed by the individuals served and as specified in each individual's Personal Plan. 
 
 ## Community Living Facility (CLF)
@@ -164,13 +165,10 @@ A Division within the Department of Human Services that serves as the state's le
 ## E
 ## Enhanced Residential (formerly At-Home) Day Program (37U)
 Enhanced Residential Day Program is part of the residential habilitation program for Adult Waiver individuals and based in the individual's CILA home. Enhanced Residential Day Program provides a structured, individualized program of in-home and community habilitation activities for individuals who are unable to participate in traditional, out-of-home community day service programs because the individual:
-Has an illness or medical condition(s) or severe maladaptive behavior(s) that prevent participation in a vocational or day habilitation programing;
-Is over the age of 60 and declines to participate in traditional, out-of-home day habilitation programing;
-Is unable to locate a traditional community day service program to serve him/her or the community day service program is not appropriate to meet his/her needs;
-Has chosen not to participate in traditional day habilitation services on a full or part-time basis.
-Because individuals receiving this service require supports not able to be met in a traditional CDS program, the staffing ratio for this service can vary between 1:1 and 1:3, support staff to participant. The amount of authorized support is identified on the rate determination form.
-Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
-Enhanced Residential Day Program requires prior approval. See X. Service Authorization and Prior Approval for prior approval requirements for Enhanced Residential Day Program.
+- Has an illness or medical condition(s) or severe maladaptive behavior(s) that prevent participation in a vocational or day habilitation programing;
+- Is over the age of 60 and declines to participate in traditional, out-of-home day habilitation programing;
+- Is unable to locate a traditional community day service program to serve him/her or the community day service program is not appropriate to meet his/her needs;
+- Has chosen not to participate in traditional day habilitation services on a full or part-time basis.  Because individuals receiving this service require supports not able to be met in a traditional CDS program, the staffing ratio for this service can vary between 1:1 and 1:3, support staff to participant. The amount of authorized support is identified on the rate determination form.  Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.  Enhanced Residential Day Program requires prior approval. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Enhanced Residential Day Program.
 
 ## Epilepsy
 A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. (Epilepsy in Chinese: 癫痫)
