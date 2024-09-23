@@ -294,8 +294,9 @@ For modifications to agency owned CILA sites, please see the [CILA User Guide](h
 - Widening of doorways/hallways (may include minimally necessary floor covering to cover the new floor area).
 - Specialized accessibility/safety adaptations/additions including grab bars; necessary handrails beyond those normally required by building codes; lowered or adaptive door handles; adapted fire alarms, sprinklers, smoke detectors, and doorbells; automatic door openers/doorbells/ voice-activated, light-activated, motion-activated and electronically activated devices; fire safety adaptations; and electrical wiring associated with the above.
 
-Excluded are those adaptations or improvements to the home that are of general utility. 
+Excluded are those adaptations or improvements to the home that are of general utility.  
 **Examples of items NOT considered to be covered home modifications** include:
+  
 - Cosmetic refurbishment
 - Items that add value to the home
 - Roof repair
@@ -312,7 +313,7 @@ The HCBS Waivers fund services that prevent or delay living in a long-term care 
 
 ## I
 ## Inventory for Client and Agency Planning (ICAP)
-A comprehensive, structured instrument designed to assess the status, adaptive functioning, and service needs of clients (Examiner s’ Manual, 1986)
+The Inventory for Client and Agency Planning is an assessment tool to determine level of need and funding allocations for certain services. The ICAP is composed of 77 items related to an individual's adaptive behavior and 24 items related to problem behaviors, plus additional items that compile diagnostic information. The ICAP must be administered by a [Qualified Intellectual Disability Professional (QIDP)](#qualified-intellectually-disability-professional-qidp) six months prior to the date on the DDPAS-2, Part II3. The ICAP is not a substitute for the adaptive functioning assessment required in a psychological evaluation3.
 
 ## Identification Screen; the Level 1 Screen (ID Screen)
 The first phase of the PAS process, documented on the OBRA-1 form.  If as a result of the Level I Screen, it appears that an individual may have a developmental disability or a severe mental illness, the individual is referred for further assessment and determination.
@@ -344,12 +345,9 @@ A facility which provides basic nursing care and other restorative services unde
 ## Intermediate Care Facility for Individuals with a Developmental Disability (ICF/DD)
 A facility of 3 or more individuals, or a distinct part of an ICF, which provides active treatment to individuals who have a developmental disability, and can provide a nursing facility level of care. These facilities are licensed by IDPH as ICFs/DD and are certified for Medicaid participation by HFS. When ICF/DD is used in this Manual, it includes intermediate care facilities for individuals with a developmental disability with a capacity of 16 or fewer individuals (ICF/DD-16) and Specialized Living Centers (SLCs).
 
-## Inventory for Client and Agency Planning (ICAP)
-An instrument that assesses adaptive and maladaptive behavior and gathers additional information to determine the type and amount of special assistance that people with disabilities may need. Created to be used for determining eligibility, planning services, evaluating, reporting progress, and for use in funding reports.
-
 ## L
 ## Long-Term Care Facility for Individuals under age 22
-Commonly known as skilled nursing facility for pediatric residents (SNF/PED), it is a facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
+Commonly known as [skilled nursing facility for pediatric residents (SNF/PED)](#skilled-nursing-facility-for-pediatric-residents-snfped), it is a facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
 
 ## M
 ## Medicaid (Title XIX)
