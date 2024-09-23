@@ -372,9 +372,19 @@ An agreement completed between you and each service provider which defines the t
 A written document between you and an independently hired PSW outlining the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. Service Authorizations must be updated if there is a change in service and copies of the revised Service Authorization must be sent to the Fiscal/Employer Agent (F/EA). If you pay for Self-Direction Assistance (SDA) services, your SDA assist you or do this for you. If you do not use SDA services, you must do this yourself. F/EA, ACCES$, can help to support you if you have questions.
 
 ## Supported Employment Program (SEP) (33G, 36G, or 36U)
-The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.
-Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.
-*Supported Employment Program activities may include, but are not limited to:*
+The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.  
+Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.  
+Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.  
+All individuals approved for the Home and Community Based Support (HCBS) Waiver for Adults with Developmental Disabilities may access the Supported Employment Program with prior approval. Requests will only be considered for individuals who meet the following criteria:  
+1. enrolled in the Adults with Developmental Disabilities HCBS Waiver; and
+2. require supportive services to work in an integrated employment environment; and
+3. have a defined, related and ongoing/long term employment support need identified in his or her Personal Plan (Career and Income section); and
+4. currently employed, either individually or in group employment, at competitive wages and in an integrated setting; and
+5. supported within the proper ratio.
+   Requests to activate Supported Employment Program funding must follow the Division of Developmental Disabilities' prior approval process.
+The expected outcome of the Supported Employment Program is sustained Competitive Integrated Employment that is well matched to the individuals' interests, strengths, priorities, schedules and preferences as outlined in the Personal Plan, Implementation Strategies and related documentation such as Individualized Plans for Employment and Individual Placement Plans.
+
+*__Supported Employment Program activities may include, but are not limited to:__*
  - onsite job coaching / training / supervision
  - assistance in maintaining employer training requirements
  - support during performance evaluations or in resolving on the job concerns
@@ -383,7 +393,17 @@ Employment environments must meet the requirements of the HCBS Settings rule and
  - assistance in seeking a transfer or promotion
  - assistance in seeking accommodations or adaptations
  - assistance in maintaining self-employment through operation of a personal business
-
+   
+*__The Supported Employment Program does not include support, services or payments for:__*
+  - sheltered work or subminimum wage activities
+  - unpaid vocational training, volunteerism or general soft skill employment curriculum delivery
+  - work that occurs in non-integrated settings
+  - employment that in any way does not meet the standard of Competitive Integrated Employment
+  - work activities that unnaturally isolate or segregate individuals with disabilities from the broader community
+  - defraying the expenses associated with starting up or operating a business
+  - supervisory activities rendered as a normal part of the business setting
+  - stand-by time when employment support personnel are not actively engaged in supports.  
+  
 ## T
 ## Temporary or Long-Term Intensive Staffing (53D or 53R)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
@@ -391,11 +411,14 @@ Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver indi
 ## V
 ## Virtual Day Service (VDS) (31V)
 A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
-Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.
+Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
 *The following are examples of VDS Programming:*
 - Activities related to the development of hobbies or leisure/cultural interests or to promote personal health and wellness (e.g. yoga class, meditation group, etc.).
 - Activities related to training and education for self-determination and self-advocacy.
 - Activities that encourage interaction among individuals who do not reside together.
 - Activities that encourage discussion of current events.
 - Activities that encourage exploration of the individual's community.
+**Service Limits:**
+- VDS hours are included in the annual maximum of 1,200 hours, monthly maximum of 115, and 5 hour daily maximum for any combination of day programs.
+- VDS is limited to 45 hours per month and 520 hours per year.
 
