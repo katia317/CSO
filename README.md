@@ -10,21 +10,21 @@
 ## Adaptive skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
 - ### *Categories of Adaptive Skills:*
-  - *1. Communication Skills*: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
+  - *Communication Skills*: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
     - Examples: Talking, listening, following instructions, writing.
-  - *2. Social Skills*: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
+  - *Social Skills*: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
     - Examples: Sharing, taking turns, problem-solving, making friends, handling conflict.
-  - *3. Self-Care Skills*: Basic tasks related to personal hygiene, health, and grooming.
+  - *Self-Care Skills*: Basic tasks related to personal hygiene, health, and grooming.
     - Examples: Dressing, bathing, brushing teeth, toileting.
-  - *4. Home Living Skills*: Abilities needed to manage a household and perform daily domestic activities.
+  - *Home Living Skills*: Abilities needed to manage a household and perform daily domestic activities.
     - Examples: Cooking, cleaning, laundry, managing household chores.
-  - *5. Work Skills*: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.
+  - *Work Skills*: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.
     - Examples: Punctuality, completing tasks, following instructions, teamwork.
-  - *6. Leisure Skills*: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.
+  - *Leisure Skills*: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.
     - Examples: Playing games, participating in sports, crafting, reading.
-  - *7. Health and Safety Skills*: Knowledge and actions that ensure personal well-being and safety in various environments.
+  - *Health and Safety Skills*: Knowledge and actions that ensure personal well-being and safety in various environments.
     - Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.
-  - *8. Functional Academics*: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
+  - *Functional Academics*: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
     - Examples: Telling time, counting change, reading a menu or instructions.
 
 ## Adult Protective Service (APS)
