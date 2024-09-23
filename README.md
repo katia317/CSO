@@ -31,7 +31,8 @@ The practical, everyday skills that individuals need to function effectively and
 Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
 Adult day care services are generally furnished four or more hours per day on a regularly scheduled basis for one or more days per week, or as specified in the Personal Plan, in a non-institutional, community-based setting, encompassing both health and social services needed to ensure the optimal functioning of the individual. Meals provided as part of these services shall not constitute a "full nutritional regimen" (three meals per day).
 Transportation between the individual's place of residence and the adult day care center is provided as a component part of adult day care services. The cost of this transportation is included in the rate paid to providers of adult day care.
-ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
+ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging.
+  See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
 
 ## Adult Protective Service (APS)
 A program within the Illinois Department on Aging that investigates abuse, neglect, or financial exploitation of adults age 60 or older and adults age 18-59 with disabilities living in the community.
@@ -68,7 +69,7 @@ Behavior intervention and treatment includes a variety of individualized, behavi
 - Targeted skills are broken into small attainable tasks.
 - Direct support staff, unpaid caregiver and family training are key components so skills can be generalized, and communication promoted, especially in the areas of prevention, intervention and stabilization.
 - Services must be directly related to the individual's therapeutic goals contained in the Personal Plan and, if applicable, coordinated with the individual's Individual Education Plan (IEP).
-- Progress is closely monitored with detailed data collection
+- Progress is closely monitored with detailed data collection  
 [See *VI. Waiver Activities and Services/E. Professional Services* for More details](https://www.dhs.state.il.us/page.aspx?item=144898)
 
 ## Brain Stem Level Functioning
@@ -102,8 +103,19 @@ CDS (31C and 31U) takes place in a non-residential setting, separate from the in
 ## Community Reporting System (CRS)
 The PC-based system designed to be used for collecting and submitting required data to the Department of Human Services (DHS) by those community providers who have contracted with the Department to provide services for individuals.
 
-## Community Integrated Living Arrangement (CILA)
-Flexible service arrangement for individuals with a developmental disability that focuses on the service needs of the individual in his or her home or a community setting where eight or fewer individuals with disabilities live together.  CILAs are licensed by the State. 
+## Community Integrated Living Arrangement (CILA)  
+A living arrangement provided to Adult Waiver individuals in a group home, family home or apartment where eight or fewer unrelated adults with developmental disabilities reside under supervision of the community developmental services agency. Residents receive a comprehensive individualized array of residential habilitation, personal support services and supports under the direction of a community support team within the local agency.  
+*Three CILA models are defined below:*
+- Twenty-Four Hour CILA (60D)
+These homes have on-site shift staff available during all times when individuals are present. Staff provide both scheduled and unscheduled supports and services as needed by individuals.
+- Host Family CILA (60D)
+  Host Family CILA serves individuals with developmental disabilities in their own residence. Host families consist of one or more persons who are unrelated to the individual with a developmental disability and who are under contract with the provider agency to provide host family services. No more than two individuals with developmental disabilities may reside with any single host family.
+  The two support models are:
+  - Standard Host Family: a residence where the paid care giver(s) live on a full-time basis. Either the paid care giver(s) or individual served own, lease or rent the residence.
+  - Comprehensive Host Family: may house either full or part-time paid care giver(s) in which individuals other than shift staff employees provide more than 50% of the residential coverage. The individual(s), care giver(s) or provider agency own, lease or rent the residence.
+    *The difference between Standard and Comprehensive models is shift employees routinely share supervision, care and training responsibilities with the host family care giver(s) in the Comprehensive model.*
+- Intermittent CILA (61H, 62H or 63H)
+Typically serves individuals whose Personal Plan documents they do not require 24-hour, on-site staff presence and documents the situations in which individuals may safely be away from direct staff supervision. 24-hour, on-site staffing is not funded through Intermittent CILA. Intermittent Residential services in apartments or family homes have staff available on call 24 hours per day. On-call staff are available to provide both scheduled and unscheduled supports and services as needed by the individuals served and as specified in each individual's Personal Plan. 
 
 ## Community Living Facility (CLF)
 Serves Adult Waiver participants in a licensed residential setting. A Community Living Facility is not a nursing or medical facility and, to be eligible under the waiver, serves no more than 16 adults. There are 9 CLFs in the state.
