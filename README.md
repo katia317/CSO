@@ -3,7 +3,7 @@
 
 ### Jump to:
 [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  
-[H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p) 
+[H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p)  
 [Q](#q)  [R](#r)  [S](#s)  [T](#t)  [V](#v)
 
 ## A
@@ -26,6 +26,12 @@ The practical, everyday skills that individuals need to function effectively and
     - *Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.*
   - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
     - *Examples: Telling time, counting change, reading a menu or instructions.*
+
+## Adult Day Care (ADC) (35U)
+Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
+Adult day care services are generally furnished four or more hours per day on a regularly scheduled basis for one or more days per week, or as specified in the Personal Plan, in a non-institutional, community-based setting, encompassing both health and social services needed to ensure the optimal functioning of the individual. Meals provided as part of these services shall not constitute a "full nutritional regimen" (three meals per day).
+Transportation between the individual's place of residence and the adult day care center is provided as a component part of adult day care services. The cost of this transportation is included in the rate paid to providers of adult day care.
+ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging. See [X. Service Authorization and Prior Approval] (https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
 
 ## Adult Protective Service (APS)
 A program within the Illinois Department on Aging that investigates abuse, neglect, or financial exploitation of adults age 60 or older and adults age 18-59 with disabilities living in the community.
