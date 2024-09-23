@@ -261,7 +261,7 @@ Enhanced Residential Day Program is part of the residential habilitation program
   
 ## Emergency Home Response Services (55W)
 *__Note__: This service is available __only__ in the Adult Waiver Program.*
-This service is available within the monthly maximum to individuals who are authorized for Home-Based Support Services (HBS) within the Adult Waiver.
+This service is available within the monthly maximum to individuals who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs) within the Adult Waiver.
   
 Emergency Home Response Services are limited to adults who live alone, or who are alone for significant parts of the day and have no regular caregiver for extended periods of time, and who would otherwise require extensive routine supervision.
   
@@ -391,7 +391,7 @@ An entity within the Department of Human Services/Division of Family & Community
 ## N
 ## Nursing (55N and 55P)
 *__Note__: This service is available only in the Adult Waiver Program.*  
-Nursing services are available within the monthly maximum to Adult DD Waiver individuals who are authorized for Home-Based Support Services (HBS). Nursing services are in addition to any Medicaid State Plan nursing services for which the individual may qualify, must be listed in the personal plan, and be within the scope of the [Illinois Nursing and Advanced Practice Nursing Act (225 ILSC 65)](https://law.justia.com/codes/illinois/chapter-225/act-225-ilcs-65/article-65/).
+Nursing services are available within the monthly maximum to Adult DD Waiver individuals who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs). Nursing services are in addition to any Medicaid State Plan nursing services for which the individual may qualify, must be listed in the personal plan, and be within the scope of the [Illinois Nursing and Advanced Practice Nursing Act (225 ILSC 65)](https://law.justia.com/codes/illinois/chapter-225/act-225-ilcs-65/article-65/).
   
 ## Nursing Facility (NF)
  A long-term care setting that provides a level of nursing care for people who have a disability, are infirm or in need of convalescence.  It is licensed by the IDPH and certified for participation in Medicaid by IDPA. NF refers only to ICF or SNF, not ICF/DD, ICF/DD-16, or SNF/PED.
@@ -422,7 +422,7 @@ Personal Plan is required for **all individuals** in a DD Waiver program.
   
 ## Personal Support (PS) (55D)
 *__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
-This service is available within the monthly maximum for individuals in the Adult Waiver and monthly and yearly maximum for all individuals in the Children's Support Waiver who are authorized for Home-Based support Services (HBS).
+This service is available within the monthly maximum for individuals in the Adult Waiver and monthly and yearly maximum for all individuals in the Children's Support Waiver who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs).
 The Waiver affords individuals the opportunity to direct their services through employer authority and budget authority. The individual exercises choice and control over the personal support workers who provide services. Individuals and/or their guardians, if applicable, exercise decision-making authority and management responsibility for their budgets. Within the overall cost limit, the individuals determine the type and amount of services to be purchased and establish rates for their personal support workers.  
 
 <details>
@@ -580,7 +580,7 @@ A comprehensive assessment of adaptive and maladaptive behavior used to determin
 ## Self-Direction Assistance (SDA) (55A)
 *__Note__: This service is available to individuals in the Children's Support Waiver and Adult Waiver Programs. The acronym SDA is used to describe the service (Self-Direction Assistance) as well as the provider agency staff (Self-Direction Assistant).*  
 Self-Direction Assistance is a waiver service provided by a Self-Direction Assistant (SDA).  
-Self-Direction Assistance assists the individual, guardian, if applicable, and/or family in arranging for, directing and managing Home Based Support services. It also offers practical skills training to enable individuals, guardian, if applicable, and/or families to independently direct and manage Waiver services. SDA includes providing information to ensure individuals understand the responsibilities involved with directing their services. SDA can assist the Employer of Record (EOR) with the process of timekeeping for PSWs, but they can't replace the responsibility of the EOR. In other words, the EOR must complete and sign the timesheets of the individual's PSW(s) and the SDA can review for accuracy and completion, but the SDA can't complete the timesheets on behalf of the EOR. Additionally, the SDA can't sign the timesheet in place of the EOR. If an SDA provider is also a PSW provider agency, the SDA provider can't provide the same services as the PSW provider agency. In this scenario, the SDA should not be assisting the individual, guardian, if applicable, and/or family with arranging for and directing PSW services because the PSW agency is already completing this process. SDA is only available to those in the Home-Based Supports and Services (HBS) program and should not duplicate the services provided by the ISC.
+Self-Direction Assistance assists the individual, guardian, if applicable, and/or family in arranging for, directing and managing Home Based Support services. It also offers practical skills training to enable individuals, guardian, if applicable, and/or families to independently direct and manage Waiver services. SDA includes providing information to ensure individuals understand the responsibilities involved with directing their services. SDA can assist the Employer of Record (EOR) with the process of timekeeping for PSWs, but they can't replace the responsibility of the EOR. In other words, the EOR must complete and sign the timesheets of the individual's PSW(s) and the SDA can review for accuracy and completion, but the SDA can't complete the timesheets on behalf of the EOR. Additionally, the SDA can't sign the timesheet in place of the EOR. If an SDA provider is also a PSW provider agency, the SDA provider can't provide the same services as the PSW provider agency. In this scenario, the SDA should not be assisting the individual, guardian, if applicable, and/or family with arranging for and directing PSW services because the PSW agency is already completing this process. SDA is only available to those in the [Home-Based Support Services (HBS)](#the-home-based-services-hbs) program and should not duplicate the services provided by the ISC.
   
 SDA is an optional service, meaning individuals, guardians, if applicable, and/or families are not required to purchase this support. Provider agency staff fulfilling the role of the SDA are required to be Qualified Intellectual Disability Professionals (QIDPs). SDAs do not have a mandated set of services they are required to provide. If an individual, guardian, if applicable, and/or family desires or needs the support of an SDA, this must be documented in the Personal Plan, including the amount and frequency of services. The details of what SDAs provide to an individual, guardian, if applicable, and/or family must be based on the desired outcomes as well as the needs of the individual reflected in the Personal Plan. Services provided and billed must be within the description outlined in XII. Waiver Activity and Service Billing Guidance. All billable services must be agreed upon by the individual, guardian, if applicable, and/or family, as well as the SDA.
   
@@ -611,7 +611,7 @@ A professional who is licensed or registered with the Illinois Department of Fin
 A State entity authorized to serve as guardian for individuals who have a developmental disability (as well as for other individuals) and who require a guardian to address their personal, medical, residential, and/or financial service needs
 
 ## Service Agreement
-An agreement completed between you and each service provider which defines the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. A unit is equal to a 15-minute period. Use the Home-Based Support Services (HBS) Service Agreement form [IL462-2029] (pdf) which is also found in Appendix E of this handbook to do this.
+An agreement completed between you and each service provider which defines the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. A unit is equal to a 15-minute period. Use the Home-Based Support Services (HBS) Service Agreement form [IL462-2029](https://www.dhs.state.il.us/onenetlibrary/12/documents/Forms/IL462-2029.pdf) to do this.
 
 ## Service Authorization
 A written document between you and an independently hired PSW outlining the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. Service Authorizations must be updated if there is a change in service and copies of the revised Service Authorization must be sent to the Fiscal/Employer Agent (F/EA). If you pay for Self-Direction Assistance (SDA) services, your SDA assist you or do this for you. If you do not use SDA services, you must do this yourself. F/EA, ACCES$, can help to support you if you have questions.
@@ -656,7 +656,7 @@ The expected outcome of the Supported Employment Program is sustained Competitiv
 ## T
 ## Temporary Assistance (TA) (53C)
 *__Note__: This service is available in the Children's Support Waiver and Adult Waiver Programs.*
-For the Adult Waiver, this service is available to individuals who are authorized for Home-Based Support Services (HBS). The cost of these services is not counted toward the monthly maximum. This service is limited to __no more than 60 consecutive days__.  
+For the Adult Waiver, this service is available to individuals who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs). The cost of these services is not counted toward the monthly maximum. This service is limited to __no more than 60 consecutive days__.  
 - Temporary Assistance is provided on a temporary emergency basis because of the absence or incapacity of the person(s) who normally provide unpaid care.
 - Absence or incapacity of the primary caregivers must be due to a temporary cause such as hospitalization, illness, injury, or other emergency situations.
 - Temporary Assistance is not available for caregiver absences for vacations, educational or employment-related reasons, or other non-emergency reasons.
@@ -669,7 +669,7 @@ Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver indi
 
 ## Training and Counseling Services for Unpaid Caregivers (55B and 55C)
 *__Note__: These services are available in the Children's Support Waiver and Adult Waiver Programs.*
-These services are available within the monthly and yearly maximum to all Children's Support Waiver individuals and to Adult Waiver individuals who are authorized for Home-Based Support Services (HBS).  
+These services are available within the monthly and yearly maximum to all Children's Support Waiver individuals and to Adult Waiver individuals who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs).  
 - This service includes training and counseling services for individuals who provide unpaid support, training, companionship, or supervision to individuals.  
 - For purposes of this service, an individual is defined as any person, family member, neighbor, friend, companion, or co-worker who provides uncompensated care, training, guidance, companionship or support to an individual served in the Waiver. This service may not be provided to train paid caregivers.
 - Training includes instruction about treatment regimens and other services included in the Personal Plan, use of equipment specified in the Personal Plan, and includes updates as necessary to safely maintain the individual at home. Counseling must be aimed at assisting the unpaid caregiver in meeting the needs of the individual. All training for individuals who provide unpaid support to the individual must be included in the individual's Personal Plan.
