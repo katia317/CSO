@@ -4,7 +4,7 @@
 ### Jump to:
 [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  
 [H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p) 
-[Q](#q)  [R](#r)  [S](#s)  [T](#t)
+[Q](#q)  [R](#r)  [S](#s)  [T](#t)  [V](#v)
 
 ## A
 ## Adaptive skills 
@@ -65,11 +65,23 @@ A physical condition involving permanent tightening of the muscles that is cause
 ## Centers for Medicare and Medicaid Services (CMS)
 A federal agency that administers the nation’s major healthcare programs, including Medicare, Medicaid, and the Children’s Health Insurance Program (CHIP).
 
+## Child Group Home (17D)
+Available to Children's Residential Waiver individuals and is a residential program licensed by the Department of Children and Family Services (DCFS) to serve no more than 10 children per group home. Child Group Home services are individually tailored supports that assist with the acquisition, retention, or improvement in skills related to living in the community. Child Group Homes are designed to provide a structured environment and a range of habilitative and therapeutic services to children and adolescents who cannot reside in their own home.
+
 ## Children's Support Waiver
 Provides Home-Based services and supports to children and young adults with developmental disabilities ages 3 through 21 who live in their family home. Children and young adults ages 3 to 21 can be in the Children's Support Waiver. They have an ANNUAL budget that is 2 times Supplemental Security Income (SSI). Individuals are able to use up to 4 times the monthly allotment of SSI in a month. The money that is not used in a month carries over until the end of the calendar year. For example, effective January 1, 2022, the monthly Individual Budget is $1,682 per month. For individuals in the Children's Support Waiver who choose to flex their spending, the monthly maximum will be $3,364. This means that if you did not spend your full allotment in some earlier months of the year, you can spend more than your monthly allotment in some later months of the year as long as you do not go above the annual spending limit. Said another way, if your spending exceeds your monthly allotment up in some of the early months, you will need to cut back on your spending in later months to meet your annual allotment limit. Money unspent at the end of the calendar year cannot be accessed in the next year. The annual maximum is $20,184. DDD releases an information bulletin each year with the new funding amounts.
 
 ## Comatose
 An abnormally deep stupor occurring in illness or due to an injury. The individual cannot be aroused by external stimuli.
+
+## Competitive Integrated Employment (CIE)
+Competitive Integrated Employment is work that is performed on a full-time or part-time basis, including self-employment, for which an individual is compensated at or above minimum wage and not less than the customary rate paid by the employer for the same or similar work performed by other similarly situated employees who are not individuals with disabilities.
+CIE includes equitable access to benefits and advancement opportunities. In order for employment to meet this threshold, individuals with disabilities must be eligible for the level of benefits and have opportunities for advancement that are similar to those for other employees who are not individuals with disabilities and who have similar positions.
+CIE can only occur at integrated locations where employees with disabilities interact with other persons who are not individuals with disabilities (co-workers, supervisors, customers, general public) to the same extent as employees who are not individuals with disabilities and who are in comparable positions. Interaction must extend beyond job coaches or others who are associated with the provision of supports. Competitive Integrated Employment may occur in settings with a natural absence of customers or the general public such as work that occurs at a community business after traditional hours. As long as non-disabled workers in similar positions would have an equitable experience, the work could be considered integrated.
+
+## Community Day Services (CDS) (31C or 31U)
+A day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
+CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).
 
 ## Community Reporting System (CRS)
 The PC-based system designed to be used for collecting and submitting required data to the Department of Human Services (DHS) by those community providers who have contracted with the Department to provide services for individuals.
@@ -122,8 +134,19 @@ A Division within the Department of Human Services that serves at the State's Me
 A Division within the Department of Human Services that serves as the state's lead entity responsible for assisting individuals with disabilities to prepare for, locate and maintain employment. This Division also ensures that people with disabilities make informed choices to achieve full community participation through employment, education, and independent living opportunities.
 
 ## E
+
+## Enhanced Residential (formerly At-Home) Day Program (37U)
+Enhanced Residential Day Program is part of the residential habilitation program for Adult Waiver individuals and based in the individual's CILA home. Enhanced Residential Day Program provides a structured, individualized program of in-home and community habilitation activities for individuals who are unable to participate in traditional, out-of-home community day service programs because the individual:
+Has an illness or medical condition(s) or severe maladaptive behavior(s) that prevent participation in a vocational or day habilitation programing;
+Is over the age of 60 and declines to participate in traditional, out-of-home day habilitation programing;
+Is unable to locate a traditional community day service program to serve him/her or the community day service program is not appropriate to meet his/her needs;
+Has chosen not to participate in traditional day habilitation services on a full or part-time basis.
+Because individuals receiving this service require supports not able to be met in a traditional CDS program, the staffing ratio for this service can vary between 1:1 and 1:3, support staff to participant. The amount of authorized support is identified on the rate determination form.
+Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
+Enhanced Residential Day Program requires prior approval. See X. Service Authorization and Prior Approval for prior approval requirements for Enhanced Residential Day Program.
+
 ## Epilepsy
-A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. 癫痫
+A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. (Epilepsy in Chinese: 癫痫)
 
 ## Employer of Record (EOR)
 The individual receiving HBS and/or legal representative, family or close associate who is responsible for overseeing the services outlined in the monthly budget, signing Service Authorizations, and signing PSW time sheets. The Employer of Record is responsible for hiring, training, ensuring competency, supervising, and firing PSWs. Per the Internal Revenue Service, the same person cannot be both Employer of Record and a PSW hired by the family.
@@ -297,8 +320,25 @@ An agreement completed between you and each service provider which defines the t
 ## Service Authorization
 A written document between you and an independently hired PSW outlining the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. Service Authorizations must be updated if there is a change in service and copies of the revised Service Authorization must be sent to the Fiscal/Employer Agent (F/EA). If you pay for Self-Direction Assistance (SDA) services, your SDA assist you or do this for you. If you do not use SDA services, you must do this yourself. F/EA, ACCES$, can help to support you if you have questions.
 
-## T
+## Supported Employment Program (SEP) (33G, 36G, or 36U)
+The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.
+Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.
+*Supported Employment Program activities may include, but are not limited to:*
+ - onsite job coaching / training / supervision
+ - assistance in maintaining employer training requirements
+ - support during performance evaluations or in resolving on the job concerns
+ - facilitated problem solving
+ - assistance in learning, or improving performance on, existing or new responsibilities
+ - assistance in seeking a transfer or promotion
+ - assistance in seeking accommodations or adaptations
+ - assistance in maintaining self-employment through operation of a personal business
 
+## T
 ## Temporary or Long-Term Intensive Staffing (53D or 53R)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
+
+## V
+## Virtual Day Service (VDS) (31V)
+A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.
+Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.
 
