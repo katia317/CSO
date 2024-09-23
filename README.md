@@ -7,6 +7,26 @@
 [Q](#q)  [R](#r)  [S](#s)
 
 ## A
+## Adaptive skills 
+The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
+Categories of Adaptive Skills:
+### Communication Skills: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
+Examples: Talking, listening, following instructions, writing.
+### Social Skills: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
+Examples: Sharing, taking turns, problem-solving, making friends, handling conflict.
+### Self-Care Skills: Basic tasks related to personal hygiene, health, and grooming.
+Examples: Dressing, bathing, brushing teeth, toileting.
+### Home Living Skills: Abilities needed to manage a household and perform daily domestic activities.
+Examples: Cooking, cleaning, laundry, managing household chores.
+### Work Skills: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.
+Examples: Punctuality, completing tasks, following instructions, teamwork.
+### Leisure Skills: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.
+Examples: Playing games, participating in sports, crafting, reading.
+### Health and Safety Skills: Knowledge and actions that ensure personal well-being and safety in various environments.
+Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.
+### Functional Academics: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
+Examples: Telling time, counting change, reading a menu or instructions.
+
 ## Adult Protective Service (APS)
 A program within the Illinois Department on Aging that investigates abuse, neglect, or financial exploitation of adults age 60 or older and adults age 18-59 with disabilities living in the community.
 
