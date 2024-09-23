@@ -31,7 +31,7 @@ The practical, everyday skills that individuals need to function effectively and
 Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
 Adult day care services are generally furnished four or more hours per day on a regularly scheduled basis for one or more days per week, or as specified in the Personal Plan, in a non-institutional, community-based setting, encompassing both health and social services needed to ensure the optimal functioning of the individual. Meals provided as part of these services shall not constitute a "full nutritional regimen" (three meals per day).
 Transportation between the individual's place of residence and the adult day care center is provided as a component part of adult day care services. The cost of this transportation is included in the rate paid to providers of adult day care.
-ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging. See [X. Service Authorization and Prior Approval] (https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
+ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
 
 ## Adult Protective Service (APS)
 A program within the Illinois Department on Aging that investigates abuse, neglect, or financial exploitation of adults age 60 or older and adults age 18-59 with disabilities living in the community.
@@ -61,6 +61,16 @@ Professional who specializes in non-medical evaluation and rehabilitation or hea
 An assessment is a test or evaluation completed by a professional qualified in an area of expertise. Assessments help accurately determine your levels of independence or supports needed to ensure your safety and well-being.
 
 ## B
+## Behavior Intervention and Treatment (56U)
+*__Note__: This service is available in all three Waiver Programs.*
+Behavior intervention and treatment includes a variety of individualized, behaviorally based treatment models consistent with best practice and research on effectiveness directly related to the individual's therapeutic goals.
+- The approach is tailored to address the individual's specific behavioral needs.
+- Targeted skills are broken into small attainable tasks.
+- Direct support staff, unpaid caregiver and family training are key components so skills can be generalized, and communication promoted, especially in the areas of prevention, intervention and stabilization.
+- Services must be directly related to the individual's therapeutic goals contained in the Personal Plan and, if applicable, coordinated with the individual's Individual Education Plan (IEP).
+- Progress is closely monitored with detailed data collection
+[See *VI. Waiver Activities and Services/E. Professional Services* for More details](https://www.dhs.state.il.us/page.aspx?item=144898)
+
 ## Brain Stem Level Functioning
 The individual is unable to control any part of or function of a bodily part from below the bottom of the brain stem. The individual may or may not have control of his or her respiratory system.
 
