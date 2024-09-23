@@ -542,10 +542,10 @@ The former name for the Illinois Department of Healthcare and Family Services. 
 The State agency in Illinois responsible, among other things, for the licensure of long-term care facilities such as ICFs, ICFs/DD, SNFs, SNFs/PED, and Sheltered Care facilities.
 
 ## [PUNS for Persons with Developmental Disabilities (PUNS)](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc7)
-PUNS is a database that registers individuals who want or need DDD Waiver services. People that are interested in receiving services through an ICF/DD should work with the ISC agency to explore potential ICF/DD providers. Individuals can still seek placement on PUNS while exploring ICF/DDs. At the time of enrollment into the database, the ISC must explain all service options available to the person. ISCs can use the Illinois PUNS Form - Enrollment Tool. 
-
+PUNS is a database that registers individuals who want or need DDD Waiver services. People that are interested in receiving services through an ICF/DD should work with the ISC agency to explore potential ICF/DD providers. Individuals can still seek placement on PUNS while exploring ICF/DDs. At the time of enrollment into the database, the ISC must explain all service options available to the person. ISCs can use the [Illinois PUNS Form - Enrollment Tool](https://www.dhs.state.il.us/OneNetLibrary/27897/documents/DD/PUNsTool082718.pdf). 
+  
 <details>
-<summary><strong> 2 categories of PUNS database </strong></summary> 
+<summary><strong> 2 categories of PUNS database </strong></summary>  
   
 A. The **Seeking Services** category is for people who currently need or desire supports and are in any of the following situations:  
   
@@ -558,15 +558,16 @@ A. The **Seeking Services** category is for people who currently need or desire 
 - Person prefers to live in his/her own home rather than in a funded residential setting but would need supports to do so.
 - Person currently lives in out-of-home residential setting that is not funded by the Division of DD and wishes to return to their family home (and family concurs). The family is capable of providing care but would like support to return this person to the home.
 
-B. The **Planning for Services** category is for people who do not currently want or need supports but may in the future. It is helpful to know about these situations even though the person/family is not seeking services now. The Planning for Services category is for persons who are not currently seeking services but will be seeking if something happens to the caregiver (e.g. caregiver becomes ill or passes away) or other family circumstances change. It is also appropriate for persons who currently receive funding or services through entities other than DD, and whose eligibility will be terminating primarily due to the age of the individual. This person is not in crisis and does not have a current need or desire for DD services. This might include, but is not limited to, persons who are funded through:
+B. The **Planning for Services** category is for people who do not currently want or need supports but may in the future. It is helpful to know about these situations even though the person/family is not seeking services now. The Planning for Services category is for persons who are not currently seeking services but will be seeking if something happens to the caregiver (e.g. caregiver becomes ill or passes away) or other family circumstances change. It is also appropriate for persons who currently receive funding or services through entities other than DD, and whose eligibility will be terminating primarily due to the age of the individual. This person is not in crisis and does not have a current need or desire for DD services. This might include, but is not limited to, persons who are funded through:  
+  
 - Early, Periodic Screening, Diagnosis and Treatment (EPSDT) program
 - Medically Fragile/Technology Dependent Children's Waiver
 - Individual Care Grant supports through the mental health system
 - Illinois State Board of Education or public school system.  
 </details>  
 PUNS selections for Waiver services will occur as funding is available. Selections will be based on a person's cumulative length of time in the Seeking Services Category after age 18. Selections will not be made from the Planning for Services category. If the individual enrolled in PUNS before turning age 18, the length of time begins calculating on the individual's 18th birthday provided that they are in the Seeking service category.  In order to move from one category to the other, individuals and/or guardian must notify their ISC. Movement from one category to the other is not automatic.  
-
-Children may be enrolled on PUNS beginning at age __2.5__. Children should be placed in the category appropriate to their situation-Seeking Services or Planning for Services. If funding is identified to do a PUNS selection for the children's waivers, selection will be based on a child's cumulative length of time in the Seeking Services category __prior to age 18__; again, selections will not be made from the Planning for Service category.
+  
+Children may be enrolled on PUNS beginning at age __2.5__. Children should be placed in the category appropriate to their situation-Seeking Services or Planning for Services. If funding is identified to do a PUNS selection for the children's waivers, selection will be based on a child's cumulative length of time in the Seeking Services category __prior to age 18__; again, selections will not be made from the Planning for Service category.  
 
 ## Q
 ## Qualified Intellectually Disability Professional (QIDP)
