@@ -7,8 +7,9 @@
 [Q](#q)  [R](#r)  [S](#s)  [T](#t)  [V](#v)
 
 ## A
+## Adaptive Equipment (53E)
 <details>
-<summary> ## Adaptive Equipment (53E)</summary>
+<summary> Adaptive Equipment (53E) </summary>
 
 *__Note__: This service is available in all three waiver programs.*
 
