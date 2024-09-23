@@ -257,14 +257,32 @@ Enhanced Residential Day Program is part of the residential habilitation program
 - Has chosen not to participate in traditional day habilitation services on a full or part-time basis.
   Because individuals receiving this service require supports not able to be met in a traditional CDS program, the staffing ratio for this service can vary between 1:1 and 1:3, support staff to participant. The amount of authorized support is identified on the rate determination form.
   Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
-  Enhanced Residential Day Program requires prior approval. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Enhanced Residential Day Program.
-
-## Epilepsy
-A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. (Epilepsy in Chinese: 癫痫)
-
+  Enhanced Residential Day Program requires prior approval. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Enhanced Residential Day Program.  
+  
+## Emergency Home Response Services (55W)
+*__Note__: This service is available __only__ in the Adult Waiver Program.*
+This service is available within the monthly maximum to individuals who are authorized for Home-Based Support Services (HBS) within the Adult Waiver.
+  
+Emergency Home Response Services are limited to adults who live alone, or who are alone for significant parts of the day and have no regular caregiver for extended periods of time, and who would otherwise require extensive routine supervision.
+  
+Emergency home response service is an electronic device that enables Adult Waiver individuals to secure help in an emergency. The individual may also wear a portable help button to allow for mobility.
+  
+The system is connected to the individual's phone and programmed to signal a response center once the "help" button is activated. Installation, upkeep, and maintenance of devices/systems may be provided.
+  
 ## Employer of Record (EOR)
-The individual receiving HBS and/or legal representative, family or close associate who is responsible for overseeing the services outlined in the monthly budget, signing Service Authorizations, and signing PSW time sheets. The Employer of Record is responsible for hiring, training, ensuring competency, supervising, and firing PSWs. Per the Internal Revenue Service, the same person cannot be both Employer of Record and a PSW hired by the family.
-
+Individual providers of Personal Support who are not employed by a provider agency receive ongoing supervision by the Employer of Record who is one person designated by the individual receiving waiver services and can be the individual and/or guardian, if applicable, other family member, or close associate.
+  
+The Employer of Record is the person who is ultimately responsible for ensuring wages are paid. They are also responsible for overseeing the services outlined in the monthly budget and signing Service Agreements, Service Authorizations, and time sheets. In addition, the Employer of Record may help with hiring, training, supervising, and firing PSWs.
+  
+The Employer of Record can be the individual receiving waiver services (if you do not have a guardian), a guardian (if they are not also your PSW), or other adult members of your family or a trusted associate. The Employer of Record can be the same person who is your Representative Payee for Social Security benefits. The Employer of Record can't also be a PSW.
+  
+If the individual or their family choose to hire PSWs directly, the F/EA will assist with the hiring process and be available for consultation if questions arise. The Division contracts with Avenues to Consumer Employer Services and $supports (ACES$) to provide F/EA services in Illinois. ACES$ will handle personal support worker new hire paperwork and payroll/tax functions. If you choose to hire your own PSWs, you must use ACES$. ACES$ is not the employer of the PSW, they only assist with the employer functions required by their contract with DDD.
+  
+The Employer of Record is responsible for signing timesheets. They can't pass this responsibility on to the ISC or Self Direction Assistant if they use this service.
+  
+## Epilepsy
+A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. (Epilepsy in Chinese: 癫痫)  
+  
 ## F
 ## Family and Community Resource Center (FCRC)
 The local office (under the Department of Human Services/Division of Family & Community Services) that process Medicaid Benefits applications such as Cash, SNAP and/or medical assistance.
@@ -306,6 +324,7 @@ Excluded are those adaptations or improvements to the home that are of general u
 - Room renovation, exterior renovation, or renovations to a porch or deck
 - Adaptations that add to the total square footage of the home
 - Seasonal items such as swimming pools and related equipment  
+Modifications to basements or attics are generally not included, due to safety concerns, egress concerns and potential isolation from the rest of the family. Fencing is generally not included unless elopement behavior is present and cannot be addressed in other ways.  
 </details>
   
 ## Home and Community-Based Services  Waivers (HCBS)
@@ -363,6 +382,10 @@ Evaluates your eligibility to continue receiving Medicaid services. Requires you
 An entity within the Department of Human Services/Division of Family & Community Services that was created to streamline the maintenance of medical only cases and more effectively manage the redeterminations. This office was created out of 2 existing Family and Community Resource Centers and replaces the services formerly provided by the Illinois Medicaid Redetermination Project.
 
 ## N
+## Nursing (55N and 55P)
+*__Note__: This service is available only in the Adult Waiver Program.*  
+Nursing services are available within the monthly maximum to Adult DD Waiver individuals who are authorized for Home-Based Support Services (HBS). Nursing services are in addition to any Medicaid State Plan nursing services for which the individual may qualify, must be listed in the personal plan, and be within the scope of the [Illinois Nursing and Advanced Practice Nursing Act (225 ILSC 65)](https://law.justia.com/codes/illinois/chapter-225/act-225-ilcs-65/article-65/).
+  
 ## Nursing Facility (NF)
  A long-term care setting that provides a level of nursing care for people who have a disability, are infirm or in need of convalescence.  It is licensed by the IDPH and certified for participation in Medicaid by IDPA. NF refers only to ICF or SNF, not ICF/DD, ICF/DD-16, or SNF/PED.
 
@@ -388,7 +411,51 @@ A process to document the balance between what is important to a person and what
 
 ## Personal Plan (PP)
 A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
-Personal Plan is required for **all individuals** in a DD Waiver program.
+Personal Plan is required for **all individuals** in a DD Waiver program.  
+  
+## Personal Support (PS) (55D)
+*__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
+This service is available within the monthly maximum for individuals in the Adult Waiver and monthly and yearly maximum for all individuals in the Children's Support Waiver who are authorized for Home-Based support Services (HBS).
+The Waiver affords individuals the opportunity to direct their services through employer authority and budget authority. The individual exercises choice and control over the personal support workers who provide services. Individuals and/or their guardians, if applicable, exercise decision-making authority and management responsibility for their budgets. Within the overall cost limit, the individuals determine the type and amount of services to be purchased and establish rates for their personal support workers.  
+
+<details>
+<summary><strong> More Details about PS </strong></summary> 
+  
+Individuals are supported to direct their own services by the following entities:  
+- Independent Service Coordination (ISC) Agencies conduct case management services as an administrative activity under the Waiver, including person centered planning development and monitoring;
+- A fiscal employer agency (FE/A) that provides Financial Management Services as an administrative activity under the Waiver, including making payments on behalf of the employer, completing required tax and other withholding and documentation. If an individual hires their own PSW(s), they must use the FE/A. The F/EA provides assistance with provider enrollment, payroll processing, and billing for domestic employees;
+- A Self-Direction Assistant (SDA), if selected, can assist the individual and/or guardian, if applicable, in arranging for, directing and managing services. The SDA, if utilized, and fiscal employer/agent (FE/A) are available to assist with these responsibilities if the individual or family needs such assistance;
+- An individual may be involuntarily restricted from self-directed services due to any of the following circumstances:
+  - The Division of Developmental Disabilities determines the individual and/or his or her employer of record have committed fraud regarding participant-directed program funds;
+  - The individual is living with a family member or other individual who has been determined by Adult Protective Services or other authorized entity (e.g., law enforcement) to have abused or neglected the participant or other individuals; or
+  - The ISC agency and FE/A have determined and documented the individual and/or his or her employer of record are not able to direct their own services.
+    
+This restriction of self-directed services is subject to appeal. The outcome of the appeal process is final. In this event, agency-directed services would be made available and documented in the Personal Plan. The ISC works to ensure service continuity and health and welfare during the transition.
+This restriction of self-directed services is subject to appeal. The outcome of the appeal process is final. In this event, agency-directed services would be made available and documented in the Personal Plan. The ISC works to ensure service continuity and health and welfare during the transition.
+
+Personal Support services include a range of training and assistance to enable individuals to accomplish tasks they would normally do for themselves if they did not have a disability. These services may include:
+
+- Teaching adaptive skills to assist the individual to reach personal goals.
+- Personal assistance in activities of daily living.
+- Assistance in performing age-appropriate housekeeping chores such as bed making, dusting and vacuuming, which are essential to the health and welfare of the individual, rather than for the individual's family.
+- Services provided on a short-term basis because of the absence or need for relief of the primary caregivers.
+  
+Personal Support services may be provided on an episodic or on a continuing basis. Health-related services may include skilled or nursing care as an extension of behavioral and therapy services. The PSW can assist the individual to implement a behavioral, occupational therapy, physical therapy, or speech therapy plan to the extent permitted by state law, as prescribed in the PCP, and as trained on by the healthcare professional who developed the plan. Implementation activities include assistance with exercise routines, range of motion, reading the therapist's directions, helping the individual remember and follow the steps of the PCP or hands-on assistance. It does not include the actual service the professional therapist provides. PSWs should not administer medications as this is not permitted by State law.
+  
+Personal Support may be provided in the individual's home and may include supports necessary to participate in generic community activities outside the home. Individuals may not receive Personal Support services during the typical school day relative to the age of the individual or during times when educational services are being provided.
+  
+Personal Support may include supports provided to an individual while hospitalized in order to foster communication, provide intensive personal care, and/or promote behavioral stabilization for the purpose of smooth transitions or preserve functional abilities. These are services in the Personal Plan that cannot be provided by hospital staff and are not a substitute for services the hospital is obligated to provide through its conditions of participation or under Federal or State law, or under another applicable requirement. Services in the Personal Plan that cannot be provided by hospital staff will be provided by the Personal Support Worker.
+  
+The need for Personal Support and the scope of the needed services must be documented in the Personal Plan. The service authorizations must specify the monthly number of hours of Personal Support and the hourly rate. The hourly rates are subject to review and approval by the Division on either a targeted or a random sample basis.  
+  
+Personal Support is __NOT__ intended to:
+  
+- Include professional services, home cleaning services, recreation fees, or other community services used by the general public.
+- Provide one-to-one supports in a day program. An enhanced day program rate may be requested as necessary to meet this need within the monthly maximum.
+Personal Support is a service provided on a 1:1 basis based on the needs in the Personal Plan. However, if more than one individual wishes to receive services from one PSW during a community outing, they can negotiate a rate with the PSW and share the services. All individuals should receive equal services and all health and safety concerns should be addressed prior to the outing.
+  
+All Personal Support providers, whether agencies or personal support workers, must comply with the same timekeeping requirements as providers of other waiver services. Personal Support services are included in the individuals' monthly cost limit/individual budget. The State of Illinois has not set a specific service maximum.
+</details>
 
 ## Personal Support Worker (PSW)
 A Personal Support Worker is a professional caregiver who provides essential assistance to individuals who may need help with daily activities due to age, illness, disability, or other health-related issues. PSWs typically work in home care settings, long-term care facilities, hospitals, or community-based programs. Their main role is to promote the well-being, dignity, and independence of the people they support. 
@@ -490,6 +557,12 @@ A severe, chronic disability that meets all of the following conditions:
   - Self-direction
   - Capacity for independent living
 
+## Remote Supports (53E and/or 53T)
+*__Note__: This service is available in the Adult Waiver to individuals receiving CILA services.*
+a. Remote Support includes the use of video, audio, door and window monitoring devices, or other technology which enables an individual to be more independent and less reliant on staff being physically present when receiving CILA supports and services. The use of remote supports will be considered on an individual, case-by-case basis when an individual and guardian, if applicable, requests the service and the Independent Service Coordination agency and provider support team agree it is appropriate and meets the health and safety needs of the individual. Remote Support requires prior approval and may only be used with full consent of the individual, guardian, if applicable, and anyone else residing in the same living space. Remote Support is limited to CILA participants. The use of this service is not intended to replace an individual's ability or right to engage with the community.
+b. The type of equipment and where it is placed will depend upon the needs and wishes of the individual(s) and their guardian(s), if applicable, the layout and construction of the home, and the company selected by the individual(s) or guardian(s), if applicable, to provide the equipment. The installation of video/audio equipment in the home will be done at the direction of the individual(s). If the home is shared with others, the equipment will be installed in such a manner that it does not invade others' privacy. The remote device is controlled by the waiver individual and can be turned on or off as needed. Video equipment for remote support monitoring cannot be placed in invasive areas, such as bedrooms or bathrooms, in accordance with 42 CFR Section 441.301(c)(4)(iii) for 1915(c) and 42 CFR Section 441.710(a)(1)(iii) for 1915(i).
+c. Purchased or leased equipment, an initial installation fee, ongoing monthly rental charges and upkeep and maintenance of the devices are covered under this service.
+  
 ## Reporting of Community Services (ROCS)
 A computer-based system within the Community Reporting System that collects and processes service reporting data to DHS. This data is used by DHS to monitor services, supports and funding.
 
@@ -497,8 +570,17 @@ A computer-based system within the Community Reporting System that collects and 
 ## Scales of Independent Behavior (SIB)
 A comprehensive assessment of adaptive and maladaptive behavior used to determine a person's level of functioning in key behavior areas; usually used for either diagnosis or program planning.
 
-## Self-Direction Assistance  (SDA)
-An SDA meets the qualifications and training of a Qualified Intellectual Disabilities Professional (QIDP). They can provide skills training to enable individuals along with their families and/or Employers of Record to independently direct and manage self-directed services. They provide information and assistance in recruiting, hiring, communicating with, and managing Personal Support Workers. They provide assistance with budgeting and funding allocation management. They provide training and assistance with completion of timekeeping and other employer-related tasks required to interface with the Fiscal Management Agency. More information about SDAs is available online.
+## Self-Direction Assistance (SDA) (55A)
+*__Note__: This service is available to individuals in the Children's Support Waiver and Adult Waiver Programs. The acronym SDA is used to describe the service (Self-Direction Assistance) as well as the provider agency staff (Self-Direction Assistant).*  
+Self-Direction Assistance is a waiver service provided by a Self-Direction Assistant (SDA).  
+Self-Direction Assistance assists the individual, guardian, if applicable, and/or family in arranging for, directing and managing Home Based Support services. It also offers practical skills training to enable individuals, guardian, if applicable, and/or families to independently direct and manage Waiver services. SDA includes providing information to ensure individuals understand the responsibilities involved with directing their services. SDA can assist the Employer of Record (EOR) with the process of timekeeping for PSWs, but they can't replace the responsibility of the EOR. In other words, the EOR must complete and sign the timesheets of the individual's PSW(s) and the SDA can review for accuracy and completion, but the SDA can't complete the timesheets on behalf of the EOR. Additionally, the SDA can't sign the timesheet in place of the EOR. If an SDA provider is also a PSW provider agency, the SDA provider can't provide the same services as the PSW provider agency. In this scenario, the SDA should not be assisting the individual, guardian, if applicable, and/or family with arranging for and directing PSW services because the PSW agency is already completing this process. SDA is only available to those in the Home-Based Supports and Services (HBS) program and should not duplicate the services provided by the ISC.
+  
+SDA is an optional service, meaning individuals, guardians, if applicable, and/or families are not required to purchase this support. Provider agency staff fulfilling the role of the SDA are required to be Qualified Intellectual Disability Professionals (QIDPs). SDAs do not have a mandated set of services they are required to provide. If an individual, guardian, if applicable, and/or family desires or needs the support of an SDA, this must be documented in the Personal Plan, including the amount and frequency of services. The details of what SDAs provide to an individual, guardian, if applicable, and/or family must be based on the desired outcomes as well as the needs of the individual reflected in the Personal Plan. Services provided and billed must be within the description outlined in XII. Waiver Activity and Service Billing Guidance. All billable services must be agreed upon by the individual, guardian, if applicable, and/or family, as well as the SDA.
+  
+The cost of SDA services comes from the individual's monthly HBS allotment and must be reflected through an HBS Service Agreement. There is no monthly minimum for SDA. The maximum billable amount for an individual must remain within the monthly allotment. Providers may negotiate additional hours if necessary. SDA must be billed through the Reporting of Community Services (ROCS) using the bill code 55A. The most current rate can be found on the [DHS website](http://www.dhs.state.il.us/page.aspx?item=109260)
+  
+Monthly notes, often referred to as Q or QIDP Notes, are not required when providing SDA services. SDA provider agencies must comply with the same timekeeping requirements as providers of other waiver services. They must document date, start time, stop time, individual served and service provided. This documentation must be maintained in the individual's record.  
+The [Self Direction Assistance Guidelines](https://www.dhs.state.il.us/page.aspx?item=93863) can be found online.  
 
 ## Severe Mental Illness
 According to the Screening Assessment Rule (89 Illinois Administrative Code 140.642), an individual is considered to have a severe mental illness if he or she has one of the following diagnoses: schizophrenia; delusional disorder; schizoaffective disorder; psychotic disorder not otherwise specified; bipolar disorder I - mixed, manic, and depressed; bipolar disorder II; cyclothymic disorder; bipolar disorder not otherwise specified; major depression, recurrent; and due to his or her mental illness exhibits resulting substantial functional limitations. The functional limitation must be of an extended duration expected to be present for at least a year, which results in substantial limitation in major life activities affecting at least two of the following areas: i) self-maintenance; ii) social functioning; iii) community living activities; iv) work related skills.
@@ -565,10 +647,41 @@ The expected outcome of the Supported Employment Program is sustained Competitiv
 </details>
 
 ## T
+## Temporary Assistance (TA) (53C)
+*__Note__: This service is available in the Children's Support Waiver and Adult Waiver Programs.*
+For the Adult Waiver, this service is available to individuals who are authorized for Home-Based Support Services (HBS). The cost of these services is not counted toward the monthly maximum. This service is limited to __no more than 60 consecutive days__.  
+- Temporary Assistance is provided on a temporary emergency basis because of the absence or incapacity of the person(s) who normally provide unpaid care.
+- Absence or incapacity of the primary caregivers must be due to a temporary cause such as hospitalization, illness, injury, or other emergency situations.
+- Temporary Assistance is not available for caregiver absences for vacations, educational or employment-related reasons, or other non-emergency reasons.
+- No Temporary Assistance may be delivered during the typical school day relative to the age of the individual or during times when educational services are being provided.
+  
+See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Temporary Assistance.
+  
 ## Temporary or Long-Term Intensive Staffing (53D or 53R)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
 
 ## V
+## Vehicle Modifications (VM) (53V)  
+*__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*
+Vehicle Modifications are adaptations or alterations to an automobile or van that is the individual's primary means of transportation to accommodate the special needs of the individual.
+Vehicle adaptations are specified by the Personal Plan as necessary to enable the individual to integrate more fully into the community and to ensure the health, welfare, and safety of the individual. 
+
+<details>
+<summary><strong> Examples of Vehicle Modifications </strong></summary> 
+  
+- Lifts or ramps
+- Door modifications
+- Seating modifications
+- Safety/security modifications
+- Inside height modifications
+
+The following modifications are specifically __excluded__ from coverage:  
+- Adaptations or improvements to the vehicle of general utility and are not of direct remedial benefit to the individual
+- Purchase or lease of a vehicle
+- Regularly scheduled upkeep and maintenance of a vehicle except upkeep and maintenance of the modifications.  
+The individual, a family member with whom the individual lives or has consistent and on-going contact, or a non-relative who provides primary long-term support to the individual and is not a paid provider of such services must own the adapted vehicle.  
+</details>
+  
 ## Virtual Day Service (VDS) (31V)
 A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
 Virtual Day Services may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
