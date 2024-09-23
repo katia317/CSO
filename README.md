@@ -4,7 +4,7 @@
 ### Jump to:
 [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  
 [H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p) 
-[Q](#q)  [R](#r)  [S](#s)
+[Q](#q)  [R](#r)  [S](#s)  [T](#t)
 
 ## A
 ## Adaptive skills 
@@ -76,6 +76,10 @@ The PC-based system designed to be used for collecting and submitting required d
 
 ## Community Integrated Living Arrangement (CILA)
 Flexible service arrangement for individuals with a developmental disability that focuses on the service needs of the individual in his or her home or a community setting where eight or fewer individuals with disabilities live together.  CILAs are licensed by the State. 
+
+## Community Living Facility (CLF)
+Serves Adult Waiver participants in a licensed residential setting. A Community Living Facility is not a nursing or medical facility and, to be eligible under the waiver, serves no more than 16 adults. There are 9 CLFs in the state.
+CLF are residential settings that provide guidance, supervision, training and other assistance to adults with disabilities. The goal of community living is to help residents move into more independent living arrangements and stay engaged in society. Community living facilities can be houses or apartments that offer semi-independence and personal freedom to residents.
 
 ## Conflict of Interest Free Case Management
 The Federal government regulations require states to separate case management from service delivery. Case management cannot be done by someone who: is a relative of the person served, is a direct provider of service, has a financial interest in a provider, or is employed by a provider. Case managers perform eligibility determinations, develop the Personal Plan, help families find providers, and monitor services.
@@ -292,4 +296,9 @@ An agreement completed between you and each service provider which defines the t
 
 ## Service Authorization
 A written document between you and an independently hired PSW outlining the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. Service Authorizations must be updated if there is a change in service and copies of the revised Service Authorization must be sent to the Fiscal/Employer Agent (F/EA). If you pay for Self-Direction Assistance (SDA) services, your SDA assist you or do this for you. If you do not use SDA services, you must do this yourself. F/EA, ACCES$, can help to support you if you have questions.
+
+## T
+
+## Temporary or Long-Term Intensive Staffing (53D or 53R)
+Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
 
