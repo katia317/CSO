@@ -275,16 +275,16 @@ The process, usually every 12 months, of reassessing a person's eligibility for 
 
 ## Related Conditions
 A severe, chronic disability that meets all of the following conditions:
- - It is attributable to Cerebral palsy or epilepsy or any other condition, other than mental illness, found to be closely related to intellectual disability  because this condition results in impairment of general intellectual functioning or adaptive behavior similar to that of persons with intellectual disability persons, and requires treatment or services similar to those required for these persons.
- - It is manifested before the individual reaches age 22.
- - It is likely to continue indefinitely.
- - It results in substantial functional limitations in three or more of the following areas of major life activity:
- -- Self-care
- -- Language
- -- Learning
- -- Mobility
- -- Self-direction
- -- Capacity for independent living
+- It is attributable to Cerebral palsy or epilepsy or any other condition, other than mental illness, found to be closely related to intellectual disability  because this condition results in impairment of general intellectual functioning or adaptive behavior similar to that of persons with intellectual disability persons, and requires treatment or services similar to those required for these persons.
+- It is manifested before the individual reaches age 22.
+- It is likely to continue indefinitely.
+- It results in substantial functional limitations in three or more of the following areas of major life activity:
+ - Self-care
+ - Language
+ - Learning
+ - Mobility
+ - Self-direction
+ - Capacity for independent living
 
 ## Reporting of Community Services (ROCS)
 A computer-based system within the Community Reporting System that collects and processes service reporting data to DHS. This data is used by DHS to monitor services, supports and funding.
