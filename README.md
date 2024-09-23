@@ -13,7 +13,8 @@ Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), incl
 It may also include necessary maintenance and repairs to adaptive equipment. Items reimbursed with Waiver funds are in addition to any medical equipment and supplies furnished under the Medicaid State Plan and exclude those items that are not of direct remedial benefit to the individual. All items shall meet applicable standards of manufacture, design, and installation.
 <details>
 <summary> more details </summary>
-- Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.
+  
+- Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
 - Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
 - *Medical equipment and supplies are not considered adaptive equipment.*
 
