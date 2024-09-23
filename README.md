@@ -24,8 +24,9 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
 ## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
 <details>
-<summary><strong> More Details </strong></summary>
-- ### *Categories of Adaptive Skills:*
+<summary><strong> More Details </strong></summary> 
+  
+  ### *Categories of Adaptive Skills:*
   - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
     - *Examples: Talking, listening, following instructions, writing.*
   - **Social Skills**: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
@@ -112,13 +113,14 @@ An abnormally deep stupor occurring in illness or due to an injury. The individu
 Competitive Integrated Employment is work that is performed on a full-time or part-time basis, including self-employment, for which an individual is compensated at or above minimum wage and not less than the customary rate paid by the employer for the same or similar work performed by other similarly situated employees who are not individuals with disabilities.
 CIE includes equitable access to benefits and advancement opportunities. In order for employment to meet this threshold, individuals with disabilities must be eligible for the level of benefits and have opportunities for advancement that are similar to those for other employees who are not individuals with disabilities and who have similar positions.
 CIE can only occur at integrated locations where employees with disabilities interact with other persons who are not individuals with disabilities (co-workers, supervisors, customers, general public) to the same extent as employees who are not individuals with disabilities and who are in comparable positions. Interaction must extend beyond job coaches or others who are associated with the provision of supports. Competitive Integrated Employment may occur in settings with a natural absence of customers or the general public such as work that occurs at a community business after traditional hours. As long as non-disabled workers in similar positions would have an equitable experience, the work could be considered integrated.
-
-## Community Day Services (CDS) (31C or 31U)
-A day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
-CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).
-Community Day Services (31C or 31U)
+  
+## Community Day Services (31C or 31U)
 Community Day Services (CDS) is a day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
 CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).  
+
+<details>
+<summary><strong> More Details </strong></summary> 
+  
 CDS activities should promote greater independence and personal choice. Activities can include:
 - Increasing capacity for independent living through increasing skills including fine and gross motor skills, problem solving, safety skills, activities of daily living, and adaptive skills to support positive behavioral health.
 - Training in a specific skill (i.e., Use of personal technology or assistive devices) or learning about different topics, including topics of personal interest, self-determination and self-advocacy.
@@ -139,7 +141,8 @@ CDS activities should promote greater independence and personal choice. Activiti
 - Vocational rehabilitation services which otherwise are available to the individual through a program funded under Section 110 of the Rehabilitation Act of 1973.
 Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
 Includes transportation between the residence and other community locations where day services occur. The cost of this transportation is included in the rate paid to providers of Community Day Services. Training and assistance in transportation usage are provided as needed. Services provided in community locations where members of the general community typically congregate (non-site based) will begin billing once the individual or group reaches the site of the first planned activity of the day and end when leaving the last activity planned for the day. If going to a community location, the provider does not need to first meet at a site based CDS location.
-
+</details>
+  
 ## Community Reporting System (CRS)
 The PC-based system designed to be used for collecting and submitting required data to the Department of Human Services (DHS) by those community providers who have contracted with the Department to provide services for individuals.
 
