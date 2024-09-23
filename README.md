@@ -59,8 +59,8 @@ A program for adults, age 18 and over, with Developmental Disabilities that prov
 ## [All Kids](https://hfs.illinois.gov/medicalprograms/allkids/about.html)
 Illinois' comprehensive health insurance program for children. The program covers doctor visits, hospital stays, prescription drugs, vision care, dental care, eyeglasses, regular check-ups and immunizations (shots). All Kids also covers special services like medical equipment, speech therapy, and physical therapy for children who need them.
 
-## Active Treatment (AT) for Individuals with a Developmental Disability (AT)
- A continuous program for each individual that includes aggressive, consistent implementation of a program for specialized and generic training, treatment, health services and related services that are directed toward:
+## Active Treatment (AT) for Individuals with a Developmental Disability  
+A continuous program for each individual that includes aggressive, consistent implementation of a program for specialized and generic training, treatment, health services and related services that are directed toward:
 
 ## Alzheimer's Disease
 Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die. Alzheimer's disease is the most common cause of [dementia](#dementia) — a gradual decline in memory, thinking, behavior and social skills. These changes affect a person's ability to function. 
@@ -415,11 +415,11 @@ A bill, first enacted in [1987](https://www.congress.gov/bill/100th-congress/hou
 ## P
 ## [Person Centered Planning (PCP)](https://www.dhs.state.il.us/page.aspx?item=146107)
 A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: 1) [Discovery Tool](#discovery-tool-dt), 2) [Personal Plan](#personal-plan-pp), and 3) [Implementation Strategies](#implementation-strategy).  
-[Click to see **PCP Guidelines.pdf**](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/PersonalPlanGuidelines.pdf)
 
 ## Personal Plan (PP)
 A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
 Personal Plan is required for **all individuals** in a DD Waiver program.  
+  [Click to see **Personal Plan Guidelines.pdf**](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/PersonalPlanGuidelines.pdf)
   
 ## Personal Support (PS) (55D)
 *__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
@@ -541,8 +541,32 @@ The former name for the Illinois Department of Healthcare and Family Services. 
 ## Public Health, Illinois Department of (IDPH)
 The State agency in Illinois responsible, among other things, for the licensure of long-term care facilities such as ICFs, ICFs/DD, SNFs, SNFs/PED, and Sheltered Care facilities.
 
-## PUNS (PUNS)
-Division of Developmental Disabilities statewide database that registers individuals who want or need DDD Waiver services. As funding becomes available, this database is used to invite individuals to apply for DDD Waiver services.
+## [PUNS for Persons with Developmental Disabilities (PUNS)](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc7)
+PUNS is a database that registers individuals who want or need DDD Waiver services. People that are interested in receiving services through an ICF/DD should work with the ISC agency to explore potential ICF/DD providers. Individuals can still seek placement on PUNS while exploring ICF/DDs. At the time of enrollment into the database, the ISC must explain all service options available to the person. ISCs can use the Illinois PUNS Form - Enrollment Tool. 
+
+<details>
+<summary><strong> 2 categories of PUNS database </strong></summary> 
+  
+A. The **Seeking Services** category is for people who currently need or desire supports and are in any of the following situations:  
+  
+- Persons whose caregiver is clearly progressing toward being unable to provide care for any number of reasons (age of the caregiver, physical/psychological/health condition of caregiver, health or other situation of the individual). The individual and/or family are coping for now but supports are needed.
+- The individual him/herself has a deteriorating situation, which requires formal supports.
+- Cases where, although the caregiver and person with developmental disabilities have not been directly affected, a death in the family (especially of a care giver's spouse or other family member who may have assisted in providing care) or other circumstance has affected their situation requiring a need for additional support.
+- Situations where the caregiver(s) must work to provide income to pay the rent, etc. If services are not provided, the caregiver(s) would have to remain at home to provide support, and effectively be unable to continue working.
+- Persons who have (or will shortly) graduate from school and will need day supports (i.e., there are no other employment or other day support options available/planned).
+- Person is dissatisfied with current setting and would like to have DD residential services.
+- Person prefers to live in his/her own home rather than in a funded residential setting but would need supports to do so.
+- Person currently lives in out-of-home residential setting that is not funded by the Division of DD and wishes to return to their family home (and family concurs). The family is capable of providing care but would like support to return this person to the home.
+
+B. The **Planning for Services** category is for people who do not currently want or need supports but may in the future. It is helpful to know about these situations even though the person/family is not seeking services now. The Planning for Services category is for persons who are not currently seeking services but will be seeking if something happens to the caregiver (e.g. caregiver becomes ill or passes away) or other family circumstances change. It is also appropriate for persons who currently receive funding or services through entities other than DD, and whose eligibility will be terminating primarily due to the age of the individual. This person is not in crisis and does not have a current need or desire for DD services. This might include, but is not limited to, persons who are funded through:
+- Early, Periodic Screening, Diagnosis and Treatment (EPSDT) program
+- Medically Fragile/Technology Dependent Children's Waiver
+- Individual Care Grant supports through the mental health system
+- Illinois State Board of Education or public school system.  
+</details>  
+PUNS selections for Waiver services will occur as funding is available. Selections will be based on a person's cumulative length of time in the Seeking Services Category after age 18. Selections will not be made from the Planning for Services category. If the individual enrolled in PUNS before turning age 18, the length of time begins calculating on the individual's 18th birthday provided that they are in the Seeking service category.  In order to move from one category to the other, individuals and/or guardian must notify their ISC. Movement from one category to the other is not automatic.  
+
+Children may be enrolled on PUNS beginning at age __2.5__. Children should be placed in the category appropriate to their situation-Seeking Services or Planning for Services. If funding is identified to do a PUNS selection for the children's waivers, selection will be based on a child's cumulative length of time in the Seeking Services category __prior to age 18__; again, selections will not be made from the Planning for Service category.
 
 ## Q
 ## Qualified Intellectually Disability Professional (QIDP)
