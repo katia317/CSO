@@ -12,7 +12,7 @@
 Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), includes performance of assessments to identify the type of equipment needed by the individual; devices, controls or appliances that enable individuals to increase their abilities to perform activities of daily living, or to perceive, control, access or communicate with the environment in which they live; other durable medical equipment not available under the Medicaid State Plan that is necessary to address individual functional limitations; and necessary initial training from the vendor to use the adaptive equipment.  
 It may also include necessary maintenance and repairs to adaptive equipment. Items reimbursed with Waiver funds are in addition to any medical equipment and supplies furnished under the Medicaid State Plan and exclude those items that are not of direct remedial benefit to the individual. All items shall meet applicable standards of manufacture, design, and installation.
 <details>
-<summary> more details </summary>
+<summary> More Details </summary>
   
 - Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
 - Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
@@ -23,6 +23,8 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
   
 ## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
+<details>
+<summary> More Details </strong></summary>
 - ### *Categories of Adaptive Skills:*
   - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
     - *Examples: Talking, listening, following instructions, writing.*
@@ -40,6 +42,7 @@ The practical, everyday skills that individuals need to function effectively and
     - *Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.*
   - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
     - *Examples: Telling time, counting change, reading a menu or instructions.*
+</details>
 
 ## Adult Day Care (ADC) (35U)
 Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
