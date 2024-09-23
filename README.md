@@ -52,7 +52,7 @@ Transportation between the individual's place of residence and the adult day car
 ADC provided in a setting is governed by the *Community Care Program rule 89 Ill*. Adm. Code 240 of the Department on Aging.
   See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for adult day care.
 
-## Adult Protective Service (APS)
+## [Adult Protective Service (APS)](https://ilaging.illinois.gov/protectionadvocacy/abuse.html)
 A program within the Illinois Department on Aging that investigates abuse, neglect, or financial exploitation of adults age 60 or older and adults age 18-59 with disabilities living in the community.
 
 ## Adult Waiver
