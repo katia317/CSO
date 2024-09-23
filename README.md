@@ -173,7 +173,11 @@ The care involved and the gradual return to health after an acute illness. To be
 
 ## Counseling (Individual and Group) (57U or 57G)  
 *Note: This service is available only in the Adult Waiver.*
-Counseling is a treatment approach in which a licensed professional meets with one or more individuals in ongoing periodic formal sessions and uses relationship skills to promote the individuals' abilities to deal with daily living issues associated with their emotional, cognitive, or behavioral problems using a variety of supportive and re-education techniques.
+Counseling is a treatment approach in which a licensed professional meets with one or more individuals in ongoing periodic formal sessions and uses relationship skills to promote the individuals' abilities to deal with daily living issues associated with their emotional, cognitive, or behavioral problems using a variety of supportive and re-education techniques.  
+
+<details>
+<summary><strong> More Details </strong></summary> 
+  
 The Personal Plan must include documentation of the individual's need for counseling and services.
 A counseling strategy must be developed and approved in writing by the individual and/or guardian, if applicable. This plan should include:
 - A brief summary describing the emotional, cognitive, or behavioral concerns to be addressed by counseling. The individual's goals for counseling should be identified. The description should note the frequency and severity of problem behaviors identified by others and the individual's attitude and perspective regarding the concerns of others
@@ -190,6 +194,7 @@ Counseling includes:
 Group counseling includes sessions in which the counselor meets with two or more individuals to address their individual goals identified in their individualized counseling plans.  
 Counseling can be provided to individuals who are temporarily absent from, but will be returning to, their residential setting (SNF, Hospital, etc.) as long as the current temporary provider (SNF, Hospital, etc.) approves the counseling service to be provided in their location, the service is being provided and supporting documentation is maintained. Location of the service should be part of the supporting documentation.  
 Since each counselor must enroll in IMPACT to provide services to waiver participants, billing for services must be done under the provider who provided the service.
+</details>
 
 ## D
 ## Dementia
@@ -343,7 +348,11 @@ A single, comprehensive personal vision for a person's life. This document is de
 Personal Plan is required for **all individuals** in a DD Waiver program.
 
 ## Personal Support Worker (PSW)
-A Personal Support Worker is a professional caregiver who provides essential assistance to individuals who may need help with daily activities due to age, illness, disability, or other health-related issues. PSWs typically work in home care settings, long-term care facilities, hospitals, or community-based programs. Their main role is to promote the well-being, dignity, and independence of the people they support.  
+A Personal Support Worker is a professional caregiver who provides essential assistance to individuals who may need help with daily activities due to age, illness, disability, or other health-related issues. PSWs typically work in home care settings, long-term care facilities, hospitals, or community-based programs. Their main role is to promote the well-being, dignity, and independence of the people they support. 
+
+<details>
+<summary><strong> Key Responsibilities of a PSW </strong></summary> 
+  
 **Key Responsibilities of a Personal Support Worker:**  
 1. **Assisting with Daily Living Activities:**
    - Helping with tasks such as bathing, dressing, grooming, and toileting.
@@ -372,6 +381,7 @@ A Personal Support Worker is a professional caregiver who provides essential ass
 7. **Advocacy and Communication:**
    - Acting as a liaison between the client and other healthcare providers or family members to ensure care needs are met.
    - Ensuring the client’s preferences and needs are respected and understood by others.
+</details>
 
 ## Physical Therapy (PT)
 Physical therapy, also known as *physiotherapy*, is a healthcare profession that aims to improve movement and mobility in persons with compromised physical functioning. It involves patient education, physical intervention, disease prevention, and health promotion
@@ -386,6 +396,10 @@ A Pre-Admission Screening is one of the four services that ISCs provide. A PAS a
 ## Psychotherapy (Individual and Group) (58U or 58G)  
 *Note: This service is available __only__ in the Adult Waiver*  
 Psychotherapy is a treatment approach in which a licensed provider engages with one or more individuals seen simultaneously, if applicable, in ongoing periodic formal sessions with the goal of reducing the symptoms of emotional, cognitive, or behavioral distress and promoting positive emotional, cognitive, behavioral development, and individual goals. The therapeutic approach should utilize evidence-based approaches, appropriate for supporting the individual's goals and/or addressing self-defeating choices or behavior.  
+
+<details>
+<summary><strong> More Details </strong></summary> 
+  
 The person-centered planning team must recommend psychotherapy prior to the individual receiving services. The Personal Plan must include documentation of an individual's goals, how psychotherapy would help them attain those goals and the services to be provided by the licensed Psychotherapist.  
 - A psychotherapy plan must be developed in writing within 45 days of initial contact. This plan should include:
 - A brief description of the individual's goals and emotional, cognitive, or behavioral concerns to be addressed by therapy. The description should note the frequency and severity of any problem behaviors, as well as previous attempts to address the concerns.
@@ -402,6 +416,7 @@ Each individual or group therapy contact requires a clinical narrative documenti
 Group therapy includes sessions in which therapist meets with two or more individuals to address goals identified in their individualized psychotherapy plans.   
 Therapy can be provided to individuals who are temporarily absent from, but will be returning to, their residential setting (SNF, Hospital, etc.) as long as the current temporary provider (SNF, Hospital, etc.) approves the therapy service to be provided in their location, the service is being provided and supporting documentation is maintained. Location of the service should be part of the supporting documentation.  
 Since each therapist must enroll in IMPACT to provide services to waiver participants, billing for services must be done under the provider who provided the service.
+</details>
 
 ## Public Aid, Illinois Department of (IDPA)
 The former name for the Illinois Department of Healthcare and Family Services. 
@@ -472,8 +487,11 @@ A written document between you and an independently hired PSW outlining the term
 
 ## Supported Employment Program (SEP) (33G, 36G, or 36U)
 The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.  
-Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.  
-Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.  
+*Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
+
+<details>
+<summary><strong> More Details </strong></summary> 
+  
 All individuals approved for the Home and Community Based Support (HCBS) Waiver for Adults with Developmental Disabilities may access the Supported Employment Program with prior approval. Requests will only be considered for individuals who meet the following criteria:  
 1. enrolled in the Adults with Developmental Disabilities HCBS Waiver; and
 2. require supportive services to work in an integrated employment environment; and
@@ -502,7 +520,8 @@ The expected outcome of the Supported Employment Program is sustained Competitiv
   - defraying the expenses associated with starting up or operating a business
   - supervisory activities rendered as a normal part of the business setting
   - stand-by time when employment support personnel are not actively engaged in supports.  
-  
+</details>
+
 ## T
 ## Temporary or Long-Term Intensive Staffing (53D or 53R)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
@@ -510,7 +529,11 @@ Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver indi
 ## V
 ## Virtual Day Service (VDS) (31V)
 A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
-Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
+Virtual Day Services may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
+
+<details>
+<summary><strong> More Details </strong></summary> 
+  
 *The following are examples of VDS Programming:*
 - Activities related to the development of hobbies or leisure/cultural interests or to promote personal health and wellness (e.g. yoga class, meditation group, etc.).
 - Activities related to training and education for self-determination and self-advocacy.
@@ -520,4 +543,4 @@ Virtual Day Services (31V) may take place in an individual's private residence, 
 **Service Limits:**
 - VDS hours are included in the annual maximum of 1,200 hours, monthly maximum of 115, and 5 hour daily maximum for any combination of day programs.
 - VDS is limited to 45 hours per month and 520 hours per year.
-
+</details>
