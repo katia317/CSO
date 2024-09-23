@@ -413,8 +413,9 @@ A constellation of psychological or behavioral signs or symptoms due to presumed
 A bill, first enacted in [1987](https://www.congress.gov/bill/100th-congress/house-bill/3545), to improve the quality of care in nursing homes for the health and safety of nursing home residents. This legislation significantly strengthened federal standards, inspections and enforcement of nursing home quality.
 
 ## P
-## Person Centered Planning (PCP)
-A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: 1) [Discovery Tool](#discovery-tool-dt), 2) [Personal Plan](#personal-plan-pp), and 3) [Implementation Strategies](#implementation-strategy).
+## [Person Centered Planning (PCP)](https://www.dhs.state.il.us/page.aspx?item=146107)
+A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: 1) [Discovery Tool](#discovery-tool-dt), 2) [Personal Plan](#personal-plan-pp), and 3) [Implementation Strategies](#implementation-strategy).  
+[Click to see **PCP Guidelines.pdf**](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/PersonalPlanGuidelines.pdf)
 
 ## Personal Plan (PP)
 A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
