@@ -238,13 +238,13 @@ An intellectual disability or related condition that is manifested before age 18
 A document the ISC uses in the Person-Centered Planning process to gather information on what is important to and important for a person. The Tool addresses 10 life areas. It is designed to lead conversations about a person's preferences, strengths, needs, barriers, and risks that are present. This information is used to develop the Personal Plan.  
 [Click to see Discovery Tool Form (06/2017)](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/DiscoveryTool.pdf)
   
-## Division of Developmental Disabilities (DDD)
+## [Division of Developmental Disabilities (DDD)](https://www.dhs.state.il.us/page.aspx?item=29761)
 A Division within the Department of Human Services that provides services and supports for individuals with developmental disabilities and their families.
   
-## Division of Mental Health (DMH)
+## [Division of Mental Health (DMH)](https://www.dhs.state.il.us/page.aspx?item=29735)
 A Division within the Department of Human Services that serves at the State's Mental Health Authority. This Division is responsible for assuring that children, adolescents and adults, throughout Illinois, have the availability of and access to public-funded mental health services for those who are diagnosed with a mental illness or emotional disturbance and who have an impaired level of functioning based on a mental health assessment.
   
-## Division of Rehabilitation Services (DRS)
+## [Division of Rehabilitation Services (DRS)](https://www.dhs.state.il.us/page.aspx?item=29764)
 A Division within the Department of Human Services that serves as the state's lead entity responsible for assisting individuals with disabilities to prepare for, locate and maintain employment. This Division also ensures that people with disabilities make informed choices to achieve full community participation through employment, education, and independent living opportunities.
   
 ## E
@@ -290,11 +290,11 @@ The local office (under the Department of Human Services/Division of Family & Co
 Company contracted by the State to help individuals using Home-Based Services hire Personal Support Workers, completing the payroll function for individually hired PSWs. F/EAs can assist with background checks, payroll taxes, completing paperwork, and paying workers out of your budgets. In Illinois, the F/EAs is ACES$ (Avenues to Consumer Employer Services and $supports).
 
 ## G
-## Governor's Office of Management and Budget (GOMB)
+## [Governor's Office of Management and Budget (GOMB)](https://budget.illinois.gov/)
 The Governor's Office of Management and Budget prepares the Governor's annual State budget and advises the Governor on the availability of revenues and the allocation of those resources to agency programs.
 
 ## Grant Accountability and Transparency Unit (GATU)
-A unit of the Governor's Office of Management and Budget that is tasked with administering the Grant Accountability and Transparency Act.
+A unit of the Governor's Office of Management and Budget that is tasked with administering the [Grant Accountability and Transparency Act (GATA)](https://gata.illinois.gov/).
 
 ## H  
 ## Home Accessibility Modifications (53H)
@@ -341,14 +341,15 @@ Visit the [Home-Based Support Services (HBS) Information](https://www.dhs.state.
 The Inventory for Client and Agency Planning is an assessment tool to determine level of need and funding allocations for certain services. The ICAP is composed of 77 items related to an individual's adaptive behavior and 24 items related to problem behaviors, plus additional items that compile diagnostic information. The ICAP must be administered by a [Qualified Intellectual Disability Professional (QIDP)](#qualified-intellectually-disability-professional-qidp) six months prior to the date on the DDPAS-2, Part II3. The ICAP is not a substitute for the adaptive functioning assessment required in a psychological evaluation3.
 
 ## Identification Screen; the Level 1 Screen (ID Screen)
-The first phase of the PAS process, documented on the OBRA-1 form.  If as a result of the Level I Screen, it appears that an individual may have a developmental disability or a severe mental illness, the individual is referred for further assessment and determination.
+The first phase of the PAS process, documented on the **[OBRA-1 Form](https://www.dhs.state.il.us/onenetlibrary/12/documents/Forms/IL462-4437.pdf)**.  If as a result of the Level I Screen, it appears that an individual may have a developmental disability or a severe mental illness, the individual is referred for further assessment and determination.
 
-## Illinois Department of Healthcare and Family Services (HFS)
+## [Illinois Department of Healthcare and Family Services (HFS)](https://hfs.illinois.gov/)
 The single Illinois state Medicaid agency that oversees waiver programs including the three Developmental Disability Waivers: the Adult Waiver, the Children's Residential Waiver, and the Children's Support Waiver.
 
-## Implementation Strategy
-A document, created by service providers or the Employer of Record, that describes how your service providers will support the outcomes and needs documented in your [Personal Plan](#personal-plan-pp). This is a part of the Person-Centered Planning process.
-
+## Implementation Strategy 
+A document, created by service providers or the Employer of Record, that describes how your service providers will support the outcomes and needs documented in your [Personal Plan](#personal-plan-pp). This is a part of the Person-Centered Planning process.  
+(See [Implementation Strategy Guidelines](https://www.dhs.state.il.us/page.aspx?item=97372))
+  
 ## Independent Service Coordination Agency (ISC)
 As the case management entity, ISCs maintain the DDD's waiting list, determine clinical eligibility, assist with identifying providers of choice, develop the Personal Plan, and monitor the implementation of the Plan. ISCs serve as the front line for information and assistance to help individuals and families make informed choices and to navigate the system. The Division currently funds 8 ISC agencies in 12 regions across the state.
 
@@ -375,7 +376,7 @@ A facility of 3 or more individuals, or a distinct part of an ICF, which provide
 Commonly known as [skilled nursing facility for pediatric residents (SNF/PED)](#skilled-nursing-facility-for-pediatric-residents-snfped), it is a facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
 
 ## M
-## Medicaid (Title XIX)
+## [Medicaid](https://www.medicaid.gov/medicaid/index.html) (Title XIX)
 Health care benefits provided under Title XIX of the Social Security Act.
 
 ## Medicaid Eligible
@@ -399,21 +400,21 @@ Nursing services are available within the monthly maximum to Adult DD Waiver ind
 ## Occupational Therapy (OT) (52O)
 Occupational Therapy is a healthcare profession that focuses on helping individuals of all ages perform everyday tasks, or "occupations," that are meaningful and necessary for their daily lives. The goal of OT is to promote independence, improve quality of life, and enhance a person’s ability to engage in activities, despite physical, cognitive, emotional, or developmental challenges.
 
-## Office of Inspector General (OIG)  
+## [Office of Inspector General (OIG)](https://oig.hhs.gov/)  
 The Office of the Inspector General, within the Department of Human Services, investigates all reports of abuse, neglect and exploitation, to foster humane, competent, respectful and caring treatment of individuals with physical, developmental and/or mental disabilities. It also assists State agencies and facilities in prevention efforts.
 
-## Office of State Guardian (OSG)  
+## [Office of State Guardian (OSG)](https://gac.illinois.gov/osg.html)  
 A state entity that handles the personal, financial, and legal affairs of people with developmental disabilities, mental illness and elderly persons with disabilities.
 
 ## Organic Brain Syndrome (OBS)  
 A constellation of psychological or behavioral signs or symptoms due to presumed organic cause without reference to specific organic etiology, which manifest themselves as one or more of the following: disturbance in orientation; impairment of memory; impairment in the level of consciousness and attention; impairment of intellectual functions (comprehension, calculation, knowledge, learning); defective judgement; liability, shallowness, and similar instabilities of the affect; and overall changes in the personality, with the appearance of conduct foreign to the individual's natural or unusual behavior.
 
 ## Omnibus Reconciliation Act (OBRA)
-A bill, first enacted in 1987, to improve the quality of care in nursing homes for the health and safety of nursing home residents. This legislation significantly strengthened federal standards, inspections and enforcement of nursing home quality.
+A bill, first enacted in [1987](https://www.congress.gov/bill/100th-congress/house-bill/3545), to improve the quality of care in nursing homes for the health and safety of nursing home residents. This legislation significantly strengthened federal standards, inspections and enforcement of nursing home quality.
 
 ## P
 ## Person Centered Planning (PCP)
-A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: Discovery Tool, [Personal Plan](#personal-plan-pp), and Implementation Strategies.
+A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: 1) [Discovery Tool](#discovery-tool-dt), 2) [Personal Plan](#personal-plan-pp), and 3) [Implementation Strategies](#implementation-strategy).
 
 ## Personal Plan (PP)
 A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
@@ -544,7 +545,8 @@ Division of Developmental Disabilities statewide database that registers individ
 
 ## Q
 ## Qualified Intellectually Disability Professional (QIDP)
-A professional staff that who is responsible for a variety of duties such as integrating, coordinating and monitoring services for individual's with developmental disabilities. QIDP must possesses the qualifications according to the 42 CFR 483.430 
+A professional staff that who is responsible for a variety of duties such as integrating, coordinating and monitoring services for individual's with developmental disabilities. QIDP must possesses the qualifications according to the 42 CFR 483.430.
+[Click to see IDHS - QIDP Training Requirements and Gaps In Service](https://www.dhs.state.il.us/page.aspx?item=48245)
 
 ## R
 ## Redetermination (REDE)
