@@ -297,7 +297,7 @@ The Governor's Office of Management and Budget prepares the Governor's annual St
 ## Grant Accountability and Transparency Unit (GATU)
 A unit of the Governor's Office of Management and Budget that is tasked with administering the Grant Accountability and Transparency Act.
 
-## H
+## H  
 ## Home Accessibility Modifications (53H)
 *__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
 Home Accessibility Modifications include those physical adaptations to the private residence of the individual or the individual's family, required by the individual's personal plan, necessary to ensure the independence in the home and necessary repair to the adaptations.
@@ -327,9 +327,16 @@ Excluded are those adaptations or improvements to the home that are of general u
 Modifications to basements or attics are generally not included, due to safety concerns, egress concerns and potential isolation from the rest of the family. Fencing is generally not included unless elopement behavior is present and cannot be addressed in other ways.  
 </details>
   
-## Home and Community-Based Services  Waivers (HCBS)
+## Home and Community-Based Services Waivers (HCBS)
 The HCBS Waivers fund services that prevent or delay living in a long-term care facility. Illinois operates three HCBS Waivers for people with intellectual and developmental disabilities: the Adult Waiver, the Children's Residential Waiver, and the Children's Support Waiver.
 
+## The Home-Based Services (HBS) 
+The Home-Based Services program is designed to enable participants to remain living in their family home or in the case of adults, a home of their own if feasible, while receiving services that support them to achieve their personal outcomes. The HBS program provides a monthly allocation that can be used to purchase services from authorized community agencies, or to pay for Personal Support Workers (PSW) who are directed by the individual or his/her designee.  
+  
+HBS resources can be used to purchase direct services such as Community Day Services and employment services from community agencies enrolled in the Medicaid Waiver program. An organization must have an authorized Medicaid contract with the state in order to have HBS resources pay for program services. Programs offered by park districts, health clubs and community colleges do not meet this criteria and cannot be paid for directly through the HBS program. Both the Children's and Adult HBS programs permit hiring family members to perform PSW duties, though the Children's HBS program does not permit parents or other legally responsible adults to provide such services, while the Adult HBS program does permit this option. The Adult HBS program prohibits spouse's or children from providing PSW services. Community agencies may also offer PSW services on an hourly fee basis.
+
+Visit the [Home-Based Support Services (HBS) Information](https://www.dhs.state.il.us/Page.aspx?item=93376) Page for more details.
+  
 ## I
 ## Inventory for Client and Agency Planning (ICAP)
 The Inventory for Client and Agency Planning is an assessment tool to determine level of need and funding allocations for certain services. The ICAP is composed of 77 items related to an individual's adaptive behavior and 24 items related to problem behaviors, plus additional items that compile diagnostic information. The ICAP must be administered by a [Qualified Intellectual Disability Professional (QIDP)](#qualified-intellectually-disability-professional-qidp) six months prior to the date on the DDPAS-2, Part II3. The ICAP is not a substitute for the adaptive functioning assessment required in a psychological evaluation3.
@@ -668,7 +675,7 @@ These services are available within the monthly and yearly maximum to all Childr
 - Training includes instruction about treatment regimens and other services included in the Personal Plan, use of equipment specified in the Personal Plan, and includes updates as necessary to safely maintain the individual at home. Counseling must be aimed at assisting the unpaid caregiver in meeting the needs of the individual. All training for individuals who provide unpaid support to the individual must be included in the individual's Personal Plan.
 
 Training furnished to individuals who provide uncompensated care and support to the individual must be directly related to their role in supporting the individual in areas specified in the Personal Plan. Counseling similarly must be aimed at assisting unpaid individuals who support the individual to understand and address individual needs.  
-*Caregivers who are compensated for direct services under this Waiver may not receive this service.*
+* *Caregivers who are compensated for direct services under this Waiver may not receive this service.*
   
 ## V
 ## Vehicle Modifications (VM) (53V)  
