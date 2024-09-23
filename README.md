@@ -84,8 +84,8 @@ An assessment is a test or evaluation completed by a professional qualified in a
 Assistive technology devices are items, pieces of equipment, or product systems, whether acquired commercially, modified, or customized, used to increase, maintain, or improve functional capabilities of individuals. Assistive technology services directly assist an individual in the selection, acquisition, or use of an assistive technology device. 
 
 <details>
-<summary><strong> Assistive technology includes: </strong></summary> 
-
+<summary><strong> Assistive Technology includes </strong></summary> 
+  
 - Evaluation of the individual's assistive technology needs, including a functional evaluation of the impact of the provision of appropriate assistive technology and appropriate services to the individual in the customary environment of the individual.
 - Services consisting of purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices for individuals.
 - Services consisting of selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing assistive technology devices.
@@ -134,7 +134,7 @@ Community Day Services (CDS) is a day program option provided under the waiver t
 CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).  
 
 <details>
-<summary><strong> More Details </strong></summary> 
+<summary><strong> CDS Activities </strong></summary> 
   
 CDS activities should promote greater independence and personal choice. Activities can include:
 - Increasing capacity for independent living through increasing skills including fine and gross motor skills, problem solving, safety skills, activities of daily living, and adaptive skills to support positive behavioral health.
@@ -163,8 +163,10 @@ The PC-based system designed to be used for collecting and submitting required d
 
 ## Community Integrated Living Arrangement (CILA)  
 A living arrangement provided to Adult Waiver individuals in a group home, family home or apartment where eight or fewer unrelated adults with developmental disabilities reside under supervision of the community developmental services agency. Residents receive a comprehensive individualized array of residential habilitation, personal support services and supports under the direction of a community support team within the local agency.  
-  
-*Three CILA models are defined below:*
+
+ <details>
+<summary><strong> Three CILA Models </strong></summary> 
+
 - **Twenty-Four Hour CILA (60D)**
 These homes have on-site shift staff available during all times when individuals are present. Staff provide both scheduled and unscheduled supports and services as needed by individuals.
 - **Host Family CILA (60D)**
@@ -175,6 +177,7 @@ These homes have on-site shift staff available during all times when individuals
     *The difference between Standard and Comprehensive models is shift employees routinely share supervision, care and training responsibilities with the host family care giver(s) in the Comprehensive model.*
 - **Intermittent CILA (61H, 62H or 63H)**
 Typically serves individuals whose Personal Plan documents they do not require 24-hour, on-site staff presence and documents the situations in which individuals may safely be away from direct staff supervision. 24-hour, on-site staffing is not funded through Intermittent CILA. Intermittent Residential services in apartments or family homes have staff available on call 24 hours per day. On-call staff are available to provide both scheduled and unscheduled supports and services as needed by the individuals served and as specified in each individual's [Personal Plan](#personal-plan-pp).  
+</details>
 
 ## Community Living Facility (CLF)
 Serves Adult Waiver participants in a licensed residential setting. A Community Living Facility is not a nursing or medical facility and, to be eligible under the waiver, serves no more than 16 adults. There are 9 CLFs in the state.
