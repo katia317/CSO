@@ -371,7 +371,6 @@ A Personal Support Worker is a professional caregiver who provides essential ass
 <details>
 <summary><strong> Key Responsibilities of a PSW </strong></summary> 
   
-**Key Responsibilities of a Personal Support Worker:**  
 1. **Assisting with Daily Living Activities:**
    - Helping with tasks such as bathing, dressing, grooming, and toileting.
    - Supporting mobility needs, including transferring individuals from beds to wheelchairs, or assisting with walking.
