@@ -1,4 +1,4 @@
-# Terminology Dictionary by KYang
+# CSOPEDIA                                              *by KYang*
 ### Created for reference only
 
 ### Jump to:
