@@ -279,12 +279,12 @@ A severe, chronic disability that meets all of the following conditions:
 - It is manifested before the individual reaches age 22.
 - It is likely to continue indefinitely.
 - It results in substantial functional limitations in three or more of the following areas of major life activity:
- - Self-care
- - Language
- - Learning
- - Mobility
- - Self-direction
- - Capacity for independent living
+  - Self-care
+  - Language
+  - Learning
+  - Mobility
+  - Self-direction
+  - Capacity for independent living
 
 ## Reporting of Community Services (ROCS)
 A computer-based system within the Community Reporting System that collects and processes service reporting data to DHS. This data is used by DHS to monitor services, supports and funding.
