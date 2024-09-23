@@ -637,16 +637,17 @@ A written document between you and an independently hired PSW outlining the term
 ## Supported Employment Program (SEP) (33G, 36G, or 36U)
 The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.  
 - *Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
-<details>
+
+<details>  
 <summary><strong> More Details </strong></summary> 
   
 All individuals approved for the Home and Community Based Support (HCBS) Waiver for Adults with Developmental Disabilities may access the Supported Employment Program with prior approval. Requests will only be considered for individuals who meet the following criteria:  
-1. enrolled in the Adults with Developmental Disabilities HCBS Waiver; and
-2. require supportive services to work in an integrated employment environment; and
-3. have a defined, related and ongoing/long term employment support need identified in his or her Personal Plan (Career and Income section); and
-4. currently employed, either individually or in group employment, at competitive wages and in an integrated setting; and
-5. supported within the proper ratio.
-   Requests to activate Supported Employment Program funding must follow the Division of Developmental Disabilities' prior approval process.
+1. enrolled in the Adults with Developmental Disabilities HCBS Waiver; and  
+2. require supportive services to work in an integrated employment environment; and  
+3. have a defined, related and ongoing/long term employment support need identified in his or her Personal Plan (Career and Income section); and  
+4. currently employed, either individually or in group employment, at competitive wages and in an integrated setting; and  
+5. supported within the proper ratio.  
+   Requests to activate Supported Employment Program funding must follow the Division of Developmental Disabilities' prior approval process.  
 The expected outcome of the Supported Employment Program is sustained Competitive Integrated Employment that is well matched to the individuals' interests, strengths, priorities, schedules and preferences as outlined in the Personal Plan, Implementation Strategies and related documentation such as Individualized Plans for Employment and Individual Placement Plans.
 
 *__Supported Employment Program activities may include, but are not limited to:__*
