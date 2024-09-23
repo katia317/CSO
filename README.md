@@ -660,6 +660,16 @@ See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/pa
 ## Temporary or Long-Term Intensive Staffing (53D or 53R)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
 
+## Training and Counseling Services for Unpaid Caregivers (55B and 55C)
+*__Note__: These services are available in the Children's Support Waiver and Adult Waiver Programs.*
+These services are available within the monthly and yearly maximum to all Children's Support Waiver individuals and to Adult Waiver individuals who are authorized for Home-Based Support Services (HBS).  
+- This service includes training and counseling services for individuals who provide unpaid support, training, companionship, or supervision to individuals.  
+- For purposes of this service, an individual is defined as any person, family member, neighbor, friend, companion, or co-worker who provides uncompensated care, training, guidance, companionship or support to an individual served in the Waiver. This service may not be provided to train paid caregivers.
+- Training includes instruction about treatment regimens and other services included in the Personal Plan, use of equipment specified in the Personal Plan, and includes updates as necessary to safely maintain the individual at home. Counseling must be aimed at assisting the unpaid caregiver in meeting the needs of the individual. All training for individuals who provide unpaid support to the individual must be included in the individual's Personal Plan.
+
+Training furnished to individuals who provide uncompensated care and support to the individual must be directly related to their role in supporting the individual in areas specified in the Personal Plan. Counseling similarly must be aimed at assisting unpaid individuals who support the individual to understand and address individual needs.  
+*Caregivers who are compensated for direct services under this Waiver may not receive this service.*
+  
 ## V
 ## Vehicle Modifications (VM) (53V)  
 *__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*
@@ -695,6 +705,7 @@ Virtual Day Services may take place in an individual's private residence, a resi
 - Activities that encourage interaction among individuals who do not reside together.
 - Activities that encourage discussion of current events.
 - Activities that encourage exploration of the individual's community.
+  
 **Service Limits:**
 - VDS hours are included in the annual maximum of 1,200 hours, monthly maximum of 115, and 5 hour daily maximum for any combination of day programs.
 - VDS is limited to 45 hours per month and 520 hours per year.
