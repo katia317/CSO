@@ -12,7 +12,7 @@
 Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), includes performance of assessments to identify the type of equipment needed by the individual; devices, controls or appliances that enable individuals to increase their abilities to perform activities of daily living, or to perceive, control, access or communicate with the environment in which they live; other durable medical equipment not available under the Medicaid State Plan that is necessary to address individual functional limitations; and necessary initial training from the vendor to use the adaptive equipment.  
 It may also include necessary maintenance and repairs to adaptive equipment. Items reimbursed with Waiver funds are in addition to any medical equipment and supplies furnished under the Medicaid State Plan and exclude those items that are not of direct remedial benefit to the individual. All items shall meet applicable standards of manufacture, design, and installation.
 <details>
-<summary> More Details </summary>
+<summary><strong> More Details </strong></summary>
   
 - Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
 - Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
@@ -24,7 +24,7 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
 ## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
 <details>
-<summary> More Details </strong></summary>
+<summary><strong> More Details </strong></summary>
 - ### *Categories of Adaptive Skills:*
   - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
     - *Examples: Talking, listening, following instructions, writing.*
