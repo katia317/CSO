@@ -299,13 +299,16 @@ An entity within the Department of Human Services/Division of Family & Community
  A long-term care setting that provides a level of nursing care for people who have a disability, are infirm or in need of convalescence.  It is licensed by the IDPH and certified for participation in Medicaid by IDPA. NF refers only to ICF or SNF, not ICF/DD, ICF/DD-16, or SNF/PED.
 
 ## O
-## Office of Inspector General (OIG)
+## Occupational Therapy (OT) (52O)
+Occupational Therapy is a healthcare profession that focuses on helping individuals of all ages perform everyday tasks, or "occupations," that are meaningful and necessary for their daily lives. The goal of OT is to promote independence, improve quality of life, and enhance a person’s ability to engage in activities, despite physical, cognitive, emotional, or developmental challenges.
+
+## Office of Inspector General (OIG)  
 The Office of the Inspector General, within the Department of Human Services, investigates all reports of abuse, neglect and exploitation, to foster humane, competent, respectful and caring treatment of individuals with physical, developmental and/or mental disabilities. It also assists State agencies and facilities in prevention efforts.
 
-## Office of State Guardian (OSG)
+## Office of State Guardian (OSG)  
 A state entity that handles the personal, financial, and legal affairs of people with developmental disabilities, mental illness and elderly persons with disabilities.
 
-## Organic Brain Syndrome (OBS)
+## Organic Brain Syndrome (OBS)  
 A constellation of psychological or behavioral signs or symptoms due to presumed organic cause without reference to specific organic etiology, which manifest themselves as one or more of the following: disturbance in orientation; impairment of memory; impairment in the level of consciousness and attention; impairment of intellectual functions (comprehension, calculation, knowledge, learning); defective judgement; liability, shallowness, and similar instabilities of the affect; and overall changes in the personality, with the appearance of conduct foreign to the individual's natural or unusual behavior.
 
 ## Omnibus Reconciliation Act (OBRA)
@@ -316,13 +319,46 @@ A bill, first enacted in 1987, to improve the quality of care in nursing homes f
 A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: Discovery Tool, Personal Plan, and Implementation Strategies.
 
 ## Personal Plan (PP)
-single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.
+A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
+Personal Plan is required for **all individuals** in a DD Waiver program.
 
-## Personal Support Worker  (PSW)
-Personal Plan is required for all individuals in a DD Waiver program.
+## Personal Support Worker (PSW)
+A Personal Support Worker is a professional caregiver who provides essential assistance to individuals who may need help with daily activities due to age, illness, disability, or other health-related issues. PSWs typically work in home care settings, long-term care facilities, hospitals, or community-based programs. Their main role is to promote the well-being, dignity, and independence of the people they support.  
+**Key Responsibilities of a Personal Support Worker:**  
+1. **Assisting with Daily Living Activities:**
+   - Helping with tasks such as bathing, dressing, grooming, and toileting.
+   - Supporting mobility needs, including transferring individuals from beds to wheelchairs, or assisting with walking.
+
+2. **Meal Preparation and Feeding:**
+   - Preparing meals based on dietary restrictions or personal preferences.
+   - Assisting with feeding if the individual has difficulty eating independently.
+
+3. **Medication Assistance:**
+  - Reminding clients to take prescribed medications at the appropriate times.
+  - Helping with medication administration in accordance with care plans.
+  
+4. **Household Tasks:**
+   - Performing light housekeeping duties such as laundry, cleaning, and organizing living spaces.
+   - Running errands like grocery shopping or picking up medications.
+
+5. **Emotional and Social Support:**
+   - Providing companionship and emotional support to reduce feelings of isolation and loneliness.
+   - Engaging clients in conversation, activities, or hobbies to improve their mental well-being.
+
+6. **Monitoring Health Conditions:**
+   - Observing and reporting changes in the client’s physical or mental health to family members, nurses, or healthcare providers.
+   - Assisting with basic health monitoring, such as taking blood pressure or checking blood sugar levels.
+
+7. **Advocacy and Communication:**
+   - Acting as a liaison between the client and other healthcare providers or family members to ensure care needs are met.
+   - Ensuring the client’s preferences and needs are respected and understood by others.
+
+## Physical Therapy (PT)
+Physical therapy, also known as *physiotherapy*, is a healthcare profession that aims to improve movement and mobility in persons with compromised physical functioning. It involves patient education, physical intervention, disease prevention, and health promotion
 
 ## Prader-Willi Syndrome (PWS)
-A congenital spectrum disorder marked by short stature, hypotonia (flaccid muscles), hypogonadism (underdeveloped sex organs), obesity, insensitivity to pain, short hands and feet, mild to moderate intellectual impairment, and learning disabilities. 成人和儿童的主要临床特征包括：多食(常导致早发型肥胖)、性腺功能减退、发育迟缓、特征性行为(如强迫倾向、脾气暴躁、持续言语、坚持同一性和刻板)、特征性面容。婴儿期最明显的表现是肌张力低下和喂养困难。
+A congenital spectrum disorder marked by short stature, hypotonia (flaccid muscles), hypogonadism (underdeveloped sex organs), obesity, insensitivity to pain, short hands and feet, mild to moderate intellectual impairment, and learning disabilities.   
+in Chinese: 成人和儿童的主要临床特征包括：多食(常导致早发型肥胖)、性腺功能减退、发育迟缓、特征性行为(如强迫倾向、脾气暴躁、持续言语、坚持同一性和刻板)、特征性面容。婴儿期最明显的表现是肌张力低下和喂养困难。
 
 ## Pre-Admission Screening  (PAS)
 A Pre-Admission Screening is one of the four services that ISCs provide. A PAS assessment is required by the Federal Medicaid agency to determine the individual has a developmental disability or related condition and is eligible to receive services.
@@ -396,10 +432,13 @@ A setting for maintenance and personal care licensed by Illinois Department of P
 ## Skilled Nursing Facility (SNF)
 A facility which provides skilled nursing care, continuous skilled nursing observations, restorative nursing, and other services under professional direction with frequent medical supervision. These facilities are licensed by IDPH and certified by HFS for Medicaid participation.
 
-## Skilled Nursing Facility for Pediatric Residents (SNF/PED)
- A facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
+## Skilled Nursing Facility for Pediatric Residents (SNF/PED)  
+A facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
 
-## Speech-Language Pathologist
+## Speech Therapy (ST) (52S)  
+Speech Therapy is a therapeutic intervention aimed at improving an individual's ability to communicate effectively, including addressing issues related to speech, language, voice, fluency, and swallowing. It is typically conducted by a licensed professional known as a *speech-language pathologist (SLP)* or *speech therapist*. The therapy helps individuals of all ages who may have difficulty with speaking, understanding language, or using their voice properly.
+
+## Speech-Language Pathologist (SLP) / Speech Therapist  
 A professional who is licensed or registered with the Illinois Department of Financial and Professional Regulation as a speech-language pathologist.
 
 ## State Guardian, Office of  (OSG)
