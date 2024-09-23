@@ -80,7 +80,6 @@ An assessment is a test or evaluation completed by a professional qualified in a
 ## Assistive Technology (53T)
 *__Note__: This service is available in all three waiver programs.*
 Assistive technology devices are items, pieces of equipment, or product systems, whether acquired commercially, modified, or customized, used to increase, maintain, or improve functional capabilities of individuals. Assistive technology services directly assist an individual in the selection, acquisition, or use of an assistive technology device. 
-
 <details>
 <summary><strong> Assistive Technology includes </strong></summary> 
   
@@ -130,7 +129,6 @@ CIE can only occur at integrated locations where employees with disabilities int
 ## Community Day Services (31C or 31U)
 Community Day Services (CDS) is a day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
 CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).  
-
 <details>
 <summary><strong> CDS Activities </strong></summary> 
   
@@ -161,7 +159,6 @@ The PC-based system designed to be used for collecting and submitting required d
 
 ## Community Integrated Living Arrangement (CILA)  
 A living arrangement provided to Adult Waiver individuals in a group home, family home or apartment where eight or fewer unrelated adults with developmental disabilities reside under supervision of the community developmental services agency. Residents receive a comprehensive individualized array of residential habilitation, personal support services and supports under the direction of a community support team within the local agency.  
-
  <details>
 <summary><strong> Three CILA Models </strong></summary> 
 
@@ -190,7 +187,6 @@ The care involved and the gradual return to health after an acute illness. To be
 ## Counseling (Individual and Group) (57U or 57G)  
 *Note: This service is available only in the Adult Waiver.*
 Counseling is a treatment approach in which a licensed professional meets with one or more individuals in ongoing periodic formal sessions and uses relationship skills to promote the individuals' abilities to deal with daily living issues associated with their emotional, cognitive, or behavioral problems using a variety of supportive and re-education techniques.  
-
 <details>
 <summary><strong> More Details </strong></summary> 
   
@@ -302,7 +298,6 @@ A unit of the Governor's Office of Management and Budget that is tasked with adm
 Home Accessibility Modifications include those physical adaptations to the private residence of the individual or the individual's family, required by the individual's personal plan, necessary to ensure the independence in the home and necessary repair to the adaptations.
 Home accessibility modifications may be either permanent or not permanent. Permanent home modifications are either structural modifications or items attached to the home. All services must be provided in accordance with applicable State or local building codes.
 For modifications to agency owned CILA sites, please see the [CILA User Guide](https://www.dhs.state.il.us/page.aspx?item=16043).
-
 <details>
 <summary><strong> Examples of Home Accessibility Modifications </strong></summary> 
   
@@ -425,7 +420,6 @@ Personal Plan is required for **all individuals** in a DD Waiver program.
 *__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
 This service is available within the monthly maximum for individuals in the Adult Waiver and monthly and yearly maximum for all individuals in the Children's Support Waiver who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs).
 The Waiver affords individuals the opportunity to direct their services through employer authority and budget authority. The individual exercises choice and control over the personal support workers who provide services. Individuals and/or their guardians, if applicable, exercise decision-making authority and management responsibility for their budgets. Within the overall cost limit, the individuals determine the type and amount of services to be purchased and establish rates for their personal support workers.  
-
 <details>
 <summary><strong> More Details about PS </strong></summary> 
   
@@ -467,7 +461,6 @@ All Personal Support providers, whether agencies or personal support workers, mu
 
 ## Personal Support Worker (PSW)
 A Personal Support Worker is a professional caregiver who provides essential assistance to individuals who may need help with daily activities due to age, illness, disability, or other health-related issues. PSWs typically work in home care settings, long-term care facilities, hospitals, or community-based programs. Their main role is to promote the well-being, dignity, and independence of the people they support. 
-
 <details>
 <summary><strong> Key Responsibilities of a PSW </strong></summary> 
   
@@ -513,7 +506,6 @@ A Pre-Admission Screening is one of the four services that ISCs provide. A PAS a
 ## Psychotherapy (Individual and Group) (58U or 58G)  
 *Note: This service is available __only__ in the Adult Waiver*  
 Psychotherapy is a treatment approach in which a licensed provider engages with one or more individuals seen simultaneously, if applicable, in ongoing periodic formal sessions with the goal of reducing the symptoms of emotional, cognitive, or behavioral distress and promoting positive emotional, cognitive, behavioral development, and individual goals. The therapeutic approach should utilize evidence-based approaches, appropriate for supporting the individual's goals and/or addressing self-defeating choices or behavior.  
-
 <details>
 <summary><strong> More Details </strong></summary> 
   
@@ -543,7 +535,6 @@ The State agency in Illinois responsible, among other things, for the licensure
 
 ## [PUNS for Persons with Developmental Disabilities (PUNS)](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc7)
 PUNS is a database that registers individuals who want or need DDD Waiver services. People that are interested in receiving services through an ICF/DD should work with the ISC agency to explore potential ICF/DD providers. Individuals can still seek placement on PUNS while exploring ICF/DDs. At the time of enrollment into the database, the ISC must explain all service options available to the person. ISCs can use the [Illinois PUNS Form - Enrollment Tool](https://www.dhs.state.il.us/OneNetLibrary/27897/documents/DD/PUNsTool082718.pdf). 
-  
 <details>
 <summary><strong> 2 categories of PUNS database </strong></summary>  
   
@@ -646,7 +637,6 @@ A written document between you and an independently hired PSW outlining the term
 ## Supported Employment Program (SEP) (33G, 36G, or 36U)
 The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.  
 - *Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
-
 <details>
 <summary><strong> More Details </strong></summary> 
   
@@ -709,7 +699,6 @@ Training furnished to individuals who provide uncompensated care and support to 
 *__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*
 Vehicle Modifications are adaptations or alterations to an automobile or van that is the individual's primary means of transportation to accommodate the special needs of the individual.
 Vehicle adaptations are specified by the Personal Plan as necessary to enable the individual to integrate more fully into the community and to ensure the health, welfare, and safety of the individual. 
-
 <details>
 <summary><strong> Examples of Vehicle Modifications </strong></summary> 
   
@@ -729,7 +718,6 @@ The individual, a family member with whom the individual lives or has consistent
 ## Virtual Day Service (VDS) (31V)
 A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
 Virtual Day Services may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
-
 <details>
 <summary><strong> More Details </strong></summary> 
   
