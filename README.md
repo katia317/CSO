@@ -134,7 +134,6 @@ A Division within the Department of Human Services that serves at the State's Me
 A Division within the Department of Human Services that serves as the state's lead entity responsible for assisting individuals with disabilities to prepare for, locate and maintain employment. This Division also ensures that people with disabilities make informed choices to achieve full community participation through employment, education, and independent living opportunities.
 
 ## E
-
 ## Enhanced Residential (formerly At-Home) Day Program (37U)
 Enhanced Residential Day Program is part of the residential habilitation program for Adult Waiver individuals and based in the individual's CILA home. Enhanced Residential Day Program provides a structured, individualized program of in-home and community habilitation activities for individuals who are unable to participate in traditional, out-of-home community day service programs because the individual:
 Has an illness or medical condition(s) or severe maladaptive behavior(s) that prevent participation in a vocational or day habilitation programing;
