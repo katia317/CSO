@@ -280,6 +280,33 @@ The Governor's Office of Management and Budget prepares the Governor's annual St
 A unit of the Governor's Office of Management and Budget that is tasked with administering the Grant Accountability and Transparency Act.
 
 ## H
+## Home Accessibility Modifications (53H)
+*__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
+Home Accessibility Modifications include those physical adaptations to the private residence of the individual or the individual's family, required by the individual's personal plan, necessary to ensure the independence in the home and necessary repair to the adaptations.
+Home accessibility modifications may be either permanent or not permanent. Permanent home modifications are either structural modifications or items attached to the home. All services must be provided in accordance with applicable State or local building codes.
+For modifications to agency owned CILA sites, please see the [CILA User Guide](https://www.dhs.state.il.us/page.aspx?item=16043).
+
+<details>
+<summary><strong> Examples of Home Accessibility Modifications </strong></summary> 
+  
+- Ramps, lifts or elevators necessary to enter or leave the home or to access a bedroom or a bathroom, including porch or stair lifts and hydraulic, manual, or electric lifts.
+- Bathroom modifications, including roll-in showers, sink modifications, bathtub modifications, toilet modifications, grab bars, adapted water faucet controls, floor urinal and bidet adaptations and plumbing modifications, and turnaround space adaptations.
+- Widening of doorways/hallways (may include minimally necessary floor covering to cover the new floor area).
+- Specialized accessibility/safety adaptations/additions including grab bars; necessary handrails beyond those normally required by building codes; lowered or adaptive door handles; adapted fire alarms, sprinklers, smoke detectors, and doorbells; automatic door openers/doorbells/ voice-activated, light-activated, motion-activated and electronically activated devices; fire safety adaptations; and electrical wiring associated with the above.
+
+Excluded are those adaptations or improvements to the home that are of general utility. 
+**Examples of items NOT considered to be covered home modifications** include:
+- Cosmetic refurbishment
+- Items that add value to the home
+- Roof repair
+- Installation or repair of furnace/air conditioning
+- Replacement of floor covering; replacement or repair of stairs, windows, driveways, or sidewalks
+- Installation of hot tubs, spas, whirlpool tubs, saunas, and replacing an existing tub with a new tub
+- Room renovation, exterior renovation, or renovations to a porch or deck
+- Adaptations that add to the total square footage of the home
+- Seasonal items such as swimming pools and related equipment  
+</details>
+  
 ## Home and Community-Based Services  Waivers (HCBS)
 The HCBS Waivers fund services that prevent or delay living in a long-term care facility. Illinois operates three HCBS Waivers for people with intellectual and developmental disabilities: the Adult Waiver, the Children's Residential Waiver, and the Children's Support Waiver.
 
