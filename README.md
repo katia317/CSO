@@ -1,4 +1,4 @@
-# CSOPEDIA     *by KYang*
+# CSO-PEDIA     *by KYang*
 ### Created for reference only
 
 ### Jump to:
@@ -150,6 +150,26 @@ The Federal government regulations require states to separate case management fr
 
 ## Convalescent Care
 The care involved and the gradual return to health after an acute illness. To be considered for convalescent care, the individual must be discharged from a hospital setting. Usually convalescent care is obtained in a nursing facility setting. On occasion, an ICF/MR may be able to provide such care.
+
+## Counseling (Individual and Group) (57U or 57G)  
+*Note: This service is available only in the Adult Waiver.*
+Counseling is a treatment approach in which a licensed professional meets with one or more individuals in ongoing periodic formal sessions and uses relationship skills to promote the individuals' abilities to deal with daily living issues associated with their emotional, cognitive, or behavioral problems using a variety of supportive and re-education techniques.
+The Personal Plan must include documentation of the individual's need for counseling and services.
+A counseling strategy must be developed and approved in writing by the individual and/or guardian, if applicable. This plan should include:
+- A brief summary describing the emotional, cognitive, or behavioral concerns to be addressed by counseling. The individual's goals for counseling should be identified. The description should note the frequency and severity of problem behaviors identified by others and the individual's attitude and perspective regarding the concerns of others
+- For individuals who have a dual diagnosis with a mental illness or are taking psychoactive medications, there should be a summary of psychiatric diagnoses and medications that are currently being prescribed.
+- Description of specific, person-centered counseling strategies to be provided by the counselor to assist the individual to meet the goals.
+  
+Each individual or group counseling contact requires a clinical narrative documenting the specific counseling service provided as well as the specific date and time the service was rendered. The counselor or psychotherapist must maintain documentation that reflects a brief description of the session's focus and periodic reviews of progress towards agreed upon treatment goals.  
+Counseling includes:
+- Participation in the Person-Centered Planning process and consultation with the ISC provider agency, guardian, if applicable, and family related to the individual's needs and goals for counseling supports, as well as previous attempts to address the individual's needs.
+- The development of a strategy that outlines the provision of individualized counseling services.
+- Assessing information on the frequency and severity of the individual's struggles and their capacity to identify their contribution.
+- Individual face-to-face contacts addressing goals identified in the individual's counseling strategy.
+- Collecting collateral data for use in treatment (cannot exceed 10% of billable time)  
+Group counseling includes sessions in which the counselor meets with two or more individuals to address their individual goals identified in their individualized counseling plans.  
+Counseling can be provided to individuals who are temporarily absent from, but will be returning to, their residential setting (SNF, Hospital, etc.) as long as the current temporary provider (SNF, Hospital, etc.) approves the counseling service to be provided in their location, the service is being provided and supporting documentation is maintained. Location of the service should be part of the supporting documentation.  
+Since each counselor must enroll in IMPACT to provide services to waiver participants, billing for services must be done under the provider who provided the service.
 
 ## D
 ## Dementia
@@ -306,6 +326,26 @@ A congenital spectrum disorder marked by short stature, hypotonia (flaccid mus
 
 ## Pre-Admission Screening  (PAS)
 A Pre-Admission Screening is one of the four services that ISCs provide. A PAS assessment is required by the Federal Medicaid agency to determine the individual has a developmental disability or related condition and is eligible to receive services.
+
+## Psychotherapy (Individual and Group) (58U or 58G)  
+*Note: This service is available __only__ in the Adult Waiver*  
+Psychotherapy is a treatment approach in which a licensed provider engages with one or more individuals seen simultaneously, if applicable, in ongoing periodic formal sessions with the goal of reducing the symptoms of emotional, cognitive, or behavioral distress and promoting positive emotional, cognitive, behavioral development, and individual goals. The therapeutic approach should utilize evidence-based approaches, appropriate for supporting the individual's goals and/or addressing self-defeating choices or behavior.  
+The person-centered planning team must recommend psychotherapy prior to the individual receiving services. The Personal Plan must include documentation of an individual's goals, how psychotherapy would help them attain those goals and the services to be provided by the licensed Psychotherapist.  
+- A psychotherapy plan must be developed in writing within 45 days of initial contact. This plan should include:
+- A brief description of the individual's goals and emotional, cognitive, or behavioral concerns to be addressed by therapy. The description should note the frequency and severity of any problem behaviors, as well as previous attempts to address the concerns.
+- If the individual is dually diagnosed with a mental illness or is taking psychoactive medications, a summary of psychiatric diagnoses and medications and their effectiveness on symptoms or target behaviors should be summarized.
+- A description of person-centered, specific, measurable goals that will be addressed by therapy. Goals should include time frames for estimated attainment.
+- A description of specific, person-centered therapeutic strategies to be provided by the therapist to assist the individual to meet the goals.  
+Each individual or group therapy contact requires a clinical narrative documenting the specific therapy service provided as well as the specific date and time the service was rendered. The clinical psychologist must maintain documentation that reflects a brief description of the session's focus and periodic reviews of progress toward established therapy goals for each individual.
+  
+*Psychotherapy incudes:*
+- Participation in Personal Plan development and review related to the need for therapy supports.
+- Development of the individualized psychotherapy plan with input from the individual being supported.
+- Assessing information on the frequency and severity of an individual's struggles including self-identified issues and counterproductive choices and behaviors.
+- Individual face-to-face contacts addressing goals identified in the individual's psychotherapy plan.  
+Group therapy includes sessions in which therapist meets with two or more individuals to address goals identified in their individualized psychotherapy plans.   
+Therapy can be provided to individuals who are temporarily absent from, but will be returning to, their residential setting (SNF, Hospital, etc.) as long as the current temporary provider (SNF, Hospital, etc.) approves the therapy service to be provided in their location, the service is being provided and supporting documentation is maintained. Location of the service should be part of the supporting documentation.  
+Since each therapist must enroll in IMPACT to provide services to waiver participants, billing for services must be done under the provider who provided the service.
 
 ## Public Aid, Illinois Department of (IDPA)
 The former name for the Illinois Department of Healthcare and Family Services. 
