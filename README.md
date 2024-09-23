@@ -79,6 +79,21 @@ Professional who specializes in non-medical evaluation and rehabilitation or hea
 ## Assessment
 An assessment is a test or evaluation completed by a professional qualified in an area of expertise. Assessments help accurately determine your levels of independence or supports needed to ensure your safety and well-being.
 
+## Assistive Technology (53T)
+*__Note__: This service is available in all three waiver programs.*
+Assistive technology devices are items, pieces of equipment, or product systems, whether acquired commercially, modified, or customized, used to increase, maintain, or improve functional capabilities of individuals. Assistive technology services directly assist an individual in the selection, acquisition, or use of an assistive technology device. 
+
+<details>
+<summary><strong> Assistive technology includes: </strong></summary> 
+
+- Evaluation of the individual's assistive technology needs, including a functional evaluation of the impact of the provision of appropriate assistive technology and appropriate services to the individual in the customary environment of the individual.
+- Services consisting of purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices for individuals.
+- Services consisting of selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing assistive technology devices.
+- Coordination and use of necessary therapies, interventions, or services with assistive technology devices, such as therapies, interventions, or services associated with other services in the Personal Plan.
+- Training or technical assistance for the individual, or, where appropriate, the family members, guardians, advocates, or authorized representatives of the individual.
+- Training or technical assistance for professionals or other persons who provide services to, employ, or are otherwise substantially involved in the major life functions of individuals.
+</details>
+
 ## B
 ## Behavior Intervention and Treatment (56U)
 *__Note__: This service is available in all three Waiver Programs.*
@@ -487,7 +502,7 @@ A written document between you and an independently hired PSW outlining the term
 
 ## Supported Employment Program (SEP) (33G, 36G, or 36U)
 The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.  
-*Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
+- *Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
 
 <details>
 <summary><strong> More Details </strong></summary> 
