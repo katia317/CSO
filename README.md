@@ -233,20 +233,20 @@ State agency responsible for helping older adults live independently in their ow
 
 ## Developmental Disability (DD)
 An intellectual disability or related condition that is manifested before age 18 or 22 respectively, is likely to continue indefinitely and results in substantial functional limitations in major life activity.
-
+  
 ## Discovery Tool (DT)
-A document the ISC uses in the Person-Centered Planning process to gather information on what is important to and important for a person. The Tool addresses 10 life areas. It is designed to lead conversations about a person's preferences, strengths, needs, barriers, and risks that are present. This information is used to develop the Personal Plan.
+A document the ISC uses in the Person-Centered Planning process to gather information on what is important to and important for a person. The Tool addresses 10 life areas. It is designed to lead conversations about a person's preferences, strengths, needs, barriers, and risks that are present. This information is used to develop the Personal Plan.  
 [Click to see Discovery Tool Form (06/2017)](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/DiscoveryTool.pdf)
-
+  
 ## Division of Developmental Disabilities (DDD)
 A Division within the Department of Human Services that provides services and supports for individuals with developmental disabilities and their families.
-
+  
 ## Division of Mental Health (DMH)
 A Division within the Department of Human Services that serves at the State's Mental Health Authority. This Division is responsible for assuring that children, adolescents and adults, throughout Illinois, have the availability of and access to public-funded mental health services for those who are diagnosed with a mental illness or emotional disturbance and who have an impaired level of functioning based on a mental health assessment.
-
+  
 ## Division of Rehabilitation Services (DRS)
 A Division within the Department of Human Services that serves as the state's lead entity responsible for assisting individuals with disabilities to prepare for, locate and maintain employment. This Division also ensures that people with disabilities make informed choices to achieve full community participation through employment, education, and independent living opportunities.
-
+  
 ## E
 ## Enhanced Residential (formerly At-Home) Day Program (37U)
 Enhanced Residential Day Program is part of the residential habilitation program for Adult Waiver individuals and based in the individual's CILA home. Enhanced Residential Day Program provides a structured, individualized program of in-home and community habilitation activities for individuals who are unable to participate in traditional, out-of-home community day service programs because the individual:
