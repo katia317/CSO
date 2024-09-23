@@ -16,10 +16,8 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
   
 - Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
 - Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
-- *Medical equipment and supplies are not considered adaptive equipment.*
-
+- *Medical equipment and supplies are not considered adaptive equipment.*  
 </details>
-
   
 ## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
@@ -58,14 +56,14 @@ A program within the Illinois Department on Aging that investigates abuse, negle
 ## Adult Waiver
 A program for adults, age 18 and over, with Developmental Disabilities that provides support to prevent or delay out-of-home residential services or to provide residential services in the least restrictive community setting for individuals who would otherwise need ICF/DD level of care.
 
-## All Kids
+## [All Kids](https://hfs.illinois.gov/medicalprograms/allkids/about.html)
 Illinois' comprehensive health insurance program for children. The program covers doctor visits, hospital stays, prescription drugs, vision care, dental care, eyeglasses, regular check-ups and immunizations (shots). All Kids also covers special services like medical equipment, speech therapy, and physical therapy for children who need them.
 
 ## Active Treatment (AT) for Individuals with a Developmental Disability (AT)
  A continuous program for each individual that includes aggressive, consistent implementation of a program for specialized and generic training, treatment, health services and related services that are directed toward:
 
 ## Alzheimer's Disease
-Alzheimer's Disease and related disorders are one type of dementia. 
+Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die. Alzheimer's disease is the most common cause of [dementia](#dementia) — a gradual decline in memory, thinking, behavior and social skills. These changes affect a person's ability to function. 
 
 ## Appeal Rights
 If you have been denied eligibility, services, or have been terminated, suspended, or received a reduction of waiver-funded services, you have the right to ask that this decision be reconsidered.
@@ -224,13 +222,13 @@ The final phase in the PAS process. Based on the completed assessments, determin
 ## Dual Sensory Impairment
 Concomitant hearing and visual impairments. The combination of these impairments causes such severe communication, mobility, developmental, self-care, or work-related problems that the individual cannot be accommodated in programs solely for individuals who have a hearing or visual impairment. An individual is considered to have a visual impairment if unable to travel in and out of his/her own environment without assistance and, because of visual deficits, has reduced ability to see print.
 
-## Department of Children and Family Services (DCFS)
+## [Department of Children and Family Services (DCFS)](https://dcfs.illinois.gov/)
 State agency that is responsible for protecting children who are reported to be abused or neglected. DCFS also works to increase families' capacity to safely care for their children; provide for the well-being of children in their care; provide appropriate, permanent families as quickly as possible for those children who cannot safely return home; support early intervention and child abuse prevention activities.
 
-## Department of Human Services (DHS)
+## [Department of Human Services (DHS)](https://www.dhs.state.il.us/)
 State agency that community health and prevention programs, oversees interactive provider networks that treat persons with developmental disabilities, mental health and substance abuse challenges and provides rehabilitation services. This agency also aids eligible, low-income individuals and families with essential financial support, locating training and employment opportunities and obtaining child care in addition to other family services.
 
-## Department on Aging (DOA)
+## [Department on Aging (DOA)](https://ilaging.illinois.gov/)
 State agency responsible for helping older adults live independently in their own homes and communities.
 
 ## Developmental Disability (DD)
@@ -238,6 +236,7 @@ An intellectual disability or related condition that is manifested before age 18
 
 ## Discovery Tool (DT)
 A document the ISC uses in the Person-Centered Planning process to gather information on what is important to and important for a person. The Tool addresses 10 life areas. It is designed to lead conversations about a person's preferences, strengths, needs, barriers, and risks that are present. This information is used to develop the Personal Plan.
+[Click to see Discovery Tool Form (06/2017)](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/DiscoveryTool.pdf)
 
 ## Division of Developmental Disabilities (DDD)
 A Division within the Department of Human Services that provides services and supports for individuals with developmental disabilities and their families.
