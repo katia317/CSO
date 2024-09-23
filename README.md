@@ -99,6 +99,29 @@ CIE can only occur at integrated locations where employees with disabilities int
 ## Community Day Services (CDS) (31C or 31U)
 A day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
 CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).
+Community Day Services (31C or 31U)
+Community Day Services (CDS) is a day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
+CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).  
+CDS activities should promote greater independence and personal choice. Activities can include:
+- Increasing capacity for independent living through increasing skills including fine and gross motor skills, problem solving, safety skills, activities of daily living, and adaptive skills to support positive behavioral health.
+- Training in a specific skill (i.e., Use of personal technology or assistive devices) or learning about different topics, including topics of personal interest, self-determination and self-advocacy.
+- Participating in experiences that coincide with an individual's interests.
+- Engaging in community activities, groups, associations, classes or clubs to develop social networks.
+- Discovering or participating in hobbies, leisure, or cultural interests in the community to promote personal health and wellness (i.e., Yoga class, walking group, etc.).
+- Participating in formal and informal associations or community and/or neighborhood groups.
+- Learning to navigate the local community, including learning to use public transportation and/or private transportation available in the local area.
+- May enhance an individual's ability to engage in productive work activities through a focus on such habilitative goals as compliance, attendance, and task completion.
+- Participating in Pre-vocational activities such as:
+  - Job/career exploration (cannot be paid employment).
+  - Exploring volunteer opportunities or volunteering in their community.
+  - Supports to enhance the individual's capacity to work well with others, maintain adequate attendance, and complete delegated tasks
+- Includes the reduction of choices and behaviors that potentially would interfere with attaining a productive role through feedback, guidance, and positive behavioral supports.
+  
+*Community Day Services does not include the following:*
+- Special education and related services (as defined in Section 601 (16) and (17) of the individuals with Disabilities Education Act) which otherwise are available to the individual through a local education agency.
+- Vocational rehabilitation services which otherwise are available to the individual through a program funded under Section 110 of the Rehabilitation Act of 1973.
+Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
+Includes transportation between the residence and other community locations where day services occur. The cost of this transportation is included in the rate paid to providers of Community Day Services. Training and assistance in transportation usage are provided as needed. Services provided in community locations where members of the general community typically congregate (non-site based) will begin billing once the individual or group reaches the site of the first planned activity of the day and end when leaving the last activity planned for the day. If going to a community location, the provider does not need to first meet at a site based CDS location.
 
 ## Community Reporting System (CRS)
 The PC-based system designed to be used for collecting and submitting required data to the Department of Human Services (DHS) by those community providers who have contracted with the Department to provide services for individuals.
@@ -168,7 +191,10 @@ Enhanced Residential Day Program is part of the residential habilitation program
 - Has an illness or medical condition(s) or severe maladaptive behavior(s) that prevent participation in a vocational or day habilitation programing;
 - Is over the age of 60 and declines to participate in traditional, out-of-home day habilitation programing;
 - Is unable to locate a traditional community day service program to serve him/her or the community day service program is not appropriate to meet his/her needs;
-- Has chosen not to participate in traditional day habilitation services on a full or part-time basis.  Because individuals receiving this service require supports not able to be met in a traditional CDS program, the staffing ratio for this service can vary between 1:1 and 1:3, support staff to participant. The amount of authorized support is identified on the rate determination form.  Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.  Enhanced Residential Day Program requires prior approval. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Enhanced Residential Day Program.
+- Has chosen not to participate in traditional day habilitation services on a full or part-time basis.
+  Because individuals receiving this service require supports not able to be met in a traditional CDS program, the staffing ratio for this service can vary between 1:1 and 1:3, support staff to participant. The amount of authorized support is identified on the rate determination form.
+  Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
+  Enhanced Residential Day Program requires prior approval. See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Enhanced Residential Day Program.
 
 ## Epilepsy
 A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. (Epilepsy in Chinese: 癫痫)
@@ -364,6 +390,12 @@ Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver indi
 
 ## V
 ## Virtual Day Service (VDS) (31V)
-A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.
+A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
 Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.
+*The following are examples of VDS Programming:*
+- Activities related to the development of hobbies or leisure/cultural interests or to promote personal health and wellness (e.g. yoga class, meditation group, etc.).
+- Activities related to training and education for self-determination and self-advocacy.
+- Activities that encourage interaction among individuals who do not reside together.
+- Activities that encourage discussion of current events.
+- Activities that encourage exploration of the individual's community.
 
