@@ -1,4 +1,4 @@
-# CSOPEDIA                                              *by KYang*
+# CSOPEDIA     *by KYang*
 ### Created for reference only
 
 ### Jump to:
@@ -9,22 +9,22 @@
 ## A
 ## Adaptive skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
-### Categories of Adaptive Skills:
-1. Communication Skills: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
+### *Categories of Adaptive Skills:*
+*1. Communication Skills*: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
 Examples: Talking, listening, following instructions, writing.
-2. Social Skills: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
+*2. Social Skills*: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
 Examples: Sharing, taking turns, problem-solving, making friends, handling conflict.
-3. Self-Care Skills: Basic tasks related to personal hygiene, health, and grooming.
+*3. Self-Care Skills*: Basic tasks related to personal hygiene, health, and grooming.
 Examples: Dressing, bathing, brushing teeth, toileting.
-4. Home Living Skills: Abilities needed to manage a household and perform daily domestic activities.
+*4. Home Living Skills*: Abilities needed to manage a household and perform daily domestic activities.
 Examples: Cooking, cleaning, laundry, managing household chores.
-5. Work Skills: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.
+*5. Work Skills*: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.
 Examples: Punctuality, completing tasks, following instructions, teamwork.
-6. Leisure Skills: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.
+*6. Leisure Skills*: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.
 Examples: Playing games, participating in sports, crafting, reading.
-7. Health and Safety Skills: Knowledge and actions that ensure personal well-being and safety in various environments.
+*7. Health and Safety Skills*: Knowledge and actions that ensure personal well-being and safety in various environments.
 Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.
-8. Functional Academics: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
+*8. Functional Academics*: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
 Examples: Telling time, counting change, reading a menu or instructions.
 
 ## Adult Protective Service (APS)
@@ -275,16 +275,16 @@ The process, usually every 12 months, of reassessing a person's eligibility for 
 
 ## Related Conditions
 A severe, chronic disability that meets all of the following conditions:
-It is attributable to Cerebral palsy or epilepsy or any other condition, other than mental illness, found to be closely related to intellectual disability  because this condition results in impairment of general intellectual functioning or adaptive behavior similar to that of persons with intellectual disability persons, and requires treatment or services similar to those required for these persons.
-It is manifested before the individual reaches age 22.
-It is likely to continue indefinitely.
-It results in substantial functional limitations in three or more of the following areas of major life activity:
-Self-care
-Language
-Learning
-Mobility
-Self-direction
-Capacity for independent living
+ - It is attributable to Cerebral palsy or epilepsy or any other condition, other than mental illness, found to be closely related to intellectual disability  because this condition results in impairment of general intellectual functioning or adaptive behavior similar to that of persons with intellectual disability persons, and requires treatment or services similar to those required for these persons.
+ - It is manifested before the individual reaches age 22.
+ - It is likely to continue indefinitely.
+ - It results in substantial functional limitations in three or more of the following areas of major life activity:
+ -- Self-care
+ -- Language
+ -- Learning
+ -- Mobility
+ -- Self-direction
+ -- Capacity for independent living
 
 ## Reporting of Community Services (ROCS)
 A computer-based system within the Community Reporting System that collects and processes service reporting data to DHS. This data is used by DHS to monitor services, supports and funding.
