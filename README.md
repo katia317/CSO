@@ -64,8 +64,21 @@ Illinois' comprehensive health insurance program for children. The program cover
 A continuous program for each individual that includes aggressive, consistent implementation of a program for specialized and generic training, treatment, health services and related services that are directed toward:
 - "The acquisition of behaviors necessary for the individual to function with as much self-determination and independence as possible.
 - "The prevention or deceleration of regression or loss of current optimal functional status.
-- "Active treatment does not include services to maintain generally independent individuals who are able to function with little supervision or in the absence of a continuous active treatment program." 42 Code of Federal Regulations Chapter IV [10-1-96 Edition], Section 483.440 (a).
+- "Active treatment does not include services to maintain generally independent individuals who are able to function with little supervision or in the absence of a continuous active treatment program." 42 Code of Federal Regulations Chapter IV [10-1-96 Edition](https://www.dhs.state.il.us/page.aspx?item=97101), Section 483.440 (a).
+<details>
+<summary><strong> Guidelines on assessment regarding the individual's needs for active treatment: </strong></summary>
+  
+- Does the individual require continuous programming to acquire new skills or maintain current ones? _("Continuous" is considered to mean that the necessary programming is provided whenever the behavior is needed, whether that is daily [e.g., training in bathing] or several times daily [e.g., feeding oneself]. It is not meant to include the need for continuous nursing services, continuous physical supports, continuous psychiatric or forensic services, continuous monitoring to prevent substance abuse, or other interventions that may also be provided on a continuous basis.)_
+  
+- Does the individual require aggressive and consistent programming in order to acquire new skills or maintain current ones? _("Aggressive" connotes the idea that staff will seek appropriate opportunities to provide the necessary programming and will not simply wait for the individual to ask for the needed service. "Consistent" suggests that a program must be administered in the same way by all staff, in all settings, at all times of the day.)_
+  
+- Does the individual require a program that includes specialized and generic training, treatment, health services and related services in order to acquire new skills or maintain current ones?
 
+- Is the person able to function generally in an independent way, if not provided with supervision?
+  
+- Is the person able to function generally in an independent way, if not provided with active treatment?
+</details>
+  
 ## Alzheimer's Disease
 Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die. Alzheimer's disease is the most common cause of [dementia](#dementia) — a gradual decline in memory, thinking, behavior and social skills. These changes affect a person's ability to function. 
 
@@ -227,8 +240,17 @@ Critical Incidents are the alleged, suspected, or actual occurrence of an incide
 - **Peer-to-staff**: Acts committed by one individual against one or more staff members when there is physical abuse with intent to harm or verbal abuse with intent to intimidate, harass, or humiliate. In cases where one individual is clearly the aggressor, it is acceptable to make only one CIRAS entry in the name of the aggressor, listing the name(s) of the victim(s) in the narrative. However, if two or more people become involved in an altercation that meets this definition and the aggressor is identified as multiple individuals, a separate CIRAS report should be completed for each aggressor.
 - **Unauthorized restraint**: Any use of restraint beyond the provisions outlined in Appendix G of each Waiver. Refer to Illinois Mental Health and Developmental Disabilities Code for details. (See 405 ILCS 5/1-125 and 405 ILCS 5/2-108 for details.)
 - **Unknown injury**: Any injury of an unknown cause that is not considered possible abuse or neglect and that requires treatment that only a physician, physician's assistant, or nurse practitioner can provide. If the cause of the injury is known, follow instructions in KNOWN INJURY and/or MEDICAL EMERGENCY categories.
-- **Unscheduled hospitalizatio**: Any hospital admission that is not scheduled in advance. Hospitalization admissions that occur as a result of a "Medical emergency" or "911 call" should not be reported in this category but should be reported in the appropriate category.
+- **Unscheduled hospitalization**: Any hospital admission that is not scheduled in advance. Hospitalization admissions that occur as a result of a "Medical emergency" or "911 call" should not be reported in this category but should be reported in the appropriate category.
 </details>
+
+## [Critical Incident Reporting and Analysis System (CIRAS)](https://www.dhs.state.il.us/page.aspx?item=97101)
+[Division of Developmental Disabilities (DDD)](https://www.dhs.state.il.us/page.aspx?item=29761) has developed the Critical Incident Reporting and Analysis System (CIRAS) to capture electronic reports from ISC agencies as well as providers of certain incidents involving participants in the State's Medicaid Waiver programs for individuals with developmental disabilities. The types of incidents to be reported are listed and defined in the CIRAS Manual which is available on the DHS website. The DDD will use the information reported through CIRAS to:
+- Inform ISC agencies of potential issues involving the participants whose general health and well-being the ISCs are monitoring,
+- Ensure incidents are addressed appropriately, and
+- Analyze potential systemic issues and take steps to enhance overall system quality.
+   
+CIRAS is not a reporting system for alleged incidents of abuse, neglect, or exploitation. Alleged cases of abuse, neglect or exploitation should continue to be reported to the Department of Human Services' Office of the Inspector General (OIG), Department of Children and Family Services (DCFS), Department on Aging / Adult Protective Services (APS), and/or Department of Public Health as appropriate and required in accordance with the type of service involved.  
+As ISCs are informed of critical incidents, they will be the primary responder, will perform the appropriate follow-up and notify the Division of its findings. The ISC agencies are also CIRAS incident reporters. Being a reporter will allow ISC agencies to enter the incident in CIRAS, making the report complete a
 
 ## D
 ## Dementia
