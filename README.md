@@ -75,7 +75,7 @@ A continuous program for each individual that includes aggressive, consistent i
 - Does the individual require a program that includes specialized and generic training, treatment, health services and related services in order to acquire new skills or maintain current ones?
 
 - Is the person able to function generally in an independent way, if not provided with supervision?
-  
+   
 - Is the person able to function generally in an independent way, if not provided with active treatment?
 </details>
   
