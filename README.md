@@ -13,7 +13,7 @@ Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), incl
 It may also include necessary maintenance and repairs to adaptive equipment. Items reimbursed with Waiver funds are in addition to any medical equipment and supplies furnished under the Medicaid State Plan and exclude those items that are not of direct remedial benefit to the individual. All items shall meet applicable standards of manufacture, design, and installation.
 <details>
   <summary><strong> More Details </strong></summary>  
-  
+    
 - Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
 - Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
 - *Medical equipment and supplies are not considered adaptive equipment.*
@@ -66,8 +66,9 @@ A continuous program for each individual that includes aggressive, consistent i
 - "The acquisition of behaviors necessary for the individual to function with as much self-determination and independence as possible.
 - "The prevention or deceleration of regression or loss of current optimal functional status.
 - "Active treatment does not include services to maintain generally independent individuals who are able to function with little supervision or in the absence of a continuous active treatment program."
+  
 <details>
-<summary><strong> Guidelines on assessment regarding the individual's needs for active treatment: </strong></summary>
+  <summary><strong> Guidelines on assessment regarding the individual's needs for active treatment: </strong></summary>
   
 - Does the individual require continuous programming to acquire new skills or maintain current ones? _("Continuous" is considered to mean that the necessary programming is provided whenever the behavior is needed, whether that is daily [e.g., training in bathing] or several times daily [e.g., feeding oneself]. It is not meant to include the need for continuous nursing services, continuous physical supports, continuous psychiatric or forensic services, continuous monitoring to prevent substance abuse, or other interventions that may also be provided on a continuous basis.)_
   
@@ -78,6 +79,7 @@ A continuous program for each individual that includes aggressive, consistent i
 - Is the person able to function generally in an independent way, if not provided with supervision?
    
 - Is the person able to function generally in an independent way, if not provided with active treatment?
+  
 </details>
   
 ## Alzheimer's Disease
@@ -98,8 +100,9 @@ An assessment is a test or evaluation completed by a professional qualified in a
 ## Assistive Technology (53T)
 *__Note__: This service is available in all three waiver programs.*
 Assistive technology devices are items, pieces of equipment, or product systems, whether acquired commercially, modified, or customized, used to increase, maintain, or improve functional capabilities of individuals. Assistive technology services directly assist an individual in the selection, acquisition, or use of an assistive technology device. 
+  
 <details>
-<summary><strong> Assistive Technology includes </strong></summary> 
+  <summary><strong> Assistive Technology includes </strong></summary> 
   
 - Evaluation of the individual's assistive technology needs, including a functional evaluation of the impact of the provision of appropriate assistive technology and appropriate services to the individual in the customary environment of the individual.
 - Services consisting of purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices for individuals.
@@ -107,6 +110,7 @@ Assistive technology devices are items, pieces of equipment, or product systems,
 - Coordination and use of necessary therapies, interventions, or services with assistive technology devices, such as therapies, interventions, or services associated with other services in the Personal Plan.
 - Training or technical assistance for the individual, or, where appropriate, the family members, guardians, advocates, or authorized representatives of the individual.
 - Training or technical assistance for professionals or other persons who provide services to, employ, or are otherwise substantially involved in the major life functions of individuals.
+
 </details>
 
 ## B
@@ -157,8 +161,9 @@ CIE can only occur at integrated locations where employees with disabilities int
 ## Community Day Services (31C or 31U)
 Community Day Services (CDS) is a day program option provided under the waiver that provides assistance with gaining, maintaining or improving skills and functioning. Services can reinforce skills or lessons taught in other settings and may include training and supports to help prevent or slow regression.
 CDS (31C and 31U) takes place in a non-residential setting, separate from the individual's private residence or other residential living arrangement. It can be provided at a site certified by the Department (site based CDS) or in community locations where members of the general, non-disabled community typically congregate (non-site based).  
+
 <details>
-<summary><strong> CDS Activities </strong></summary> 
+  <summary><strong> CDS Activities </strong></summary> 
   
 CDS activities should promote greater independence and personal choice. Activities can include:
 - Increasing capacity for independent living through increasing skills including fine and gross motor skills, problem solving, safety skills, activities of daily living, and adaptive skills to support positive behavioral health.
@@ -180,6 +185,7 @@ CDS activities should promote greater independence and personal choice. Activiti
 - Vocational rehabilitation services which otherwise are available to the individual through a program funded under Section 110 of the Rehabilitation Act of 1973.
 Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
 Includes transportation between the residence and other community locations where day services occur. The cost of this transportation is included in the rate paid to providers of Community Day Services. Training and assistance in transportation usage are provided as needed. Services provided in community locations where members of the general community typically congregate (non-site based) will begin billing once the individual or group reaches the site of the first planned activity of the day and end when leaving the last activity planned for the day. If going to a community location, the provider does not need to first meet at a site based CDS location.
+
 </details>
   
 ## Community Reporting System (CRS)
@@ -187,8 +193,9 @@ The PC-based system designed to be used for collecting and submitting required d
 
 ## Community Integrated Living Arrangement (CILA)  
 A living arrangement provided to Adult Waiver individuals in a group home, family home or apartment where eight or fewer unrelated adults with developmental disabilities reside under supervision of the community developmental services agency. Residents receive a comprehensive individualized array of residential habilitation, personal support services and supports under the direction of a community support team within the local agency.  
- <details>
-<summary><strong> Three CILA Models </strong></summary> 
+
+<details>
+  <summary><strong> Three CILA Models </strong></summary> 
 
 - **Twenty-Four Hour CILA (60D)**
 These homes have on-site shift staff available during all times when individuals are present. Staff provide both scheduled and unscheduled supports and services as needed by individuals.
@@ -200,6 +207,7 @@ These homes have on-site shift staff available during all times when individuals
     *The difference between Standard and Comprehensive models is shift employees routinely share supervision, care and training responsibilities with the host family care giver(s) in the Comprehensive model.*
 - **Intermittent CILA (61H, 62H or 63H)**
 Typically serves individuals whose Personal Plan documents they do not require 24-hour, on-site staff presence and documents the situations in which individuals may safely be away from direct staff supervision. 24-hour, on-site staffing is not funded through Intermittent CILA. Intermittent Residential services in apartments or family homes have staff available on call 24 hours per day. On-call staff are available to provide both scheduled and unscheduled supports and services as needed by the individuals served and as specified in each individual's [Personal Plan](#personal-plan-pp).  
+  
 </details>
 
 ## Community Living Facility (CLF)
@@ -215,8 +223,9 @@ The care involved and the gradual return to health after an acute illness. To be
 ## Counseling (Individual and Group) (57U or 57G)  
 *Note: This service is available only in the Adult Waiver.*
 Counseling is a treatment approach in which a licensed professional meets with one or more individuals in ongoing periodic formal sessions and uses relationship skills to promote the individuals' abilities to deal with daily living issues associated with their emotional, cognitive, or behavioral problems using a variety of supportive and re-education techniques.  
+
 <details>
-<summary><strong> More Details </strong></summary> 
+  <summary><strong> More Details </strong></summary> 
   
 The Personal Plan must include documentation of the individual's need for counseling and services.
 A counseling strategy must be developed and approved in writing by the individual and/or guardian, if applicable. This plan should include:
@@ -234,12 +243,14 @@ Counseling includes:
 Group counseling includes sessions in which the counselor meets with two or more individuals to address their individual goals identified in their individualized counseling plans.  
 Counseling can be provided to individuals who are temporarily absent from, but will be returning to, their residential setting (SNF, Hospital, etc.) as long as the current temporary provider (SNF, Hospital, etc.) approves the counseling service to be provided in their location, the service is being provided and supporting documentation is maintained. Location of the service should be part of the supporting documentation.  
 Since each counselor must enroll in IMPACT to provide services to waiver participants, billing for services must be done under the provider who provided the service.
+  
 </details>
 
 ## Critical Incidents (CI)
 Critical Incidents are the alleged, suspected, or actual occurrence of an incident when there is reason to believe the health or safety of an individual may be adversely affected or an individual may be placed at a reasonable risk of harm. CIRAS reports do not include abuse, neglect, or exploitation incidents. These allegations should continue to be reported to the appropriate agency; Department of Human Services' Office of the Inspector General (OIG), Department of Children and Family Services (DCFS), Department on Aging / Adult Protective Services (APS), and/or Department of Public Health (IDPH).
+
 <details>
-<summary><strong> Critical incidents are defined below </strong></summary> 
+  <summary><strong> Critical incidents are defined below </strong></summary> 
   
 - **911 Call**: All calls to 911 for emergency personnel response that do not fit into any other category. Calls for emergency response that are initiated by persons receiving supports from the provider agency should be included here, even if they are later determined to be inappropriate. A description of the reason for the call should be included in the narrative. Calls to 911 for medical emergencies should be reported as "Medical emergency".
 - **Deaths**: Deaths of participants who receive services while living in their own or family's home. Deaths of participants residing in residential settings are not reported as part of this data process since they are reported to OIG as per Rule 50.
@@ -252,6 +263,7 @@ Critical Incidents are the alleged, suspected, or actual occurrence of an incide
 - **Unauthorized restraint**: Any use of restraint beyond the provisions outlined in Appendix G of each Waiver. Refer to Illinois Mental Health and Developmental Disabilities Code for details. (See 405 ILCS 5/1-125 and 405 ILCS 5/2-108 for details.)
 - **Unknown injury**: Any injury of an unknown cause that is not considered possible abuse or neglect and that requires treatment that only a physician, physician's assistant, or nurse practitioner can provide. If the cause of the injury is known, follow instructions in KNOWN INJURY and/or MEDICAL EMERGENCY categories.
 - **Unscheduled hospitalization**: Any hospital admission that is not scheduled in advance. Hospitalization admissions that occur as a result of a "Medical emergency" or "911 call" should not be reported in this category but should be reported in the appropriate category.
+  
 </details>
 
 ## [Critical Incident Reporting and Analysis System (CIRAS)](https://www.dhs.state.il.us/page.aspx?item=97101)
