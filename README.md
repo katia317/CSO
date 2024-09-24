@@ -305,6 +305,9 @@ The local office (under the Department of Human Services/Division of Family & Co
 Company contracted by the State to help individuals using Home-Based Services hire Personal Support Workers, completing the payroll function for individually hired PSWs. F/EAs can assist with background checks, payroll taxes, completing paperwork, and paying workers out of your budgets. In Illinois, the F/EAs is ACES$ (Avenues to Consumer Employer Services and $supports).
 
 ## G
+## General Maladaptive Index Score (GMI)
+One essential category of ICAP/SIB Score Information (need update)
+
 ## [Governor's Office of Management and Budget (GOMB)](https://budget.illinois.gov/)
 The Governor's Office of Management and Budget prepares the Governor's annual State budget and advises the Governor on the availability of revenues and the allocation of those resources to agency programs.
 
