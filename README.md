@@ -22,9 +22,8 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
  ## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
 <details>
-<summary><strong> More Details </strong></summary> 
-  
-  ### *Categories of Adaptive Skills:*
+<summary><strong> Categories of Adaptive Skills </strong></summary> 
+ 
   - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
     - *Examples: Talking, listening, following instructions, writing.*
   - **Social Skills**: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
