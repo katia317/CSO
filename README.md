@@ -64,7 +64,7 @@ Illinois' comprehensive health insurance program for children. The program cover
 A continuous program for each individual that includes aggressive, consistent implementation of a program for specialized and generic training, treatment, health services and related services that are directed toward:
 - "The acquisition of behaviors necessary for the individual to function with as much self-determination and independence as possible.
 - "The prevention or deceleration of regression or loss of current optimal functional status.
-- "Active treatment does not include services to maintain generally independent individuals who are able to function with little supervision or in the absence of a continuous active treatment program." 42 Code of Federal Regulations Chapter IV [10-1-96 Edition](https://www.dhs.state.il.us/page.aspx?item=97101), Section 483.440 (a).
+- "Active treatment does not include services to maintain generally independent individuals who are able to function with little supervision or in the absence of a continuous active treatment program."
 <details>
 <summary><strong> Guidelines on assessment regarding the individual's needs for active treatment: </strong></summary>
   
