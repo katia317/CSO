@@ -62,6 +62,9 @@ Illinois' comprehensive health insurance program for children. The program cover
 
 ## Active Treatment (AT) for Individuals with a Developmental Disability  
 A continuous program for each individual that includes aggressive, consistent implementation of a program for specialized and generic training, treatment, health services and related services that are directed toward:
+- "The acquisition of behaviors necessary for the individual to function with as much self-determination and independence as possible.
+- "The prevention or deceleration of regression or loss of current optimal functional status.
+- "Active treatment does not include services to maintain generally independent individuals who are able to function with little supervision or in the absence of a continuous active treatment program." 42 Code of Federal Regulations Chapter IV [10-1-96 Edition], Section 483.440 (a).
 
 ## Alzheimer's Disease
 Alzheimer's disease is a brain disorder that gets worse over time. It's characterized by changes in the brain that lead to deposits of certain proteins. Alzheimer's disease causes the brain to shrink and brain cells to eventually die. Alzheimer's disease is the most common cause of [dementia](#dementia) — a gradual decline in memory, thinking, behavior and social skills. These changes affect a person's ability to function. 
