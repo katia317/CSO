@@ -41,6 +41,7 @@ The practical, everyday skills that individuals need to function effectively and
     - *Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.*
   - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
     - *Examples: Telling time, counting change, reading a menu or instructions.*
+      
 </details>
 
 
