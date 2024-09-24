@@ -119,6 +119,16 @@ Behavior intervention and treatment includes a variety of individualized, behavi
 - Progress is closely monitored with detailed data collection  
 [See *VI. Waiver Activities and Services/E. Professional Services* for More details](https://www.dhs.state.il.us/page.aspx?item=144898)
 
+## Bogard Consent Decree
+Bogard class members are defined in the modified Bogard Consent Decree, Page 1, Section A., as *"all persons 18 years of age or older, with developmental disabilities, who, on or after March 23, 1986, resided in an Intermediate Care Facility or Skilled Nursing Facility in Illinois as a Medicaid recipient for a period of more than 120 days in the aggregate. No person first admitted to an Intermediate Care Facility or a Skilled Nursing Facility on or after April 1, 1994, can be a member of the class."* Bogard class members are designated by the Department of Human Services/Division of Developmental Disabilities.
+  
+Class members receive a specific form of case coordination directly related to their residential setting. These class members live in nursing facilities, nontraditional DD settings such as State Operated Mental Health Centers, shelter care homes, their own or family homes, apartments without DD services, and State Operated Developmental Centers. Bogard class members who are receiving waiver services such as Community Integrated Living Arrangements (CILA), Community Day Services (CDS) or Home-Based Support Services (HBS) as well as class members living in an Intermediate Care Facility for Persons with Developmental Disabilities (ICF/DD), not including State-Operated Developmental Centers, receive Individual Service and Support Advocacy. (For a description of ISSA, see Section 9 of this Manual.)
+  
+It is expected that Bogard class members develop new skills and maintain existing ones through specialized services or active treatment, receive adaptive equipment as appropriate, live in appropriate community-based residential settings if they so choose, and receive case coordination on a regular basis.
+  
+Independent Service Coordination (ISC) agency staff serve as the case coordinator for Bogard class members and are required to be a Qualified Intellectual Disabilities Professional (QIDP).
+See [ISC Manual - Section 10: Bogard Consent Decree](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc34) for more information
+  
 ## Brain Stem Level Functioning
 The individual is unable to control any part of or function of a bodily part from below the bottom of the brain stem. The individual may or may not have control of his or her respiratory system.
 
