@@ -16,11 +16,13 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
   
 - Examples of **covered adaptive equipment** include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
 - Examples of items that are **not covered under adaptive equipment** are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
-- *Medical equipment and supplies are not considered adaptive equipment.*  
-</details>
+- *Medical equipment and supplies are not considered adaptive equipment.*
   
- ## Adaptive Skills 
+</details>
+
+## Adaptive Skills 
 The practical, everyday skills that individuals need to function effectively and independently in their daily lives. These skills allow people to manage personal care, navigate social situations, and handle various tasks at home, work, or in the community. They are particularly important for individuals with developmental or intellectual disabilities, as developing adaptive skills can help them achieve greater independence and improve their quality of life.
+  
 <details>
 <summary><strong> Categories of Adaptive Skills </strong></summary>  
    
