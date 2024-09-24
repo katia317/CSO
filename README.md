@@ -404,7 +404,7 @@ A document, created by service providers or the Employer of Record, that describ
 ## Independent Service Coordination Agency (ISC)
 As the case management entity, ISCs maintain the DDD's waiting list, determine clinical eligibility, assist with identifying providers of choice, develop the Personal Plan, and monitor the implementation of the Plan. ISCs serve as the front line for information and assistance to help individuals and families make informed choices and to navigate the system. The Division currently funds 8 ISC agencies in 12 regions across the state.
 
-## Individualized Education Program (IEP) 
+## [Individualized Education Program (IEP)](https://www.dhs.state.il.us/page.aspx?item=36328)  
 An Individualized Education Program is a plan that describes the special education instruction, supports, and services that students with disabilities are legally entitled to receive.  An IEP is developed by school staff members, the student's parents/guardians and the student (when appropriate). The required contents of an IEP are determined by the student's needs and age as well as federal and state laws.  
   <details>
 <summary><strong> More Details </strong></summary>  
