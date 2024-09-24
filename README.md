@@ -1,4 +1,4 @@
-# CSO-PEDIA     *by KYang*
+# CSO-PEDIA     *by Kw*
 ### Created for reference only
 
 ### Jump to:
