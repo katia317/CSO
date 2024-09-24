@@ -404,6 +404,24 @@ A document, created by service providers or the Employer of Record, that describ
 ## Independent Service Coordination Agency (ISC)
 As the case management entity, ISCs maintain the DDD's waiting list, determine clinical eligibility, assist with identifying providers of choice, develop the Personal Plan, and monitor the implementation of the Plan. ISCs serve as the front line for information and assistance to help individuals and families make informed choices and to navigate the system. The Division currently funds 8 ISC agencies in 12 regions across the state.
 
+## Individualized Education Program (IEP) 
+An Individualized Education Program is a plan that describes the special education instruction, supports, and services that students with disabilities are legally entitled to receive.  An IEP is developed by school staff members, the student's parents/guardians and the student (when appropriate). The required contents of an IEP are determined by the student's needs and age as well as federal and state laws.  
+  <details>
+<summary><strong> More Details </strong></summary>  
+The public agency must ensure that the IEP Team for each child with a disability includes:  
+- The parents of the child
+- Not less than one regular education teacher of the child (if the child is, or may be, participating in the regular education environment)
+- Not less than one special education teacher of the child, or where appropriate, not less than one special education provider of the child
+- A representative of the public agency (who has certain specific knowledge and qualifications)
+- An individual who can interpret the instructional implications of evaluation results and who may also be one of the other listed members
+- At the discretion of the parent or the agency, other individuals who have knowledge or special expertise regarding the child, including related services personnel as appropriate
+- Whenever appropriate, the child with a disability  
+    
+In accordance with 34 CFR 300.321(a)(7), the public agency must invite a child with a disability to attend the child’s IEP Team meeting if a purpose of the meeting will be the consideration of the postsecondary goals for the child and the transition services needed to assist the child in reaching those goals under 34 CFR 300.320(b). [34 CFR 300.321(a) and (b)(1)] [20 U.S.C. 1414(d)(1)(B)]  
+  
+Parents are crucial in the special education process and the language of IDEA highlights this point. As the above indicates, many students also participate in their own IEP’s, particularly as they begin to plan transition. This is a very important way for students to build self-advocacy skills. Families can choose to bring others to the IEP with them. It’s important, however, to be courteous and notify the school of additional participants ahead of time. Some parents/guardians want a friend there for moral support and to take notes. Some choose to bring another person who knows the student and can contribute to the information used to develop a plan. Advocates are also sometimes invited by families to help them in the IEP process. It is at the IEP meeting that the IEP team decides how to implement the IEP.
+</details>
+
 ## Individual Service and Support Advocacy (ISSA)
 Service coordination or case management to persons who are enrolled in a DD Home and Community Based Service Waiver and to Bogard class members who live in an ICF/DD. Through the provision of ISSA, the ISC monitors whether services are being provided as outlined in the person's Plan as well as monitors the person's welfare, health and safety. ISCs also ensure continued eligibility for DD Waiver services.
 
