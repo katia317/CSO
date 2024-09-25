@@ -6,11 +6,6 @@
 [H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p)  
 [Q](#q)  [R](#r)  [S](#s)  [T](#t)  [V](#v)
 
-<details>
-  <summary><i>Wow, so fancy</i></summary>
-  <b>WOW, SO BOLD</b>
-</details>
-
 ## A
 ## Adaptive Equipment (53E)
 *__Note__: This service is available in all three waiver programs.*  
@@ -30,22 +25,22 @@ The practical, everyday skills that individuals need to function effectively and
 <details>
   <summary><strong> Categories of Adaptive Skills </strong></summary>  
   
-  - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
-    - *Examples: Talking, listening, following instructions, writing.*
-  - **Social Skills**: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
-    - *Examples: Sharing, taking turns, problem-solving, making friends, handling conflict.*
-  - **Self-Care Skills**: Basic tasks related to personal hygiene, health, and grooming.
-    - *Examples: Dressing, bathing, brushing teeth, toileting.*
-  - **Home Living Skills**: Abilities needed to manage a household and perform daily domestic activities.
-    - *Examples: Cooking, cleaning, laundry, managing household chores.*
-  - **Work Skills**: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.
-    - *Examples: Punctuality, completing tasks, following instructions, teamwork.*
-  - **Leisure Skills**: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.
-    - *Examples: Playing games, participating in sports, crafting, reading.*
-  - **Health and Safety Skills**: Knowledge and actions that ensure personal well-being and safety in various environments.
-    - *Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.*
-  - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
-    - *Examples: Telling time, counting change, reading a menu or instructions.*
+  - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.  
+    - *Examples: Talking, listening, following instructions, writing.*  
+  - **Social Skills**: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.  
+    - *Examples: Sharing, taking turns, problem-solving, making friends, handling conflict.*  
+  - **Self-Care Skills**: Basic tasks related to personal hygiene, health, and grooming.  
+    - *Examples: Dressing, bathing, brushing teeth, toileting.*  
+  - **Home Living Skills**: Abilities needed to manage a household and perform daily domestic activities.  
+    - *Examples: Cooking, cleaning, laundry, managing household chores.*  
+  - **Work Skills**: Skills that help an individual function in a job setting, including following schedules and interacting with coworkers or supervisors.   
+    - *Examples: Punctuality, completing tasks, following instructions, teamwork.*  
+  - **Leisure Skills**: Engaging in hobbies and recreational activities, managing free time, and pursuing personal interests.  
+    - *Examples: Playing games, participating in sports, crafting, reading.*  
+  - **Health and Safety Skills**: Knowledge and actions that ensure personal well-being and safety in various environments.  
+    - *Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.*  
+  - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.  
+    - *Examples: Telling time, counting change, reading a menu or instructions.*  
   </details>
 
 ## Adult Day Care (ADC) (35U)
