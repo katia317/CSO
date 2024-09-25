@@ -6,6 +6,11 @@
 [H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p)  
 [Q](#q)  [R](#r)  [S](#s)  [T](#t)  [V](#v)
 
+<details>
+  <summary><i>Wow, so fancy</i></summary>
+  <b>WOW, SO BOLD</b>
+</details>
+
 ## A
 ## Adaptive Equipment (53E)
 *__Note__: This service is available in all three waiver programs.*  
