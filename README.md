@@ -29,7 +29,7 @@ The practical, everyday skills that individuals need to function effectively and
   
 <details>
   <summary><strong> Categories of Adaptive Skills </strong></summary>  
-   
+  
   - **Communication Skills**: The ability to understand and express language, both verbally and non-verbally, to communicate needs and ideas.
     - *Examples: Talking, listening, following instructions, writing.*
   - **Social Skills**: Behaviors that facilitate positive interactions with others, including understanding social cues, building relationships, and managing emotions.
@@ -46,8 +46,7 @@ The practical, everyday skills that individuals need to function effectively and
     - *Examples: Knowing when to call for help, understanding traffic rules, avoiding hazards.*
   - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.
     - *Examples: Telling time, counting change, reading a menu or instructions.*
-      
-</details>
+  </details>
 
 ## Adult Day Care (ADC) (35U)
 Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
