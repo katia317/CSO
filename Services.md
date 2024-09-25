@@ -1,7 +1,7 @@
 ## Catalog
 [1. Residential Habilitation Services](#1.residential-habilitation-services)
 
-# Individual Service and Support Advocacy (ISSA) (51 A-L)  
+## Individual Service and Support Advocacy (ISSA) (51 A-L)  
 Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:  
 1. Living at home and are receiving intermittent support services through Community Integrated Living Arrangement (CILA) or Home Based Services;
 2. In a variety of community-based residential settings, including CILA, Community Living Facilities (CLF) and Child Group Homes.
@@ -9,7 +9,7 @@ Individual Service and Support Advocacy (ISSA) is service coordination or case m
    
 ISSA is also provided to Bogard class members who live in an ICF/DD. Through the provision of ISSA, the ISC represents the Department's interests in determining whether program services are being provided as outlined in the Personal Plan as well as monitoring the person's welfare, health and safety. ISSA is not optional; individuals, guardians or families must not refuse ISSA.
   
-# 1. Residential Habilitation Services
+## 1. Residential Habilitation Services
 _**Note**: These services are available, based on need, to individuals who request the service and meet the priority population criteria for residential services._
   
 Residential habilitation means individually tailored supports that assist with the acquisition, retention, or improvement in skills related to living in the community.
