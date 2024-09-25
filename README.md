@@ -445,8 +445,8 @@ Individual Service and Support Advocacy (ISSA) is service coordination or case m
   
 ISSA is also provided to Bogard class members who live in an [ICF/DD](#intermediate-care-facility-for-individuals-with-a-developmental-disability-icfdd). Through the provision of ISSA, the ISC represents the Department's interests in determining whether program services are being provided as outlined in the Personal Plan as well as monitoring the person's welfare, health and safety. ISSA is not optional; individuals, guardians or families must not refuse ISSA.
   
-See _Section 9: Individual Service and Support Advocacy_ of the [ISC Manual](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc27) for more details.  
-[Click to see Individual Service & Support Advocacy (ISSA) Visiting Notes Interpretive Guidelines](https://www.dhs.state.il.us/page.aspx?item=67738)
+- See _**Section 9: Individual Service and Support Advocacy**_ of the [ISC Manual](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc27) for more details.
+- **[Individual Service & Support Advocacy (ISSA) Visiting Notes Interpretive Guidelines](https://www.dhs.state.il.us/page.aspx?item=67738)**
 
 ## Individual Support Plan (ISP)
 A document that prioritizes and structures the delivery of all services (including generic and Medicaid State Plan) and supports across environments. The document should include relevant and timely assessment information, including individual preferences, abilities and needs. The Plan must be based on principles of community inclusion and self-determination and includes functional goals and methods to measure progress toward those goals. ISPs are developed for individuals in ICFs/DD and other non-waiver settings.
