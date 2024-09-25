@@ -81,3 +81,28 @@ _Community Day Services **does not** include the following:_
 2. Vocational rehabilitation services which otherwise are available to the individual through a program funded under Section 110 of the Rehabilitation Act of 1973.
 Providers of this service must maintain documentation which supports the billing for the services being provided. The documentation should include start time, stop time, location service was provided, description of service, and outcome.
 Includes transportation between the residence and other community locations where day services occur. The cost of this transportation is included in the rate paid to providers of Community Day Services. Training and assistance in transportation usage are provided as needed. Services provided in community locations where members of the general community typically congregate (non-site based) will begin billing once the individual or group reaches the site of the first planned activity of the day and end when leaving the last activity planned for the day. If going to a community location, the provider does not need to first meet at a site based CDS location.
+
+## 2.2 Virtual Day Service (31V)
+a. Virtual Day Service is a non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
+b. Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
+The following are examples of VDS Programming:  
+- Activities related to the development of hobbies or leisure/cultural interests or to promote personal health and wellness (e.g. yoga class, meditation group, etc.).
+- Activities related to training and education for self-determination and self-advocacy.
+- Activities that encourage interaction among individuals who do not reside together.
+- Activities that encourage discussion of current events.
+- Activities that encourage exploration of the individual's community.
+  
+c. Virtual Setting
+  - VDS providers are limited to Community Day Service providers certified by the Bureau of Accreditation, Licensure and Certification (BALC)
+  - VDS providers, regardless of their location, use video to provide VDS services. The individual must be located where they are able to effectively participate in the scheduled activities with as few distractions as possible.
+  - If needed, VDS providers should develop audio options or include closed captioning with video to accommodate individuals whose disabilities impair their ability to participate by video alone, such as individuals with vision or hearing-impairments.
+  - VDS must be an interactive and/or active learning environment.
+  - Use of video-teleconference software can include Microsoft's Skype, Adobe's Connect, Google's Hangout or Classroom, WebEx, Go-to-Meeting, Zoom, etc.
+  - The individual and VDS provider must have the hardware (computer, tablet or cell phone with video capability with speakers and microphone or headset, etc.) and video-teleconference software required for the communication to be two-way and real-time.
+  - A VDS facilitator must always be present during active programming.
+  - A guest speaker is authorized as long as a VDS facilitator is present and leading/moderating the program.
+  - VDS can be provided to no more than 10 individuals per activity unless the programming is enhanced by additional people. Examples of situations where more than 10 participants might be appropriate include exercise classes where interpersonal communication is not involved or gameplay sessions where "teams" of individuals are playing against one another. As a general rule, if the session envisions or requires direct communication between participants and the leader, no more than 10 individuals are allowed.
+    
+d. Service Limits
+  - VDS hours are included in the annual maximum of 1,200 hours, monthly maximum of 115, and 5 hour daily maximum for any combination of day programs.
+  - VDS is limited to 45 hours per month and 520 hours per year.
