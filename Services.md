@@ -1,3 +1,6 @@
+## Catalog
+[1. Residential Habilitation Services](#1.residential-habilitation-services)
+
 # Individual Service and Support Advocacy (ISSA) (51 A-L)  
 Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:  
 1. Living at home and are receiving intermittent support services through Community Integrated Living Arrangement (CILA) or Home Based Services;
