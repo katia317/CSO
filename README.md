@@ -438,7 +438,15 @@ Parents are crucial in the special education process and the language of IDEA hi
 </details>
 
 ## Individual Service and Support Advocacy (ISSA)
-Service coordination or case management to persons who are enrolled in a DD Home and Community Based Service Waiver and to Bogard class members who live in an ICF/DD. Through the provision of ISSA, the ISC monitors whether services are being provided as outlined in the person's Plan as well as monitors the person's welfare, health and safety. ISCs also ensure continued eligibility for DD Waiver services.
+Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:
+- Living at home and are receiving intermittent support services through Community Integrated Living Arrangement (CILA) or Home Based Services;
+- In a variety of community-based residential settings, including CILA, Community Living Facilities (CLF) and Child Group Homes.
+- Receiving Community Day Services (CDS).  
+  
+ISSA is also provided to Bogard class members who live in an [ICF/DD](#intermediate-care-facility-for-individuals-with-a-developmental-disability-icfdd). Through the provision of ISSA, the ISC represents the Department's interests in determining whether program services are being provided as outlined in the Personal Plan as well as monitoring the person's welfare, health and safety. ISSA is not optional; individuals, guardians or families must not refuse ISSA.
+  
+See _Section 9: Individual Service and Support Advocacy_ of the [ISC Manual](https://www.dhs.state.il.us/page.aspx?item=115416#a_toc27) for more details.
+[Click to see Individual Service & Support Advocacy (ISSA) Visiting Notes Interpretive Guidelines](https://www.dhs.state.il.us/page.aspx?item=67738)
 
 ## Individual Support Plan (ISP)
 A document that prioritizes and structures the delivery of all services (including generic and Medicaid State Plan) and supports across environments. The document should include relevant and timely assessment information, including individual preferences, abilities and needs. The Plan must be based on principles of community inclusion and self-determination and includes functional goals and methods to measure progress toward those goals. ISPs are developed for individuals in ICFs/DD and other non-waiver settings.
