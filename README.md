@@ -15,8 +15,8 @@ It may also include necessary maintenance and repairs to adaptive equipment. Ite
   <summary><strong> More Details </strong></summary>
   
   * Examples of <b>covered adaptive equipment</b> include reachers; grabbers; voice-activated, motion-activated, and electronic devices; and specialized computer/communication software. Lift chair mechanisms, communication devices, and mobility devices may be covered if not covered by the Medicaid State Plan.  
-  * Examples of items that are <b>not covered under adaptive equipment</b> are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.
-  * <i>Medical equipment and supplies are not considered adaptive equipment.</i>
+  * Examples of items that are <b>not covered under adaptive equipment</b> are furniture, recreational or quality of life items, such as televisions, stereos, radios, fitness equipment, microwave ovens, and other general appliances.  
+  * <i>Medical equipment and supplies are not considered adaptive equipment.</i>  
 </details>
 
 ## Adaptive Skills 
