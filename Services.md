@@ -8,7 +8,8 @@
   
 **[2. Community Day Service Programs and Other Day Program Services]**  
   [2.1 Community Day Services (31C or 31U)](#21-community-day-services-31c-or-31u)  
-  [2.2 Virtual Day Service (31V)](#22-virtual-day-service-31v)  
+  [2.2 Virtual Day Service (31V)](#22-virtual-day-service-31v) 
+  [2.3 Supported Employment Program (SEP) (33G, 36G, or 36U)](#23-supported-employment-program-sep-33g-36g-or-36u)
 
 ## Individual Service and Support Advocacy (ISSA) (51 A-L)  
 Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:  
