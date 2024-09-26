@@ -1,15 +1,15 @@
 ## Catalog
 **[1. Residential Habilitation Services](#1-residential-habilitation-services)**  
-  [1.1 Community-Integrated Living Arrangement (CILA)](#11-community-integrated-living-arrangement-cila)  
-  [1.2 Community Living Facility (CLF) (67D)](#12-community-living-facility-clf-67d)  
-  [1.3 Temporary or Long-Term Intensive Staffing (53D or 53R)](#13-temporary-or-long-term-intensive-staffing-53d-or-53r)  
-  [1.4 Enhanced Residential (formerly At-Home) Day Program (37U)](#14-enhanced-residential-formerly-at-home-day-program-37u)  
-  [1.5 Child Group Home (17D)](#15-child-group-home-17d)  
+    [1.1 Community-Integrated Living Arrangement (CILA)](#11-community-integrated-living-arrangement-cila)  
+    [1.2 Community Living Facility (CLF) (67D)](#12-community-living-facility-clf-67d)  
+    [1.3 Temporary or Long-Term Intensive Staffing (53D or 53R)](#13-temporary-or-long-term-intensive-staffing-53d-or-53r)  
+    [1.4 Enhanced Residential (formerly At-Home) Day Program (37U)](#14-enhanced-residential-formerly-at-home-day-program-37u)  
+    [1.5 Child Group Home (17D)](#15-child-group-home-17d)  
   
 **[2. Community Day Service Programs and Other Day Program Services](#2-community-day-service-programs-and-other-day-program-services)**  
-  [2.1 Community Day Services (31C or 31U)](#21-community-day-services-31c-or-31u)  
-  [2.2 Virtual Day Service (31V)](#22-virtual-day-service-31v) 
-  [2.3 Supported Employment Program (SEP) (33G, 36G, or 36U)](#23-supported-employment-program-sep-33g-36g-or-36u)
+    [2.1 Community Day Services (31C or 31U)](#21-community-day-services-31c-or-31u)  
+    [2.2 Virtual Day Service (31V)](#22-virtual-day-service-31v)   
+    [2.3 Supported Employment Program (SEP) (33G, 36G, or 36U)](#23-supported-employment-program-sep-33g-36g-or-36u)
 
 ## Individual Service and Support Advocacy (ISSA) (51 A-L)  
 Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:  
