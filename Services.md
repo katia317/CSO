@@ -1,5 +1,5 @@
 ## Catalog
-[1. Residential Habilitation Services](#1.residential-habilitation-services)
+[1. Residential Habilitation Services](#1-residential-habilitation-services)
 
 ## Individual Service and Support Advocacy (ISSA) (51 A-L)  
 Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:  
@@ -56,7 +56,6 @@ Enhanced Residential Day Program requires prior approval. See [X. Service Author
 ## 1.5 Child Group Home (17D)
 Available to Children's Residential Waiver individuals and is a residential program licensed by the Department of Children and Family Services (DCFS) to serve no more than 10 children per group home. Child Group Home services are individually tailored supports that assist with the acquisition, retention, or improvement in skills related to living in the community. Child Group Homes are designed to provide a structured environment and a range of habilitative and therapeutic services to children and adolescents who cannot reside in their own home.
 
-
 # 2. Community Day Service Programs and Other Day Program Services
 _**Note**: These services are available only in the Adult Waiver Program._
 
@@ -87,7 +86,9 @@ Includes transportation between the residence and other community locations wher
 
 ## 2.2 Virtual Day Service (31V)
 a. Virtual Day Service is a non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
+  
 b. Virtual Day Services (31V) may take place in an individual's private residence, a residential setting owned, operated or controlled by a provider agency, or any other setting where the individual is able to connect virtually with an electronic device and participate in the programming.  
+  
 The following are examples of VDS Programming:  
 - Activities related to the development of hobbies or leisure/cultural interests or to promote personal health and wellness (e.g. yoga class, meditation group, etc.).
 - Activities related to training and education for self-determination and self-advocacy.
@@ -109,3 +110,67 @@ c. Virtual Setting
 d. Service Limits
   - VDS hours are included in the annual maximum of 1,200 hours, monthly maximum of 115, and 5 hour daily maximum for any combination of day programs.
   - VDS is limited to 45 hours per month and 520 hours per year.
+
+## 2.3 Supported Employment Program (SEP) (33G, 36G, or 36U)
+The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of [**Competitive Integrated Employment**](#competitive-integrated-employment-cie).
+  
+Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.
+All individuals approved for the Home and Community Based Support (HCBS) Waiver for Adults with Developmental Disabilities may access the Supported Employment Program with prior approval. 
+  
+Requests will only be considered for individuals who meet the following criteria:
+  
+- enrolled in the Adults with [Developmental Disabilities HCBS Waiver](#home-and-community-based-services-waivers-hcbs); and
+- require supportive services to work in an integrated employment environment; and
+- have a defined, related and ongoing/long term employment support need identified in his or her Personal Plan (Career and Income section); and
+- currently employed, either individually or in group employment, at competitive wages and in an integrated setting; and
+- supported within the proper ratio.
+  
+Requests to activate Supported Employment Program funding must follow the Division of Developmental Disabilities' prior approval process.
+  
+The expected outcome of the Supported Employment Program is _sustained Competitive Integrated Employment that is well matched to the individuals' interests, strengths, priorities, schedules and preferences as outlined in the Personal Plan, Implementation Strategies and related documentation such as Individualized Plans for Employment and Individual Placement Plans._
+  
+_**Supported Employment Program activities may include, but are not limited to:**_
+- onsite job coaching / training / supervision
+- assistance in maintaining employer training requirements
+- support during performance evaluations or in resolving on the job concerns
+- facilitated problem solving
+- assistance in learning, or improving performance on, existing or new responsibilities
+- assistance in seeking a transfer or promotion
+- assistance in seeking accommodations or adaptations
+- assistance in maintaining self-employment through operation of a personal business
+  
+_The Supported Employment Program **does not** include support, services or payments for:_
+- sheltered work or subminimum wage activities
+- unpaid vocational training, volunteerism or general soft skill employment curriculum delivery
+- work that occurs in non-integrated settings
+- employment that in any way does not meet the standard of Competitive Integrated Employment
+- work activities that unnaturally isolate or segregate individuals with disabilities from the broader community
+- defraying the expenses associated with starting up or operating a business
+- supervisory activities rendered as a normal part of the business setting
+- stand-by time when employment support personnel are not actively engaged in supports.
+  
+The Supported Employment Program includes services and supports which may be provided on behalf of an individual with a disability. However, a direct service, benefiting the individual's sustained employment outcome, must be provided in order to bill the Supported Employment Program.
+
+**Transportation:** Individuals engaged in the Supported Employment Program are encouraged to utilize a variety of independent transportation options. Billing related to Supported Employment Program transportation may only occur if transportation training is included in both the Personal Plan and Implementation Strategies and when the transportation training is provided. The Supported Employment Program does not reimburse directly for discreet trips to and from work locations.
+  
+Agencies which provide and bill for Supported Employment Program services and supports must maintain records of the duration, nature and case specifics of employment supports
+  
+_**Permanent records of all individuals served in the Supported Employment Program must include:**_
+- Name of individual serve
+- Job title of individual serve
+- Hourly wage (or annual salary) of individual serve
+- Name and address of employee
+- Name of direct employer supervisor
+- Start and, if applicable, end dates of employment
+- Employer benefits (Paid time off, 401K, donation match, insurance)
+- Documentation of services funded by DR
+  
+_Daily records of all individuals served in the Supported Employment Program must be retained for **5 years** and include_
+- Date of support
+- Location(s) of support
+- Start and end time of support
+- Name of provider agency support staff
+- Description of the activities and nature of support provided which align to outcomes identified in the Personal Plan and Implementation Strategies
+- Staff signature and date (digital signature is acceptable)
+
+See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Supported Employment.
