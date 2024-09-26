@@ -1,6 +1,6 @@
 ## Catalog
 **[1. Residential Habilitation Services](#1-residential-habilitation-services)**  
-    [1.1 Community-Integrated Living Arrangement (CILA)](#11-community-integrated-living-arrangement-cila)  
+&nbsp;[1.1 Community-Integrated Living Arrangement (CILA)](#11-community-integrated-living-arrangement-cila)  
     [1.2 Community Living Facility (CLF) (67D)](#12-community-living-facility-clf-67d)  
     [1.3 Temporary or Long-Term Intensive Staffing (53D or 53R)](#13-temporary-or-long-term-intensive-staffing-53d-or-53r)  
     [1.4 Enhanced Residential (formerly At-Home) Day Program (37U)](#14-enhanced-residential-formerly-at-home-day-program-37u)  
