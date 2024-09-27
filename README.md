@@ -703,15 +703,22 @@ A comprehensive assessment of adaptive and maladaptive behavior used to determin
 
 ## Self-Direction Assistance (SDA) (55A)
 *__Note__: This service is available to individuals in the Children's Support Waiver and Adult Waiver Programs. The acronym SDA is used to describe the service (Self-Direction Assistance) as well as the provider agency staff (Self-Direction Assistant).*  
+  
 Self-Direction Assistance is a waiver service provided by a Self-Direction Assistant (SDA).  
+  
 Self-Direction Assistance assists the individual, guardian, if applicable, and/or family in arranging for, directing and managing Home Based Support services. It also offers practical skills training to enable individuals, guardian, if applicable, and/or families to independently direct and manage Waiver services. SDA includes providing information to ensure individuals understand the responsibilities involved with directing their services. SDA can assist the Employer of Record (EOR) with the process of timekeeping for PSWs, but they can't replace the responsibility of the EOR. In other words, the EOR must complete and sign the timesheets of the individual's PSW(s) and the SDA can review for accuracy and completion, but the SDA can't complete the timesheets on behalf of the EOR. Additionally, the SDA can't sign the timesheet in place of the EOR. If an SDA provider is also a PSW provider agency, the SDA provider can't provide the same services as the PSW provider agency. In this scenario, the SDA should not be assisting the individual, guardian, if applicable, and/or family with arranging for and directing PSW services because the PSW agency is already completing this process. SDA is only available to those in the [Home-Based Support Services (HBS)](#the-home-based-services-hbs) program and should not duplicate the services provided by the ISC.
+
+<details>  
+  <summary><strong> More Details </strong></summary> 
   
-SDA is an optional service, meaning individuals, guardians, if applicable, and/or families are not required to purchase this support. Provider agency staff fulfilling the role of the SDA are required to be Qualified Intellectual Disability Professionals (QIDPs). SDAs do not have a mandated set of services they are required to provide. If an individual, guardian, if applicable, and/or family desires or needs the support of an SDA, this must be documented in the Personal Plan, including the amount and frequency of services. The details of what SDAs provide to an individual, guardian, if applicable, and/or family must be based on the desired outcomes as well as the needs of the individual reflected in the Personal Plan. Services provided and billed must be within the description outlined in XII. Waiver Activity and Service Billing Guidance. All billable services must be agreed upon by the individual, guardian, if applicable, and/or family, as well as the SDA.
+  SDA is an optional service, meaning individuals, guardians, if applicable, and/or families are not required to purchase this support. Provider agency staff fulfilling the role of the SDA are required to be Qualified Intellectual Disability Professionals (QIDPs). SDAs do not have a mandated set of services they are required to provide. If an individual, guardian, if applicable, and/or family desires or needs the support of an SDA, this must be documented in the Personal Plan, including the amount and frequency of services. The details of what SDAs provide to an individual, guardian, if applicable, and/or family must be based on the desired outcomes as well as the needs of the individual reflected in the Personal Plan. Services provided and billed must be within the description outlined in XII. Waiver Activity and Service Billing Guidance. All billable services must be agreed upon by the individual, guardian, if applicable, and/or family, as well as the SDA.
   
-The cost of SDA services comes from the individual's monthly HBS allotment and must be reflected through an HBS Service Agreement. There is no monthly minimum for SDA. The maximum billable amount for an individual must remain within the monthly allotment. Providers may negotiate additional hours if necessary. SDA must be billed through the Reporting of Community Services (ROCS) using the bill code 55A. The most current rate can be found on the [DHS website](http://www.dhs.state.il.us/page.aspx?item=109260)
+  The cost of SDA services comes from the individual's monthly HBS allotment and must be reflected through an HBS Service Agreement. There is no monthly minimum for SDA. The maximum billable amount for an individual must remain within the monthly allotment. Providers may negotiate additional hours if necessary. SDA must be billed through the Reporting of Community Services (ROCS) using the bill code 55A. The most current rate can be found on the [DHS website](http://www.dhs.state.il.us/page.aspx?item=109260)
   
-Monthly notes, often referred to as Q or QIDP Notes, are not required when providing SDA services. SDA provider agencies must comply with the same timekeeping requirements as providers of other waiver services. They must document date, start time, stop time, individual served and service provided. This documentation must be maintained in the individual's record.  
-The [Self Direction Assistance Guidelines](https://www.dhs.state.il.us/page.aspx?item=93863) can be found online.  
+  Monthly notes, often referred to as Q or QIDP Notes, are not required when providing SDA services. SDA provider agencies must comply with the same timekeeping requirements as providers of other waiver services. They must document date, start time, stop time, individual served and service provided. This documentation must be maintained in the individual's record.  
+  
+  The [Self Direction Assistance Guidelines](https://www.dhs.state.il.us/page.aspx?item=93863) can be found online.  
+</details>
 
 ## Severe Mental Illness
 According to the Screening Assessment Rule (89 Illinois Administrative Code 140.642), an individual is considered to have a severe mental illness if he or she has one of the following diagnoses: schizophrenia; delusional disorder; schizoaffective disorder; psychotic disorder not otherwise specified; bipolar disorder I - mixed, manic, and depressed; bipolar disorder II; cyclothymic disorder; bipolar disorder not otherwise specified; major depression, recurrent; and due to his or her mental illness exhibits resulting substantial functional limitations. The functional limitation must be of an extended duration expected to be present for at least a year, which results in substantial limitation in major life activities affecting at least two of the following areas: i) self-maintenance; ii) social functioning; iii) community living activities; iv) work related skills.
@@ -748,36 +755,36 @@ The Supported Employment Program offers long-term services and supports that ena
 - *Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
 
 <details>  
-<summary><strong> More Details </strong></summary> 
+  <summary><strong> More Details </strong></summary> 
   
-All individuals approved for the Home and Community Based Support (HCBS) Waiver for Adults with Developmental Disabilities may access the Supported Employment Program with prior approval. Requests will only be considered for individuals who meet the following criteria:  
-1. enrolled in the Adults with Developmental Disabilities HCBS Waiver; and  
-2. require supportive services to work in an integrated employment environment; and  
-3. have a defined, related and ongoing/long term employment support need identified in his or her Personal Plan (Career and Income section); and  
-4. currently employed, either individually or in group employment, at competitive wages and in an integrated setting; and  
-5. supported within the proper ratio.  
+  All individuals approved for the Home and Community Based Support (HCBS) Waiver for Adults with Developmental Disabilities may access the Supported Employment Program with prior approval. Requests will only be considered for individuals who meet the following criteria:  
+  1. enrolled in the Adults with Developmental Disabilities HCBS Waiver; and  
+  2. require supportive services to work in an integrated employment environment; and  
+  3. have a defined, related and ongoing/long term employment support need identified in his or her Personal Plan (Career and Income section); and  
+  4. currently employed, either individually or in group employment, at competitive wages and in an integrated setting; and  
+  5. supported within the proper ratio.  
    Requests to activate Supported Employment Program funding must follow the Division of Developmental Disabilities' prior approval process.  
 The expected outcome of the Supported Employment Program is sustained Competitive Integrated Employment that is well matched to the individuals' interests, strengths, priorities, schedules and preferences as outlined in the Personal Plan, Implementation Strategies and related documentation such as Individualized Plans for Employment and Individual Placement Plans.
 
-*__Supported Employment Program activities may include, but are not limited to:__*
- - onsite job coaching / training / supervision
- - assistance in maintaining employer training requirements
- - support during performance evaluations or in resolving on the job concerns
- - facilitated problem solving
- - assistance in learning, or improving performance on, existing or new responsibilities
- - assistance in seeking a transfer or promotion
- - assistance in seeking accommodations or adaptations
- - assistance in maintaining self-employment through operation of a personal business
+  *__Supported Employment Program activities may include, but are not limited to:__*
+   - onsite job coaching / training / supervision
+   - assistance in maintaining employer training requirements
+   - support during performance evaluations or in resolving on the job concerns
+   - facilitated problem solving
+   - assistance in learning, or improving performance on, existing or new responsibilities
+   - assistance in seeking a transfer or promotion
+   - assistance in seeking accommodations or adaptations
+   - assistance in maintaining self-employment through operation of a personal business
    
-*__The Supported Employment Program does not include support, services or payments for:__*
-  - sheltered work or subminimum wage activities
-  - unpaid vocational training, volunteerism or general soft skill employment curriculum delivery
-  - work that occurs in non-integrated settings
-  - employment that in any way does not meet the standard of Competitive Integrated Employment
-  - work activities that unnaturally isolate or segregate individuals with disabilities from the broader community
-  - defraying the expenses associated with starting up or operating a business
-  - supervisory activities rendered as a normal part of the business setting
-  - stand-by time when employment support personnel are not actively engaged in supports.  
+  *__The Supported Employment Program does not include support, services or payments for:__*
+    - sheltered work or subminimum wage activities
+    - unpaid vocational training, volunteerism or general soft skill employment curriculum delivery
+    - work that occurs in non-integrated settings
+    - employment that in any way does not meet the standard of Competitive Integrated Employment
+    - work activities that unnaturally isolate or segregate individuals with disabilities from the broader community
+    - defraying the expenses associated with starting up or operating a business
+    - supervisory activities rendered as a normal part of the business setting
+    - stand-by time when employment support personnel are not actively engaged in supports.  
 </details>
 
 ## T
