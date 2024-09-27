@@ -840,9 +840,11 @@ Virtual Day Services may take place in an individual's private residence, a resi
 - VDS is limited to 45 hours per month and 520 hours per year.
 </details>
 
-## Vocational Rehabilitation Services (VRS) from DRS
+## [Vocational Rehabilitation Services (VRS) from DRS](https://www.dhs.state.il.us/page.aspx?item=29737)
 Vocational Rehabilitation Services help people with disabilities find and keep jobs. These services help people find jobs or get ready to work. They also make sure that people have the supports they need to stay on the job.  
-VR services can include:
+<details>
+  <summary><strong> More Details </strong></summary> 
+  VR services can include:
 - Applying for jobs
 - Identifying a desired job
 - Preparing for job interviews
@@ -854,4 +856,4 @@ DRS offers specialized VR services for people who are:
 - Blind or Visually Impaired
 - Deaf or Hard of Hearing
 - Hispanic or Latino with disabilities
-  
+</details>
