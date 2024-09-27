@@ -281,9 +281,6 @@ A condition that is characterized by impairment in short-term or long-term memor
 ## Determination Process of PAS
 The final phase in the PAS process. Based on the completed assessments, determinations are made on the individual's need for 24-hour nursing care and the need for active treatment related to the disability. The need for 24-hour nursing care and active treatment, along with the individual's age and level of disability, establish the options available to the individual for alternative residential support services. If warrented, the DD PAS agency will refer an individual to the local MHPAS agency for determination of the need for psychiatric rehabilitation services.
 
-## Dual Sensory Impairment
-Concomitant hearing and visual impairments. The combination of these impairments causes such severe communication, mobility, developmental, self-care, or work-related problems that the individual cannot be accommodated in programs solely for individuals who have a hearing or visual impairment. An individual is considered to have a visual impairment if unable to travel in and out of his/her own environment without assistance and, because of visual deficits, has reduced ability to see print.
-
 ## [Department of Children and Family Services (DCFS)](https://dcfs.illinois.gov/)
 State agency that is responsible for protecting children who are reported to be abused or neglected. DCFS also works to increase families' capacity to safely care for their children; provide for the well-being of children in their care; provide appropriate, permanent families as quickly as possible for those children who cannot safely return home; support early intervention and child abuse prevention activities.
 
@@ -299,6 +296,16 @@ An intellectual disability or related condition that is manifested before age 18
 ## Discovery Tool (DT)
 A document the ISC uses in the Person-Centered Planning process to gather information on what is important to and important for a person. The Tool addresses 10 life areas. It is designed to lead conversations about a person's preferences, strengths, needs, barriers, and risks that are present. This information is used to develop the Personal Plan.  
 [Click to see Discovery Tool Form (06/2017)](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/DiscoveryTool.pdf)
+
+## Direct Support Professionals (DSPs)
+A Direct Support Professional (DSP) is a skilled professional who helps people with intellectual and developmental disabilities (IDD) participate in their communities. DSPs help people with IDD become integrated into their communities and live self-directed lives. 
+  
+DSPs help people with IDD by: 
+- Providing emotional support
+- Assisting with activities of daily living, such as basic health and hygiene, mobility, and housekeeping
+- Helping with education, transportation, housing, and family services
+- Organizing and taking clients to community events
+- Tracking goals, behaviors, and daily logs 
   
 ## [Division of Developmental Disabilities (DDD)](https://www.dhs.state.il.us/page.aspx?item=29761)
 A Division within the Department of Human Services that provides services and supports for individuals with developmental disabilities and their families.
@@ -308,6 +315,9 @@ A Division within the Department of Human Services that serves at the State's Me
   
 ## [Division of Rehabilitation Services (DRS)](https://www.dhs.state.il.us/page.aspx?item=29764)
 A Division within the Department of Human Services that serves as the state's lead entity responsible for assisting individuals with disabilities to prepare for, locate and maintain employment. This Division also ensures that people with disabilities make informed choices to achieve full community participation through employment, education, and independent living opportunities.
+
+## Dual Sensory Impairment
+Concomitant hearing and visual impairments. The combination of these impairments causes such severe communication, mobility, developmental, self-care, or work-related problems that the individual cannot be accommodated in programs solely for individuals who have a hearing or visual impairment. An individual is considered to have a visual impairment if unable to travel in and out of his/her own environment without assistance and, because of visual deficits, has reduced ability to see print.
   
 ## E
 ## Enhanced Residential (formerly At-Home) Day Program (37U)
