@@ -725,6 +725,9 @@ A facility which provides skilled nursing care, continuous skilled nursing obser
 ## Skilled Nursing Facility for Pediatric Residents (SNF/PED)  
 A facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
 
+## [Social Security Disability Insurance (SSDI)](https://www.usa.gov/social-security-disability)  
+Social Security Disability Insurance pays monthly benefits to workers who are no longer able to work due to a significant illness or impairment that is expected to last at least a year or to result in death within a year. It is part of the Social Security program that also pays retirement benefits to the vast majority of older Americans. Benefits are based on the disabled worker’s past earnings and are paid to the disabled worker and to his or her dependent family members. To be eligible, a disabled worker must have worked in jobs covered by Social Security. In July 2017, 8.8 million disabled workers received benefits.
+
 ## Speech Therapy (ST) (52S)  
 Speech Therapy is a therapeutic intervention aimed at improving an individual's ability to communicate effectively, including addressing issues related to speech, language, voice, fluency, and swallowing. It is typically conducted by a licensed professional known as a *speech-language pathologist (SLP)* or *speech therapist*. The therapy helps individuals of all ages who may have difficulty with speaking, understanding language, or using their voice properly.
 
