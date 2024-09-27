@@ -844,13 +844,14 @@ Virtual Day Services may take place in an individual's private residence, a resi
 Vocational Rehabilitation Services help people with disabilities find and keep jobs. These services help people find jobs or get ready to work. They also make sure that people have the supports they need to stay on the job.  
 <details>
   <summary><strong> More Details </strong></summary> 
+  
   VR services can include:
 - Applying for jobs
 - Identifying a desired job
 - Preparing for job interviews
 - Answering questions about the job interview process
 - Paying for job training
-- Paying for school to prepare for a job 
+- Paying for school to prepare for a job
 
 DRS offers specialized VR services for people who are:  
 - Blind or Visually Impaired
