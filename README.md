@@ -842,6 +842,8 @@ Virtual Day Services may take place in an individual's private residence, a resi
 
 ## [Vocational Rehabilitation Services (VRS) from DRS](https://www.dhs.state.il.us/page.aspx?item=29737)
 Vocational Rehabilitation Services help people with disabilities find and keep jobs. These services help people find jobs or get ready to work. They also make sure that people have the supports they need to stay on the job.  
+In Illinois, the Division of Rehabilitation Services (DRS) runs the VR program using money from the federal government. People who receive Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI) benefits are usually eligible for VR, unless they are too disabled to benefit. 
+
 <details>
   <summary><strong> More Details </strong></summary> 
   
