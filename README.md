@@ -343,7 +343,7 @@ A Division within the Department of Human Services that serves as the state's le
 Concomitant hearing and visual impairments. The combination of these impairments causes such severe communication, mobility, developmental, self-care, or work-related problems that the individual cannot be accommodated in programs solely for individuals who have a hearing or visual impairment. An individual is considered to have a visual impairment if unable to travel in and out of his/her own environment without assistance and, because of visual deficits, has reduced ability to see print.
   
 ## E
-## Enhanced Residential (formerly At-Home) Day Program (37U)
+## [Enhanced Residential (formerly At-Home) Day Program (37U)](https://www.dhs.state.il.us/page.aspx?item=125456)
 Enhanced Residential Day Program is part of the residential habilitation program for Adult Waiver individuals and based in the individual's CILA home. Enhanced Residential Day Program provides a structured, individualized program of in-home and community habilitation activities for individuals who are unable to participate in traditional, out-of-home community day service programs because the individual:
 - Has an illness or medical condition(s) or severe maladaptive behavior(s) that prevent participation in a vocational or day habilitation programing;
 - Is over the age of 60 and declines to participate in traditional, out-of-home day habilitation programing;
