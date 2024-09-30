@@ -377,6 +377,10 @@ The Employer of Record is responsible for signing timesheets. They can't pass th
   
 ## Epilepsy
 A brain disease where nerve cells don’t signal properly, which causes seizures. Seizures are uncontrolled bursts of electrical activities that change sensations, behaviors, awareness and muscle movements. Although epilepsy can’t be cured, many treatment options are available. Up to 70% of people with epilepsy can manage the disease with medications. (Epilepsy in Chinese: 癫痫)  
+
+## [Equip for Equality](https://www.equipforequality.org/)
+Equip for Equality is a private not-for-profit legal advocacy organization designated by the governor to operate the federally mandated Protection and Advocacy System (P&A) to safeguard the rights of people with disabilities.  
+Equip for Equality is the only comprehensive statewide advocacy organization for people with disabilities and their families. All individuals with a disability (as defined by the ADA) in Illinois, of any age and living situation, are eligible for services, including but not limited to individuals in state-operated facilities, nursing homes, and community-based programs.
   
 ## F
 ## Family and Community Resource Center (FCRC)
