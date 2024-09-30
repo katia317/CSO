@@ -396,6 +396,13 @@ The Governor's Office of Management and Budget prepares the Governor's annual St
 A unit of the Governor's Office of Management and Budget that is tasked with administering the [Grant Accountability and Transparency Act (GATA)](https://gata.illinois.gov/).
 
 ## H  
+## Health Insurance Portability and Accountability Act (HIPAA)
+HIPAA, or the Health Insurance Portability and Accountability Act, is a federal law that protects health information and gives patients rights over their health records. HIPAA was passed by Congress in 1996 and has several purposes, including:  
+- **Protecting health information**: HIPAA establishes standards for protecting health information and limiting who can access it.  
+- **Providing health insurance coverage**: HIPAA allows people to keep their health insurance when they change or lose their jobs.  
+- **Reducing fraud and abuse**: HIPAA aims to reduce fraud and abuse in the healthcare system.  
+- **Setting standards for electronic billing**: HIPAA requires industry-wide standards for electronic billing and other healthcare processes.  
+  
 ## Home Accessibility Modifications (53H)
 *__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
 Home Accessibility Modifications include those physical adaptations to the private residence of the individual or the individual's family, required by the individual's personal plan, necessary to ensure the independence in the home and necessary repair to the adaptations.
@@ -427,7 +434,7 @@ Modifications to basements or attics are generally not included, due to safety c
 ## Home and Community-Based Services Waivers (HCBS)
 The HCBS Waivers fund services that prevent or delay living in a long-term care facility. Illinois operates three HCBS Waivers for people with intellectual and developmental disabilities: the Adult Waiver, the Children's Residential Waiver, and the Children's Support Waiver.
 
-## The Home-Based Services (HBS) 
+## Home-Based Services (HBS) 
 The Home-Based Services program is designed to enable participants to remain living in their family home or in the case of adults, a home of their own if feasible, while receiving services that support them to achieve their personal outcomes. The HBS program provides a monthly allocation that can be used to purchase services from authorized community agencies, or to pay for Personal Support Workers (PSW) who are directed by the individual or his/her designee.  
   
 HBS resources can be used to purchase direct services such as Community Day Services and employment services from community agencies enrolled in the Medicaid Waiver program. An organization must have an authorized Medicaid contract with the state in order to have HBS resources pay for program services. Programs offered by park districts, health clubs and community colleges do not meet this criteria and cannot be paid for directly through the HBS program. Both the Children's and Adult HBS programs permit hiring family members to perform PSW duties, though the Children's HBS program does not permit parents or other legally responsible adults to provide such services, while the Adult HBS program does permit this option. The Adult HBS program prohibits spouse's or children from providing PSW services. Community agencies may also offer PSW services on an hourly fee basis.
