@@ -767,13 +767,16 @@ A professional who is licensed or registered with the Illinois Department of Fin
 ## State Guardian, Office of  (OSG)
 A State entity authorized to serve as guardian for individuals who have a developmental disability (as well as for other individuals) and who require a guardian to address their personal, medical, residential, and/or financial service needs
 
+## [State-Operated Developmental Centers (SODC)](https://www.dhs.state.il.us/page.aspx?item=31359)  
+State-operated developmental centers are residential programs serving people with developmental disabilities who have severe medical and/or behavioral needs. DHS operates seven developmental centers one center that provides both mental health and developmental disability services.
+  
 ## Service Agreement
 An agreement completed between you and each service provider which defines the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. A unit is equal to a 15-minute period. Use the Home-Based Support Services (HBS) Service Agreement form [IL462-2029](https://www.dhs.state.il.us/onenetlibrary/12/documents/Forms/IL462-2029.pdf) to do this.
 
 ## Service Authorization
 A written document between you and an independently hired PSW outlining the terms of the services to be provided including the effective date, the rate of payment, the maximum units of service to be provided each month and the maximum monthly charge. Service Authorizations must be updated if there is a change in service and copies of the revised Service Authorization must be sent to the Fiscal/Employer Agent (F/EA). If you pay for Self-Direction Assistance (SDA) services, your SDA assist you or do this for you. If you do not use SDA services, you must do this yourself. F/EA, ACCES$, can help to support you if you have questions.
 
-## Supported Employment Program (SEP) (33G, 36G, or 36U)
+## [Supported Employment Program (SEP) (33G, 36G, or 36U)](https://www.dhs.state.il.us/page.aspx?item=159964)
 The Supported Employment Program offers long-term services and supports that enable individuals with disabilities to maintain Individual and Group employment that is consistent with the definition of Competitive Integrated Employment.  
 - *Employment environments must meet the requirements of the HCBS Settings rule and allow ample opportunity for the individual receiving services and supports to engage in routine interactions with customers, co-workers and other individuals who do not have disabilities.*  
 
