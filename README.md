@@ -396,7 +396,7 @@ The Governor's Office of Management and Budget prepares the Governor's annual St
 A unit of the Governor's Office of Management and Budget that is tasked with administering the [Grant Accountability and Transparency Act (GATA)](https://gata.illinois.gov/).
 
 ## H  
-## Health Insurance Portability and Accountability Act (HIPAA)
+## [Health Insurance Portability and Accountability Act (HIPAA)](https://hfs.illinois.gov/info/legal/hipaa.html)
 HIPAA, or the Health Insurance Portability and Accountability Act, is a federal law that protects health information and gives patients rights over their health records. HIPAA was passed by Congress in 1996 and has several purposes, including:  
 - **Protecting health information**: HIPAA establishes standards for protecting health information and limiting who can access it.  
 - **Providing health insurance coverage**: HIPAA allows people to keep their health insurance when they change or lose their jobs.  
