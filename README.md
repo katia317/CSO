@@ -481,7 +481,7 @@ In accordance with 34 CFR 300.321(a)(7), the public agency must invite a child w
 Parents are crucial in the special education process and the language of IDEA highlights this point. As the above indicates, many students also participate in their own IEP’s, particularly as they begin to plan transition. This is a very important way for students to build self-advocacy skills. Families can choose to bring others to the IEP with them. It’s important, however, to be courteous and notify the school of additional participants ahead of time. Some parents/guardians want a friend there for moral support and to take notes. Some choose to bring another person who knows the student and can contribute to the information used to develop a plan. Advocates are also sometimes invited by families to help them in the IEP process. It is at the IEP meeting that the IEP team decides how to implement the IEP.
 </details>
 
-## Individual Service and Support Advocacy (ISSA)
+## [Individual Service and Support Advocacy (ISSA)](https://www.svcincofil.org/issa/)
 Individual Service and Support Advocacy (ISSA) is service coordination or case management to persons who are enrolled in a DDD Home and Community Based Service Waiver. This will include some individuals who are:
 - Living at home and are receiving intermittent support services through Community Integrated Living Arrangement (CILA) or Home Based Services;
 - In a variety of community-based residential settings, including CILA, Community Living Facilities (CLF) and Child Group Homes.
@@ -494,6 +494,7 @@ ISSA is also provided to Bogard class members who live in an [ICF/DD](#intermedi
 
 ## Individual Support Plan (ISP)
 A document that prioritizes and structures the delivery of all services (including generic and Medicaid State Plan) and supports across environments. The document should include relevant and timely assessment information, including individual preferences, abilities and needs. The Plan must be based on principles of community inclusion and self-determination and includes functional goals and methods to measure progress toward those goals. ISPs are developed for individuals in ICFs/DD and other non-waiver settings.
+**[Click to see INDIVIDUAL SERVICE PLAN DEVELOPMENT AND IMPLEMENTATION.pdf](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/By_Division/Division%20of%20DD/DirectSupportPerson/Module5NotebookIndividualServicePlan.pdf)**
 
 ## Integrated Eligibility System (IES)
 Eligibility system for Medicaid, SNAP and Cash Assistance shared between DHS and HFS. The IES has two main components, ABE (the public facing application process) and the worker portal, in which eligibility decisions are made and maintained.
@@ -506,6 +507,7 @@ A facility which provides basic nursing care and other restorative services unde
 
 ## Intermediate Care Facility for Individuals with a Developmental Disability (ICF/DD)
 A facility of 3 or more individuals, or a distinct part of an ICF, which provides active treatment to individuals who have a developmental disability, and can provide a nursing facility level of care. These facilities are licensed by IDPH as ICFs/DD and are certified for Medicaid participation by HFS. When ICF/DD is used in this Manual, it includes intermediate care facilities for individuals with a developmental disability with a capacity of 16 or fewer individuals (ICF/DD-16) and Specialized Living Centers (SLCs).
+**[Click to see provider list](https://www.dhs.state.il.us/page.aspx?item=58023)**
 
 ## L
 ## Long-Term Care Facility for Individuals under age 22
@@ -523,6 +525,7 @@ Evaluates your eligibility to continue receiving Medicaid services. Requires you
 
 ## Medical Management Unit (MMU)
 An entity within the Department of Human Services/Division of Family & Community Services that was created to streamline the maintenance of medical only cases and more effectively manage the redeterminations. This office was created out of 2 existing Family and Community Resource Centers and replaces the services formerly provided by the Illinois Medicaid Redetermination Project.
+**[MMU Contact Info](https://www.dhs.state.il.us/page.aspx?item=98405&newssidebar=12448)**
 
 ## N
 ## Nursing (55N and 55P)
