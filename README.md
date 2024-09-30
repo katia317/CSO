@@ -141,10 +141,10 @@ The individual is unable to control any part of or function of a bodily part fro
 ## Cerebral Palsy (CP)
 A physical condition involving permanent tightening of the muscles that is caused by damage to the brain around or before the time of birth (in Chinese: 脑性麻痹,脑性瘫痪). 
 
-## Centers for Medicare and Medicaid Services (CMS)
+## [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/)
 A federal agency that administers the nation’s major healthcare programs, including Medicare, Medicaid, and the Children’s Health Insurance Program (CHIP).
 
-## Child Group Home (17D)
+## [Child Group Home (17D)](https://www.dhs.state.il.us/page.aspx?item=57219)
 Available to Children's Residential Waiver individuals and is a residential program licensed by the Department of Children and Family Services (DCFS) to serve no more than 10 children per group home. Child Group Home services are individually tailored supports that assist with the acquisition, retention, or improvement in skills related to living in the community. Child Group Homes are designed to provide a structured environment and a range of habilitative and therapeutic services to children and adolescents who cannot reside in their own home.
 
 ## Children's Support Waiver
