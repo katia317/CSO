@@ -6,6 +6,16 @@
 [H](#h)  [I](#i)  [L](#l)  [M](#m)  [N](#n)  [O](#o)  [P](#p)  
 [Q](#q)  [R](#r)  [S](#s)  [T](#t)  [V](#v)
 
+<details>
+  <summary><strong> Guidelines on assessment regarding the individual's needs for active treatment: </strong></summary>
+
+- **Bold Text:** This is bold text.
+- _Italic Text:_ This is italic text.
+- Paragraph:
+
+  This is a new paragraph inside the fold/unfold section.
+</details>
+
 ## A
 ## Adaptive Equipment (53E)
 *__Note__: This service is available in all three waiver programs.*  
