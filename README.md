@@ -8,6 +8,10 @@
 
 
 ## A
+
+## Adaptive Behavior Scale (ABS)
+A skill assessment used with people who have developmental disabilities.
+
 ## Adaptive Equipment (53E)
 *__Note__: This service is available in all three waiver programs.*  
 Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), includes performance of assessments to identify the type of equipment needed by the individual; devices, controls or appliances that enable individuals to increase their abilities to perform activities of daily living, or to perceive, control, access or communicate with the environment in which they live; other durable medical equipment not available under the Medicaid State Plan that is necessary to address individual functional limitations; and necessary initial training from the vendor to use the adaptive equipment.  
@@ -44,6 +48,9 @@ The practical, everyday skills that individuals need to function effectively and
   - **Functional Academics**: Using academic skills in practical contexts, such as reading signs, doing basic math, and using money.  
     - *Examples: Telling time, counting change, reading a menu or instructions.*  
   </details>
+
+## [Activities of Daily Living (ADL)](https://www.ncbi.nlm.nih.gov/books/NBK470404/#:~:text=The%20activities%20of%20daily%20living%20(ADLs)%20is%20a%20term%20used,.%5B1%5D%5B2%5D)
+A term used to collectively describe fundamental skills required to independently care for oneself, such as eating, bathing, and mobility.
 
 ## Adult Day Care (ADC) (35U)
 Adult day care is available to individuals who are **aged 60 and older**. Individuals who are not yet 60 may also be served if day habilitation or employment services are determined by the person-centered planning not to be appropriate because the individual is medically fragile.
