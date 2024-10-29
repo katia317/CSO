@@ -131,6 +131,9 @@ Behavior intervention and treatment includes a variety of individualized, behavi
 - Progress is closely monitored with detailed data collection  
 [See *VI. Waiver Activities and Services/E. Professional Services* for More details](https://www.dhs.state.il.us/page.aspx?item=144898)
 
+## Billing
+This term refers to the Medicaid reimbursement process through which services are funded based on the type of service and amount of time spent providing the service. 
+
 ## Bogard Consent Decree
 Bogard class members are defined in the modified Bogard Consent Decree, Page 1, Section A., as *"all persons 18 years of age or older, with developmental disabilities, who, on or after March 23, 1986, resided in an Intermediate Care Facility or Skilled Nursing Facility in Illinois as a Medicaid recipient for a period of more than 120 days in the aggregate. No person first admitted to an Intermediate Care Facility or a Skilled Nursing Facility on or after April 1, 1994, can be a member of the class."* Bogard class members are designated by the Department of Human Services/Division of Developmental Disabilities.
   
@@ -304,6 +307,9 @@ Critical incidents are defined below.
 - __Unknown injury__: Any injury of an unknown cause that is not considered possible abuse or neglect and that requires treatment that only a physician, physician's assistant, or nurse practitioner can provide. If the cause of the injury is known, follow instructions in KNOWN INJURY and/or MEDICAL EMERGENCY categories.
 - __Unscheduled hospitalization__: Any hospital admission that is not scheduled in advance. Hospitalization admissions that occur as a result of a "Medical emergency" or "911 call" should not be reported in this category but should be reported in the appropriate category.
 </details>
+
+## [Cardio-Pulmonary Resuscitation (CPR)](https://cpr.heart.org/en/resources/what-is-cpr)
+A medical technique used to restore breathing. An annual recertification is required for most employees.
   
 ## D
 ## Dementia
@@ -535,6 +541,10 @@ An entity within the Department of Human Services/Division of Family & Community
 **[MMU Contact Info](https://www.dhs.state.il.us/page.aspx?item=98405&newssidebar=12448)**
 
 ## N
+
+## [National Association of QDDPs (NAQ)](https://www.n-a-q.org/)
+An organization that provides networking opportunities, information, and education for QDDPs.
+  
 ## Nursing (55N and 55P)
 *__Note__: This service is available only in the Adult Waiver Program.*  
 Nursing services are available within the monthly maximum to Adult DD Waiver individuals who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs). Nursing services are in addition to any Medicaid State Plan nursing services for which the individual may qualify, must be listed in the personal plan, and be within the scope of the [Illinois Nursing and Advanced Practice Nursing Act (225 ILSC 65)](https://law.justia.com/codes/illinois/chapter-225/act-225-ilcs-65/article-65/).
@@ -558,6 +568,9 @@ A constellation of psychological or behavioral signs or symptoms due to presumed
 ## Omnibus Reconciliation Act (OBRA)
 A bill, first enacted in [1987](https://www.congress.gov/bill/100th-congress/house-bill/3545), to improve the quality of care in nursing homes for the health and safety of nursing home residents. This legislation significantly strengthened federal standards, inspections and enforcement of nursing home quality.
 
+## Outcome
+A Person-Centered Planning Outcome is a personalized, measurable goal that a person or their care partner identifies as important to them. Person-centered planning is a process that helps people achieve their outcomes by identifying their strengths, needs, and preferences. The outcomes are used to determine the services and supports the person needs to achieve their goals. 
+
 ## P
 ## [Person Centered Planning (PCP)](https://www.dhs.state.il.us/page.aspx?item=146107)
 A process to document the balance between what is important to a person and what is important for a person. It also identifies strengths, preferences, needs (both clinical and support needs) and risks to a person. In Illinois, it has 3 main parts: 1) [Discovery Tool](#discovery-tool-dt), 2) [Personal Plan](#personal-plan-pp), and 3) [Implementation Strategies](#implementation-strategy).  
@@ -566,6 +579,9 @@ A process to document the balance between what is important to a person and what
 A single, comprehensive personal vision for a person's life. This document is developed through a person-centered process and focuses on the individual's strengths, preferences, needs and desires. This Plan is developed by ISC agencies in conjunction with the individual, guardian, family, and providers. The Personal Plan contains desired outcomes, documents choices of qualified providers, reflects what is important to the person regarding delivery of services in a manner which ensures personal preferences, health and welfare. It must also include risk factors and plans to minimize them.  
 Personal Plan is required for **all individuals** in a DD Waiver program.  
   [Click to see **Personal Plan Guidelines.pdf**](https://www.dhs.state.il.us/OneNetLibrary/27896/documents/PersonalPlanGuidelines.pdf)
+  
+## PICA
+A diagnosis that describes people who have an obsession with putting things in their mouths which others, without this disability, would not. It is an eating disorder that involves eating items that are not typically thought of as food and that do not contain significant nutritional value, such as hair, dirt, and paint chips.
   
 ## Personal Support (PS) (55D)
 *__Note__: This service is available in the Adult Waiver and the Children's Support Waiver.*
@@ -739,6 +755,11 @@ a. Remote Support includes the use of video, audio, door and window monitoring d
 b. The type of equipment and where it is placed will depend upon the needs and wishes of the individual(s) and their guardian(s), if applicable, the layout and construction of the home, and the company selected by the individual(s) or guardian(s), if applicable, to provide the equipment. The installation of video/audio equipment in the home will be done at the direction of the individual(s). If the home is shared with others, the equipment will be installed in such a manner that it does not invade others' privacy. The remote device is controlled by the waiver individual and can be turned on or off as needed. Video equipment for remote support monitoring cannot be placed in invasive areas, such as bedrooms or bathrooms, in accordance with 42 CFR Section 441.301(c)(4)(iii) for 1915(c) and 42 CFR Section 441.710(a)(1)(iii) for 1915(i).
 c. Purchased or leased equipment, an initial installation fee, ongoing monthly rental charges and upkeep and maintenance of the devices are covered under this service.
   
+## [Respite](https://www.dhs.state.il.us/page.aspx?item=163600)
+Respite services are planned or unplanned care for a child or adult with a special need in order to provide temporary relief to the family caregiver of that child or adult. Services are provided to children and adults with intellectual/developmental disabilities (I/DD) who are not enrolled in or receiving any HCBS through any waivers operated by the Illinois Department of Human Services, Division of Developmental Disabilities (IDHS, DDD) or any other State Agency (Department on Aging, Division of Rehabilitation Services, Division of Specialized Care for Children, etc.).  
+  
+Respite services provide relief and reduce the stress of the regular caregiver of an individual with I/DD and help to maintain the individual in their home and reduce the need for long-term services and supports. Services are provided for a portion of the day while the caregiver(s) takes time for routine or special activities (i.e., vacations, shopping, recreation, family events or celebrations, and regular or emergency medical care, to name a few).
+
 ## Reporting of Community Services (ROCS)
 A computer-based system within the Community Reporting System that collects and processes service reporting data to DHS. This data is used by DHS to monitor services, supports and funding.
 
@@ -776,6 +797,13 @@ A facility which provides skilled nursing care, continuous skilled nursing obser
 
 ## Skilled Nursing Facility for Pediatric Residents (SNF/PED)  
 A facility which provides skilled nursing care to individuals generally under 22 years of age. These facilities are licensed by IDPH, and are certified by HFS.
+  
+## [Social Security Administration (SSA)](https://www.usa.gov/agencies/social-security-administration)
+The Federal government agency that provides oversight and regulation for all social security benefits (retirement, disability, SSI, Medicare, survivor benefits).
+  
+## [Supplemental Security Income (SSI)](https://www.ssa.gov/ssi)
+Eligibility for these funds in based on age (65 or older), disability, income and assets. Recipients are usually ineligible if their assets/income are over $1125.00 a month. If the client is legally blind, allowable assets are doubled to $2250.00.   
+Eligibility for SSI often means the recipient is eligible for food stamps and Medicaid as well.
 
 ## [Social Security Disability Insurance (SSDI)](https://www.usa.gov/social-security-disability)  
 Social Security Disability Insurance pays monthly benefits to workers who are no longer able to work due to a significant illness or impairment that is expected to last at least a year or to result in death within a year. It is part of the Social Security program that also pays retirement benefits to the vast majority of older Americans. Benefits are based on the disabled worker’s past earnings and are paid to the disabled worker and to his or her dependent family members. To be eligible, a disabled worker must have worked in jobs covered by Social Security. In July 2017, 8.8 million disabled workers received benefits.
@@ -845,6 +873,9 @@ For the Adult Waiver, this service is available to individuals who are authorize
 - No Temporary Assistance may be delivered during the typical school day relative to the age of the individual or during times when educational services are being provided.
   
 See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/page.aspx?item=144932) for prior approval requirements for Temporary Assistance.
+
+## Tardive Dyskinesia (TD)
+An irreversible condition which occurs as a result of long-term use of some psychotropic medications. Can cause tics or other movement disorders. 
   
 ## Temporary or Long-Term Intensive Staffing (53D or 53R)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
