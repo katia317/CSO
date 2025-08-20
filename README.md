@@ -877,10 +877,10 @@ See [X. Service Authorization and Prior Approval](https://www.dhs.state.il.us/pa
 ## Tardive Dyskinesia (TD)
 An irreversible condition which occurs as a result of long-term use of some psychotropic medications. Can cause tics or other movement disorders. 
   
-## Temporary or Long-Term Intensive Staffing (53D or 53R)
+## [Temporary or Long-Term Intensive Staffing (53D or 53R)](https://www.dhs.state.il.us/page.aspx?item=60671)
 Temporary or Long-Term Intensive Staffing provides funding for Adult Waiver individuals with additional staffing to provide temporary or long-term intensive supports for individuals receiving CILA or Community Day Service (CDS) who have a time-limited immediate or long-term need for intensive staffing. The staffing ratio for this service is provided on an individual (1:1) basis and the amount of support awarded is specified on the rate determination form. The individual requests the temporary or long-term option when applying for the service. This service requires prior approval.
 
-## Training and Counseling Services for Unpaid Caregivers (55B and 55C)
+## Training and Counseling Services for Unpaid Caregivers (55B and 55C)  
 *__Note__: These services are available in the Children's Support Waiver and Adult Waiver Programs.*
 These services are available within the monthly and yearly maximum to all Children's Support Waiver individuals and to Adult Waiver individuals who are authorized for [Home-Based Support Services (HBS)](#the-home-based-services-hbs).  
 - This service includes training and counseling services for individuals who provide unpaid support, training, companionship, or supervision to individuals.  
@@ -891,7 +891,7 @@ Training furnished to individuals who provide uncompensated care and support to 
 * *Caregivers who are compensated for direct services under this Waiver may not receive this service.*
   
 ## V
-## Vehicle Modifications (VM) (53V)  
+## [Vehicle Modifications (VM) (53V)](https://www.dhs.state.il.us/page.aspx?item=47514)  
 *__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*
 Vehicle Modifications are adaptations or alterations to an automobile or van that is the individual's primary means of transportation to accommodate the special needs of the individual.
 Vehicle adaptations are specified by the Personal Plan as necessary to enable the individual to integrate more fully into the community and to ensure the health, welfare, and safety of the individual. 
