@@ -1,4 +1,4 @@
-https://www.dhs.state.il.us/page.aspx?item=47514# CSO-PEDIA     *by Kw*
+# CSO-PEDIA     *by Kw*
 ### Created for reference only
 
 ### Jump to:
