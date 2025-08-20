@@ -8,10 +8,7 @@
 
 
 ## A
-
-## Adaptive Behavior Scale (ABS)
-A skill assessment used with people who have developmental disabilities.
-
+  
 ## Adaptive Equipment (53E)
 *__Note__: This service is available in all three waiver programs.*  
 Adaptive equipment, as specified in the [Personal Plan](#personal-plan-pp), includes performance of assessments to identify the type of equipment needed by the individual; devices, controls or appliances that enable individuals to increase their abilities to perform activities of daily living, or to perceive, control, access or communicate with the environment in which they live; other durable medical equipment not available under the Medicaid State Plan that is necessary to address individual functional limitations; and necessary initial training from the vendor to use the adaptive equipment.  
