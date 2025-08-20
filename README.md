@@ -896,16 +896,20 @@ Vehicle adaptations are specified by the Personal Plan as necessary to enable th
 <details>
 <summary><strong>Examples of Vehicle Modifications</strong></summary>
 
-    - Lifts or ramps
-    - Door modifications
-    - Seating modifications
-    - Safety/security modifications
-    - Inside height modifications
+<ul>
+  <li>Lifts or ramps</li>
+  <li>Door modifications</li>
+  <li>Seating modifications</li>
+  <li>Safety/security modifications</li>
+  <li>Inside height modifications</li>
+</ul>
 
-    The following modifications are specifically __excluded__ from coverage:  
-    - Adaptations or improvements...
-    - Purchase or lease of a vehicle
-    - Regularly scheduled upkeep...
+<p><strong>Excluded:</strong></p>
+<ul>
+  <li>Adaptations or improvements...</li>
+  <li>Purchase or lease of a vehicle</li>
+  <li>Regularly scheduled upkeep...</li>
+</ul>
 </details>
   
   
