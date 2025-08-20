@@ -1,4 +1,4 @@
-# CSO-PEDIA     *by Kw*
+https://www.dhs.state.il.us/page.aspx?item=47514# CSO-PEDIA     *by Kw*
 ### Created for reference only
 
 ### Jump to:
@@ -895,21 +895,22 @@ Training furnished to individuals who provide uncompensated care and support to 
 *__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*
 Vehicle Modifications are adaptations or alterations to an automobile or van that is the individual's primary means of transportation to accommodate the special needs of the individual.
 Vehicle adaptations are specified by the Personal Plan as necessary to enable the individual to integrate more fully into the community and to ensure the health, welfare, and safety of the individual. 
-<details>
-<summary><strong> Examples of Vehicle Modifications </strong></summary> 
   
-- Lifts or ramps
-- Door modifications
-- Seating modifications
-- Safety/security modifications
-- Inside height modifications
+<details>
+<summary><strong>Examples of Vehicle Modifications</strong></summary>
 
-The following modifications are specifically __excluded__ from coverage:  
-- Adaptations or improvements to the vehicle of general utility and are not of direct remedial benefit to the individual
-- Purchase or lease of a vehicle
-- Regularly scheduled upkeep and maintenance of a vehicle except upkeep and maintenance of the modifications.  
-The individual, a family member with whom the individual lives or has consistent and on-going contact, or a non-relative who provides primary long-term support to the individual and is not a paid provider of such services must own the adapted vehicle.  
+    - Lifts or ramps
+    - Door modifications
+    - Seating modifications
+    - Safety/security modifications
+    - Inside height modifications
+
+    The following modifications are specifically __excluded__ from coverage:  
+    - Adaptations or improvements...
+    - Purchase or lease of a vehicle
+    - Regularly scheduled upkeep...
 </details>
+  
   
 ## Virtual Day Service (VDS) (31V)
 A non-waiver service that assists with the acquisition, retention, or improvement in self-help, socialization and adaptive skills. It also assists to mitigate the risks individuals may experience from social isolation which include loneliness, skill atrophy, memory decline, personal hygiene deterioration and physical/mental health deterioration. VDS programming must be person-centered and take into consideration the individual's personal interests and needs.  
