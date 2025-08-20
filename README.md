@@ -889,10 +889,10 @@ Training furnished to individuals who provide uncompensated care and support to 
   
 ## V
 ## [Vehicle Modifications (VM) (53V)](https://www.dhs.state.il.us/page.aspx?item=47514)  
-*__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*
-Vehicle Modifications are adaptations or alterations to an automobile or van that is the individual's primary means of transportation to accommodate the special needs of the individual.
-Vehicle adaptations are specified by the Personal Plan as necessary to enable the individual to integrate more fully into the community and to ensure the health, welfare, and safety of the individual.  
-The individual, a family member with whom the individual lives or has consistent and on-going contact, or a non-relative who provides primary long-term support to the individual and is not a paid provider of such services must own the adapted vehicle.
+*__Note__: This service is available in the __Adult Waiver__ and the __Children's Support Waiver__.*  
+Vehicle Modifications are adaptations or alterations to an automobile or van that is the individual's primary means of transportation to accommodate the special needs of the individual.  
+Vehicle adaptations are specified by the Personal Plan as necessary to enable the individual to integrate more fully into the community and to ensure the health, welfare, and safety of the individual.    
+The individual, a family member with whom the individual lives or has consistent and on-going contact, or a non-relative who provides primary long-term support to the individual and is not a paid provider of such services must own the adapted vehicle.  
   
 <details>
 <summary><strong>Examples of Vehicle Modifications</strong></summary>
